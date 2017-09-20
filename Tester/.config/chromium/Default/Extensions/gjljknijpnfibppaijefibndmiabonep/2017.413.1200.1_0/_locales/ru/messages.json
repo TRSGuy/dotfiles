@@ -1,0 +1,281 @@
+{
+   "about": {
+      "message": "О программе"
+   },
+   "accept_terms": {
+      "message": "Принимаю. Продолжить"
+   },
+   "additional_detail": {
+      "message": "Дополнительные сведения:"
+   },
+   "audio_video_quality": {
+      "message": "Плохое качество изображения или звука"
+   },
+   "beta": {
+      "message": "БЕТА"
+   },
+   "bitrate": {
+      "message": "Текущий/максимальный битрейт:"
+   },
+   "chat_not_working": {
+      "message": "Голосовой чат не работает"
+   },
+   "close": {
+      "message": "Закрыть"
+   },
+   "comments": {
+      "message": "Комментарии:"
+   },
+   "configuring": {
+      "message": "Подождите пока \u003Cb>{fromDisplayName}\u003C/b> не пригласит вас в игру \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "configuringnodisplayname": {
+      "message": "Подождите пока ваш друг не пригласит вас в игру \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "connecting": {
+      "message": "Подключение к \u003Cb>{fromDisplayName}\u003C/b> для игры в \u003Cb>{gameTitle}\u003C/b> в качестве гостя."
+   },
+   "connectingnodisplayname": {
+      "message": "Подключение к вашему другу для игры в \u003Cb>{gameTitle}\u003C/b> в качестве гостя."
+   },
+   "controller_not_working": {
+      "message": "Совместное использование контроллера не работает"
+   },
+   "copyright": {
+      "message": "&copy; 2015 NVIDIA Corporation. Все права защищены."
+   },
+   "copyright2": {
+      "message": "Авторские права &copy; 2015 NVIDIA Corporation"
+   },
+   "disconnected": {
+      "message": "Сетевое подключение потеряно"
+   },
+   "errorTitle": {
+      "message": "Возникла проблема с плагином для трансляций..."
+   },
+   "external_license_agreement": {
+      "message": "Сторонние лицензионные соглашения"
+   },
+   "feedback": {
+      "message": "Отзыв"
+   },
+   "frame_rate": {
+      "message": "Частота кадров:"
+   },
+   "game_play_laggy": {
+      "message": "Игра тормозит"
+   },
+   "gameseatready": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> готов сыграть с вами в \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "gameseatreadynodisplayname": {
+      "message": "Ваш друг готов сыграть с вами в \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "initialize_decoder_error_title": {
+      "message": "Произошла ошибка №47430002."
+   },
+   "initialize_opengl_error_title": {
+      "message": "Произошла ошибка №47430001."
+   },
+   "invalid_sessionid": {
+      "message": "Сессия недействительна."
+   },
+   "invite_friend": {
+      "message": "Попросите друга прислать вам приглашение присоединиться к игре в качестве гостя. Вы можете играть вместе с другом, вместо него или просто наблюдать за игрой."
+   },
+   "join_game": {
+      "message": "Присоединиться к игре"
+   },
+   "legal_information": {
+      "message": " Юридическая информация"
+   },
+   "license_agreement": {
+      "message": "Лицензионное соглашение"
+   },
+   "loading": {
+      "message": "Загрузка компонентов системы."
+   },
+   "nacl_module_crash": {
+      "message": "Произошла ошибка №47439998."
+   },
+   "no_streamer_config": {
+      "message": "Не удалось найти конфигурацию стримера."
+   },
+   "no_webgl_browser_support": {
+      "message": "Для подключения и игры в качестве гостя WebGL должен быть включен."
+   },
+   "notice": {
+      "message": "Уведомления о сторонних приложениях и приложениях с открытым исходным кодом"
+   },
+   "notification_paused": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> приостановил \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "notification_pausednodisplayname": {
+      "message": "Ваш друг приостановил \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "nvb_evt_game_exited_by_user": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> прекратил делиться игрой \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_evt_game_exited_by_usernodisplayname": {
+      "message": "Ваш друг прекратил делиться игрой \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_evt_game_exited_unintentionally": {
+      "message": "Произошла ошибка №47430003."
+   },
+   "nvb_evt_session_expired": {
+      "message": "Достигнута максимальная длительность игры в \u003Cb>{gameTitle}\u003C/b> качестве гостя."
+   },
+   "nvb_evt_streaming_properties": {
+      "message": "Подключение к \u003Cb>{fromDisplayName}\u003C/b> для игры в \u003Cb>{gameTitle}\u003C/b> в качестве гостя"
+   },
+   "nvb_evt_streaming_propertiesnodisplayname": {
+      "message": "Подключение к вашему другу для игры в \u003Cb>{gameTitle}\u003C/b> в качестве гостя"
+   },
+   "nvb_r_auth_err_unauthorized_client": {
+      "message": "Приглашение от \u003Cb>{fromDisplayName}\u003C/b> сыграть в \u003Cb>{gameTitle}\u003C/b> в качестве гостя более не действительно."
+   },
+   "nvb_r_auth_err_unauthorized_clientnodisplayname": {
+      "message": "Приглашение от вашего друга сыграть в \u003Cb>{gameTitle}\u003C/b> в качестве гостя более не действительно."
+   },
+   "nvb_r_client_upgrade_required": {
+      "message": "Вы должны установить последнюю версию GeForce Experience, чтобы иметь возможность подключиться и играть в качестве гостя."
+   },
+   "nvb_r_network_error": {
+      "message": "Произошла ошибка сетевой связи №47430005."
+   },
+   "nvb_r_no_session_to_resume": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> прекратил делиться игрой \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_no_session_to_resumenodisplayname": {
+      "message": "Ваш друг прекратил делиться игрой \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_remote_user_response_timeout": {
+      "message": "Приглашение от \u003Cb>{fromDisplayName}\u003C/b> сыграть в \u003Cb>{gameTitle}\u003C/b> в качестве гостя истекло."
+   },
+   "nvb_r_remote_user_response_timeoutnodisplayname": {
+      "message": "Приглашение от вашего друга сыграть в \u003Cb>{gameTitle}\u003C/b> в качестве гостя истекло."
+   },
+   "nvb_r_server_out_of_service": {
+      "message": "Не удалось подключиться к вашему другу для игры в \u003Cb>{gameTitle}\u003C/b> в качестве гостя. Произошла ошибка №47430004."
+   },
+   "nvb_r_server_upgrade_required": {
+      "message": "Ваш друг \u003Cb>{fromDisplayName}\u003C/b> должен установить последнюю версию GeForce Experience, чтобы вы могли подключиться и играть в качестве гостя."
+   },
+   "nvb_r_session_no_longer_active": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> прекратил делиться игрой \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_session_no_longer_activenodisplayname": {
+      "message": "Ваш друг прекратил делиться игрой \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_session_request_rejected": {
+      "message": "Приглашение от \u003Cb>{fromDisplayName}\u003C/b> сыграть в \u003Cb>{gameTitle}\u003C/b> в качестве гостя было отменено."
+   },
+   "nvb_r_session_request_rejectednodisplayname": {
+      "message": "Приглашение от вашего друга сыграть в \u003Cb>{gameTitle}\u003C/b> в качестве гостя было отменено."
+   },
+   "nvb_r_streamer_connect_failed": {
+      "message": "Не удалось подключиться к вашему другу для игры в \u003Cb>{gameTitle}\u003C/b> в качестве гостя. Произошла ошибка №{hexcode}."
+   },
+   "nvb_r_streamer_network_error": {
+      "message": "Произошла ошибка сетевой связи №{hexcode}."
+   },
+   "nvb_r_unknown": {
+      "message": "Не удалось подключиться к \u003Cb>{fromDisplayName}\u003C/b> для игры в \u003Cb>{gameTitle}\u003C/b> в качестве гостя. Произошла ошибка №47430218."
+   },
+   "nvb_r_unknownnodisplayname": {
+      "message": "Не удалось подключиться к вашему другу для игры в \u003Cb>{gameTitle}\u003C/b> в качестве гостя. Произошла ошибка №47430218."
+   },
+   "open_share": {
+      "message": "Открыть Share"
+   },
+   "packet_loss": {
+      "message": "Потеря пакетов:"
+   },
+   "playing": {
+      "message": "Вы играете в \u003Cb>{gameTitle}\u003C/b> с \u003Cb>{fromDisplayName}\u003C/b>."
+   },
+   "playingNoDisplayName": {
+      "message": "Вы играете в \u003Cb>{gameTitle}\u003C/b> с вашим другом."
+   },
+   "privacy_policy": {
+      "message": "Политика конфиденциальности"
+   },
+   "rate": {
+      "message": "Оцените ваши впечатления от использования Stream:"
+   },
+   "read_software_lic_agreement": {
+      "message": "Прочтите внимательно следующее лицензионное соглашение NVIDIA."
+   },
+   "reconnect": {
+      "message": "Попытка повторного подключения…"
+   },
+   "send": {
+      "message": "Отправить"
+   },
+   "send_feedback": {
+      "message": "Отправить отзыв"
+   },
+   "shortcuts": {
+      "message": "Сочетания клавиш"
+   },
+   "skip": {
+      "message": "Пропустить"
+   },
+   "software_lic_agreement": {
+      "message": "Лицензионное соглашение NVIDIA"
+   },
+   "statistics": {
+      "message": "Статистика"
+   },
+   "stopTitle": {
+      "message": "Ваша сессия окончена."
+   },
+   "stopping": {
+      "message": "Остановка сессии..."
+   },
+   "stream": {
+      "message": "Stream"
+   },
+   "streaming_health": {
+      "message": "Состояние трансляции:"
+   },
+   "swiftshader_not_supported": {
+      "message": "Для подключения и игры в качестве гостя требуется модуль рендеринга OpenGL с ГП-ускорением."
+   },
+   "system_ready": {
+      "message": "Система готова к работе!"
+   },
+   "title": {
+      "message": "Подготовка сессии..."
+   },
+   "toggle_fullscreen": {
+      "message": "Переключиться между полноэкранным и оконным режимом"
+   },
+   "toggle_microphone": {
+      "message": "Выключить/включить микрофон"
+   },
+   "toggle_stats": {
+      "message": "Показать/скрыть статистику"
+   },
+   "troubleshooting_guide": {
+      "message": "Просмотр руководства по поиску и устранению неисправностей"
+   },
+   "unhandled_error": {
+      "message": "Произошла ошибка №47439999."
+   },
+   "version": {
+      "message": "Версия: $details$",
+      "placeholders": {
+         "details": {
+            "content": "$1",
+            "example": "2015.xxx.yyyy.1"
+         }
+      }
+   },
+   "watch_game": {
+      "message": "Смотреть игру"
+   },
+   "webgl_init_failed": {
+      "message": "Не удалось инициализировать WebGL."
+   }
+}

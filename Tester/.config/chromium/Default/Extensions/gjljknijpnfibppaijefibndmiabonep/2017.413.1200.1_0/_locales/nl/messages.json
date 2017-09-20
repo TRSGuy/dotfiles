@@ -1,0 +1,281 @@
+{
+   "about": {
+      "message": "Info"
+   },
+   "accept_terms": {
+      "message": "Instemmen en doorgaan"
+   },
+   "additional_detail": {
+      "message": "Extra detail:"
+   },
+   "audio_video_quality": {
+      "message": "Geluidskwaliteit/visuele kwaliteit is slecht"
+   },
+   "beta": {
+      "message": "BÈTA"
+   },
+   "bitrate": {
+      "message": "Huidige/maximale bitsnelheid:"
+   },
+   "chat_not_working": {
+      "message": "Voicechat werkt niet"
+   },
+   "close": {
+      "message": "Sluiten"
+   },
+   "comments": {
+      "message": "Opmerkingen:"
+   },
+   "configuring": {
+      "message": "Wachten op \u003Cb>{fromDisplayName}\u003C/b> om het delen van \u003Cb>{gameTitle}\u003C/b> met u te beginnen."
+   },
+   "configuringnodisplayname": {
+      "message": "Wachten op uw vriend om het delen van \u003Cb>{gameTitle}\u003C/b> met u te beginnen."
+   },
+   "connecting": {
+      "message": "Verbinding maken met \u003Cb>{fromDisplayName}\u003C/b> om \u003Cb>{gameTitle}\u003C/b> als gast te spelen."
+   },
+   "connectingnodisplayname": {
+      "message": "Verbinding maken met uw vriend om \u003Cb>{gameTitle}\u003C/b> als gast te spelen."
+   },
+   "controller_not_working": {
+      "message": "Controller delen werkt niet"
+   },
+   "copyright": {
+      "message": "&copy; 2015 NVIDIA Corporation, alle rechten voorbehouden."
+   },
+   "copyright2": {
+      "message": "Copyright &copy; 2015 NVIDIA Corporation"
+   },
+   "disconnected": {
+      "message": "Netwerkverbinding is verbroken"
+   },
+   "errorTitle": {
+      "message": "Plug-in streamen heeft een probleem ontdekt..."
+   },
+   "external_license_agreement": {
+      "message": "Licentieovereenkomsten derden"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "frame_rate": {
+      "message": "Framesnelheid:"
+   },
+   "game_play_laggy": {
+      "message": "Gameplay hapert"
+   },
+   "gameseatready": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> is klaar om \u003Cb>{gameTitle}\u003C/b> met u te spelen."
+   },
+   "gameseatreadynodisplayname": {
+      "message": "Uw vriend is klaar om \u003Cb>{gameTitle}\u003C/b> met u te spelen."
+   },
+   "initialize_decoder_error_title": {
+      "message": "Fout 47430002 is opgetreden."
+   },
+   "initialize_opengl_error_title": {
+      "message": "Fout 47430001 is opgetreden."
+   },
+   "invalid_sessionid": {
+      "message": "De sessie is ongeldig."
+   },
+   "invite_friend": {
+      "message": "Wacht tot een vriend u een uitnodiging stuurt en speel in-game mee met zijn of haar quest. U kunt samen met uw vriend spelen, als uw vriend spelen of gewoon toekijken terwijl uw vriend speelt."
+   },
+   "join_game": {
+      "message": "Deelnemen aan game"
+   },
+   "legal_information": {
+      "message": " Juridische informatie"
+   },
+   "license_agreement": {
+      "message": "Licentieovereenkomst"
+   },
+   "loading": {
+      "message": "Systeemcomponenten laden."
+   },
+   "nacl_module_crash": {
+      "message": "Fout 47439998 is opgetreden."
+   },
+   "no_streamer_config": {
+      "message": "Kan streamingconfiguratie niet vinden."
+   },
+   "no_webgl_browser_support": {
+      "message": "WebGL moet zijn ingeschakeld om verbinding te maken en als gast te spelen."
+   },
+   "notice": {
+      "message": "Meldingen van derden en open-sourcemeldingen"
+   },
+   "notification_paused": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> heeft \u003Cb>{gameTitle}\u003C/b> gepauzeerd"
+   },
+   "notification_pausednodisplayname": {
+      "message": "Uw vriend heeft \u003Cb>{gameTitle}\u003C/b> gepauzeerd"
+   },
+   "nvb_evt_game_exited_by_user": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> heeft het delen van \u003Cb>{gameTitle}\u003C/b> beëindigd."
+   },
+   "nvb_evt_game_exited_by_usernodisplayname": {
+      "message": "Uw vriend heeft het delen van \u003Cb>{gameTitle}\u003C/b> beëindigd."
+   },
+   "nvb_evt_game_exited_unintentionally": {
+      "message": "Fout 47430003 is opgetreden."
+   },
+   "nvb_evt_session_expired": {
+      "message": "De maximale toegestane tijd om \u003Cb>{gameTitle}\u003C/b> als gast te spelen is bereikt."
+   },
+   "nvb_evt_streaming_properties": {
+      "message": "Verbinding maken met \u003Cb>{fromDisplayName}\u003C/b> om \u003Cb>{gameTitle}\u003C/b> als gast te spelen"
+   },
+   "nvb_evt_streaming_propertiesnodisplayname": {
+      "message": "Verbinding maken met uw vriend om \u003Cb>{gameTitle}\u003C/b> als gast te spelen"
+   },
+   "nvb_r_auth_err_unauthorized_client": {
+      "message": "Uw uitnodiging van \u003Cb>{fromDisplayName}\u003C/b> om \u003Cb>{gameTitle}\u003C/b> als gast te spelen is niet langer actief."
+   },
+   "nvb_r_auth_err_unauthorized_clientnodisplayname": {
+      "message": "Uw uitnodiging van uw vriend om \u003Cb>{gameTitle}\u003C/b> als gast te spelen is niet langer actief."
+   },
+   "nvb_r_client_upgrade_required": {
+      "message": "U heeft de nieuwste versie van GeForce Experience nodig zodat u kunt aansluiten en als gast kunt spelen."
+   },
+   "nvb_r_network_error": {
+      "message": "Netwerkcommunicatiefout 47430005 is opgetreden."
+   },
+   "nvb_r_no_session_to_resume": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> heeft het delen van \u003Cb>{gameTitle}\u003C/b> beëindigd."
+   },
+   "nvb_r_no_session_to_resumenodisplayname": {
+      "message": "Uw vriend heeft het delen van \u003Cb>{gameTitle}\u003C/b> beëindigd."
+   },
+   "nvb_r_remote_user_response_timeout": {
+      "message": "Uw uitnodiging van \u003Cb>{fromDisplayName}\u003C/b> om \u003Cb>{gameTitle}\u003C/b> als gast te spelen is verlopen."
+   },
+   "nvb_r_remote_user_response_timeoutnodisplayname": {
+      "message": "Uw uitnodiging van uw vriend om \u003Cb>{gameTitle}\u003C/b> als gast te spelen is verlopen."
+   },
+   "nvb_r_server_out_of_service": {
+      "message": "Kan geen verbinding maken met uw vriend om \u003Cb>{gameTitle}\u003C/b> als gast te spelen. Fout 47430004 is opgetreden."
+   },
+   "nvb_r_server_upgrade_required": {
+      "message": "Uw vriend, \u003Cb>{fromDisplayName}\u003C/b>, heeft de nieuwste versie van GeForce Experience nodig zodat u kunt aansluiten en als gast kunt spelen."
+   },
+   "nvb_r_session_no_longer_active": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> heeft het delen van \u003Cb>{gameTitle}\u003C/b> beëindigd."
+   },
+   "nvb_r_session_no_longer_activenodisplayname": {
+      "message": "Uw vriend heeft het delen van \u003Cb>{gameTitle}\u003C/b> beëindigd."
+   },
+   "nvb_r_session_request_rejected": {
+      "message": "Uw uitnodiging van \u003Cb>{fromDisplayName}\u003C/b> om \u003Cb>{gameTitle}\u003C/b> als gast te spelen is geannuleerd."
+   },
+   "nvb_r_session_request_rejectednodisplayname": {
+      "message": "Uw uitnodiging van uw vriend om \u003Cb>{gameTitle}\u003C/b> als gast te spelen is geannuleerd."
+   },
+   "nvb_r_streamer_connect_failed": {
+      "message": "Kan geen verbinding maken met uw vriend om \u003Cb>{gameTitle}\u003C/b> als gast te spelen. Fout {hexcode} is opgetreden."
+   },
+   "nvb_r_streamer_network_error": {
+      "message": "Netwerkcommunicatiefout {hexcode} is opgetreden."
+   },
+   "nvb_r_unknown": {
+      "message": "Kan geen verbinding maken met \u003Cb>{fromDisplayName}\u003C/b> om \u003Cb>{gameTitle}\u003C/b> als gast te spelen. Fout 47430218 is opgetreden."
+   },
+   "nvb_r_unknownnodisplayname": {
+      "message": "Kan geen verbinding maken met uw vriend om \u003Cb>{gameTitle}\u003C/b> als gast te spelen. Fout 47430218 is opgetreden."
+   },
+   "open_share": {
+      "message": "Share openen"
+   },
+   "packet_loss": {
+      "message": "Verlies pakketten:"
+   },
+   "playing": {
+      "message": "U speelt \u003Cb>{gameTitle}\u003C/b> met \u003Cb>{fromDisplayName}\u003C/b>."
+   },
+   "playingNoDisplayName": {
+      "message": "U speelt \u003Cb>{gameTitle}\u003C/b> met uw vriend."
+   },
+   "privacy_policy": {
+      "message": "Privacybeleid"
+   },
+   "rate": {
+      "message": "Beoordeel uw ervaring met streamen:"
+   },
+   "read_software_lic_agreement": {
+      "message": "Lees de volgende NVIDIA softwarelicentieovereenkomst aandachtig door."
+   },
+   "reconnect": {
+      "message": "Bezig met proberen opnieuw aan te sluiten..."
+   },
+   "send": {
+      "message": "Verzenden"
+   },
+   "send_feedback": {
+      "message": "Feedback verzenden"
+   },
+   "shortcuts": {
+      "message": "Snelkoppelingen toetsenbord"
+   },
+   "skip": {
+      "message": "Overslaan"
+   },
+   "software_lic_agreement": {
+      "message": "NVIDIA softwarelicentieovereenkomst"
+   },
+   "statistics": {
+      "message": "Statistiek"
+   },
+   "stopTitle": {
+      "message": "Uw sessie is beëindigd."
+   },
+   "stopping": {
+      "message": "Uw sessie stoppen..."
+   },
+   "stream": {
+      "message": "Stream"
+   },
+   "streaming_health": {
+      "message": "Gezondheid streaming:"
+   },
+   "swiftshader_not_supported": {
+      "message": "Een GPU-versnelde OpenGL-bemonstering is vereist om te verbinden en als gast te spelen."
+   },
+   "system_ready": {
+      "message": "Uw systeem is gereed!"
+   },
+   "title": {
+      "message": "Uw sessie voorbereiden..."
+   },
+   "toggle_fullscreen": {
+      "message": "Schakelen tussen volledige schermmodus/venstermodus"
+   },
+   "toggle_microphone": {
+      "message": "Microfoon onderdrukken in-/uitschakelen"
+   },
+   "toggle_stats": {
+      "message": "Statistieken weergeven/verbergen"
+   },
+   "troubleshooting_guide": {
+      "message": "Handleiding probleemoplossing bekijken"
+   },
+   "unhandled_error": {
+      "message": "Fout 47439999 is opgetreden."
+   },
+   "version": {
+      "message": "Versie $details$",
+      "placeholders": {
+         "details": {
+            "content": "$1",
+            "example": "2015.xxx.yyyy.1"
+         }
+      }
+   },
+   "watch_game": {
+      "message": "Naar game kijken"
+   },
+   "webgl_init_failed": {
+      "message": "Initialiseren WebGL is mislukt."
+   }
+}

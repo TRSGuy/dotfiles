@@ -1,0 +1,281 @@
+{
+   "about": {
+      "message": "Acerca de"
+   },
+   "accept_terms": {
+      "message": "Concordar e continuar"
+   },
+   "additional_detail": {
+      "message": "Detalhes adicionais:"
+   },
+   "audio_video_quality": {
+      "message": "A qualidade da imagem/áudio é fraca"
+   },
+   "beta": {
+      "message": "BETA"
+   },
+   "bitrate": {
+      "message": "Velocidade de transmissão máx./actual:"
+   },
+   "chat_not_working": {
+      "message": "Chat de voz não está a funcionar"
+   },
+   "close": {
+      "message": "Fechar"
+   },
+   "comments": {
+      "message": "Comentários:"
+   },
+   "configuring": {
+      "message": "A aguardar por \u003Cb>{fromDisplayName}\u003C/b> para iniciar a partilha de \u003Cb>{gameTitle}\u003C/b> consigo."
+   },
+   "configuringnodisplayname": {
+      "message": "A aguardar que o seu amigo inicie a partilha de \u003Cb>{gameTitle}\u003C/b> consigo."
+   },
+   "connecting": {
+      "message": "A ligar a \u003Cb>{fromDisplayName}\u003C/b> para jogar \u003Cb>{gameTitle}\u003C/b> como convidado."
+   },
+   "connectingnodisplayname": {
+      "message": "A ligar ao seu amigo para jogar \u003Cb>{gameTitle}\u003C/b> como convidado."
+   },
+   "controller_not_working": {
+      "message": "A partilha de controlador não está a funcionar"
+   },
+   "copyright": {
+      "message": "&copy; 2015 NVIDIA Corporation, Todos os direitos reservados."
+   },
+   "copyright2": {
+      "message": "Copyright &copy; 2015 NVIDIA Corporation "
+   },
+   "disconnected": {
+      "message": "A ligação de rede foi perdida"
+   },
+   "errorTitle": {
+      "message": "O plug-in de transmissão detectou um problema..."
+   },
+   "external_license_agreement": {
+      "message": "Acordos de licença de terceiros"
+   },
+   "feedback": {
+      "message": "Comentários"
+   },
+   "frame_rate": {
+      "message": "Taxa de videogramas:"
+   },
+   "game_play_laggy": {
+      "message": "Jogo lento"
+   },
+   "gameseatready": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> está preparado para jogar \u003Cb>{gameTitle}\u003C/b> consigo."
+   },
+   "gameseatreadynodisplayname": {
+      "message": "O seu amigo está preparado para jogar \u003Cb>{gameTitle}\u003C/b> consigo."
+   },
+   "initialize_decoder_error_title": {
+      "message": "Ocorreu o erro #47430002."
+   },
+   "initialize_opengl_error_title": {
+      "message": "Ocorreu o erro #47430001."
+   },
+   "invalid_sessionid": {
+      "message": "A sessão não é válida."
+   },
+   "invite_friend": {
+      "message": "Peça a um amigo que lhe envie um convite para se possa juntar a ele no jogo e jogar como convidado. Pode jogar em conjunto ou pelos seus amigos ou ficar apenas a vê-los jogar."
+   },
+   "join_game": {
+      "message": "Participar no jogo"
+   },
+   "legal_information": {
+      "message": " Informação legal"
+   },
+   "license_agreement": {
+      "message": "Acordo de Licença"
+   },
+   "loading": {
+      "message": "A carregar componentes do sistema."
+   },
+   "nacl_module_crash": {
+      "message": "Ocorreu o erro #47439998."
+   },
+   "no_streamer_config": {
+      "message": "Não é possível localizar a configuração de transmissão."
+   },
+   "no_webgl_browser_support": {
+      "message": "É necessário activar WebGL para ligar e jogar como convidado."
+   },
+   "notice": {
+      "message": "Avisos Open Source e de Terceiros"
+   },
+   "notification_paused": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> colocou o jogo \u003Cb>{gameTitle}\u003C/b> em pausa"
+   },
+   "notification_pausednodisplayname": {
+      "message": "O seu amigo colocou o jogo \u003Cb>{gameTitle}\u003C/b> em pausa"
+   },
+   "nvb_evt_game_exited_by_user": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> parou a partilha de \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_evt_game_exited_by_usernodisplayname": {
+      "message": "O seu amigo partilhou a partilha de \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_evt_game_exited_unintentionally": {
+      "message": "Ocorreu o erro #47430003."
+   },
+   "nvb_evt_session_expired": {
+      "message": "Foi atingido o tempo máximo permitido para jogar \u003Cb>{gameTitle}\u003C/b> como convidado."
+   },
+   "nvb_evt_streaming_properties": {
+      "message": "A ligar a \u003Cb>{fromDisplayName}\u003C/b> para jogar \u003Cb>{gameTitle}\u003C/b> como convidado"
+   },
+   "nvb_evt_streaming_propertiesnodisplayname": {
+      "message": "A ligar ao seu amigo para jogar \u003Cb>{gameTitle}\u003C/b> como convidado."
+   },
+   "nvb_r_auth_err_unauthorized_client": {
+      "message": "O seu convite de \u003Cb>{fromDisplayName}\u003C/b> para jogar \u003Cb>{gameTitle}\u003C/b> como convidado já não está activo."
+   },
+   "nvb_r_auth_err_unauthorized_clientnodisplayname": {
+      "message": "O seu convite do seu amigo para jogar \u003Cb>{gameTitle}\u003C/b> como convidado já não está activo."
+   },
+   "nvb_r_client_upgrade_required": {
+      "message": "É necessário obter a versão mais recente do GeForce Experience, pelo que pode ligar e jogar como convidado."
+   },
+   "nvb_r_network_error": {
+      "message": "Ocorreu o erro #47430005 de comunicação de rede."
+   },
+   "nvb_r_no_session_to_resume": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> parou a partilha de \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_no_session_to_resumenodisplayname": {
+      "message": "O seu amigo partilhou a partilha de \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_remote_user_response_timeout": {
+      "message": "O seu convite de \u003Cb>{fromDisplayName}\u003C/b> para jogar \u003Cb>{gameTitle}\u003C/b> como convidado expirou."
+   },
+   "nvb_r_remote_user_response_timeoutnodisplayname": {
+      "message": "O seu convite do seu amigo para jogar \u003Cb>{gameTitle}\u003C/b> como convidado expirou."
+   },
+   "nvb_r_server_out_of_service": {
+      "message": "Não é possível ligar ao seu amigo para jogar \u003Cb>{gameTitle}\u003C/b> como convidado. Ocorreu o erro #47430004."
+   },
+   "nvb_r_server_upgrade_required": {
+      "message": "O seu amigo, \u003Cb>{fromDisplayName}\u003C/b>, precisa da versão mais recente do GeForce Experience, pelo que pode ligar e jogar como convidado."
+   },
+   "nvb_r_session_no_longer_active": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> parou a partilha de \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_session_no_longer_activenodisplayname": {
+      "message": "O seu amigo partilhou a partilha de \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_session_request_rejected": {
+      "message": "O seu convite de \u003Cb>{fromDisplayName}\u003C/b> para jogar \u003Cb>{gameTitle}\u003C/b> como convidado foi cancelado."
+   },
+   "nvb_r_session_request_rejectednodisplayname": {
+      "message": "O seu convite do seu amigo para jogar \u003Cb>{gameTitle}\u003C/b> como convidado foi cancelado."
+   },
+   "nvb_r_streamer_connect_failed": {
+      "message": "Não é possível ligar ao seu amigo para jogar \u003Cb>{gameTitle}\u003C/b> como convidado. Ocorreu o erro #{hexcode}"
+   },
+   "nvb_r_streamer_network_error": {
+      "message": "Ocorreu o erro #{hexcode} de comunicação de rede."
+   },
+   "nvb_r_unknown": {
+      "message": "Não é possível ligar a \u003Cb>{fromDisplayName}\u003C/b> para jogar \u003Cb>{gameTitle}\u003C/b> como convidado. Ocorreu o erro #47430218."
+   },
+   "nvb_r_unknownnodisplayname": {
+      "message": "Não é possível ligar ao seu amigo para jogar \u003Cb>{gameTitle}\u003C/b> como convidado. Ocorreu o erro #47430218."
+   },
+   "open_share": {
+      "message": "Abrir Partilha"
+   },
+   "packet_loss": {
+      "message": "Perda de pacotes:"
+   },
+   "playing": {
+      "message": "Está a jogar \u003Cb>{gameTitle}\u003C/b> com \u003Cb>{fromDisplayName}\u003C/b>."
+   },
+   "playingNoDisplayName": {
+      "message": "Está a jogar \u003Cb>{gameTitle}\u003C/b> com o seu amigo."
+   },
+   "privacy_policy": {
+      "message": "Política de privacidade"
+   },
+   "rate": {
+      "message": "Classifique a sua experiência de utilização da transmissão:"
+   },
+   "read_software_lic_agreement": {
+      "message": "Leia atentamente o Contrato de Licença que se segue, referente ao software da NVIDIA."
+   },
+   "reconnect": {
+      "message": "A tentar novamente estabelecer ligação..."
+   },
+   "send": {
+      "message": "Enviar"
+   },
+   "send_feedback": {
+      "message": "Enviar informações/comentários"
+   },
+   "shortcuts": {
+      "message": "Atalhos de teclado"
+   },
+   "skip": {
+      "message": "Ignorar"
+   },
+   "software_lic_agreement": {
+      "message": "Contrato de Licença do software da NVIDIA"
+   },
+   "statistics": {
+      "message": "Estatística"
+   },
+   "stopTitle": {
+      "message": "A sua sessão terminou."
+   },
+   "stopping": {
+      "message": "A parar a sua sessão..."
+   },
+   "stream": {
+      "message": "Transmitir em fluxo"
+   },
+   "streaming_health": {
+      "message": "Estado da transmissão:"
+   },
+   "swiftshader_not_supported": {
+      "message": "É necessário um compositor OpenGL acelerado por GPU para ligar e jogar como convidado."
+   },
+   "system_ready": {
+      "message": "O sistema está preparado!"
+   },
+   "title": {
+      "message": "A preparar a sua sessão..."
+   },
+   "toggle_fullscreen": {
+      "message": "Alternar modo de ecrã inteiro/janela"
+   },
+   "toggle_microphone": {
+      "message": "Silenciar/activar som do microfone"
+   },
+   "toggle_stats": {
+      "message": "Mostrar/ocultar estatísticas"
+   },
+   "troubleshooting_guide": {
+      "message": "Ver guia de resolução de problemas"
+   },
+   "unhandled_error": {
+      "message": "Ocorreu o erro #47439999."
+   },
+   "version": {
+      "message": "Versão $details$",
+      "placeholders": {
+         "details": {
+            "content": "$1",
+            "example": "2015.xxx.yyyy.1"
+         }
+      }
+   },
+   "watch_game": {
+      "message": "Ver o jogo"
+   },
+   "webgl_init_failed": {
+      "message": "Falha ao inicializar WebGL."
+   }
+}

@@ -1,0 +1,281 @@
+{
+   "about": {
+      "message": "O aplikaci"
+   },
+   "accept_terms": {
+      "message": "Souhlasit a pokračovat"
+   },
+   "additional_detail": {
+      "message": "Další podrobnosti:"
+   },
+   "audio_video_quality": {
+      "message": "Kvalita zobrazení/zvuku je špatná"
+   },
+   "beta": {
+      "message": "BETA"
+   },
+   "bitrate": {
+      "message": "Aktuální/max. přenosová rychlost:"
+   },
+   "chat_not_working": {
+      "message": "Hlasová konverzace nefunguje"
+   },
+   "close": {
+      "message": "Zavřít"
+   },
+   "comments": {
+      "message": "Komentáře:"
+   },
+   "configuring": {
+      "message": "Čeká se na \u003Cb>{fromDisplayName}\u003C/b> k zahájení sdílení hry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "configuringnodisplayname": {
+      "message": "Čeká se na vašeho kamaráda k zahájení sdílení hry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "connecting": {
+      "message": "Připojování k \u003Cb>{fromDisplayName}\u003C/b> za účelem hraní hry \u003Cb>{gameTitle}\u003C/b> jako host."
+   },
+   "connectingnodisplayname": {
+      "message": "Připojování k vašemu kamarádovi za účelem hraní hry \u003Cb>{gameTitle}\u003C/b> jako host."
+   },
+   "controller_not_working": {
+      "message": "Sdílení ovladače nefunguje"
+   },
+   "copyright": {
+      "message": "&copy; 2015 NVIDIA Corporation. Všechna práva vyhrazena."
+   },
+   "copyright2": {
+      "message": "Copyright &copy; 2015 NVIDIA Corporation "
+   },
+   "disconnected": {
+      "message": "Připojení k síti bylo ztraceno"
+   },
+   "errorTitle": {
+      "message": "Došlo k problému s plug-inem pro streamovaní..."
+   },
+   "external_license_agreement": {
+      "message": "Licenční dohody třetích stran"
+   },
+   "feedback": {
+      "message": "Připomínka"
+   },
+   "frame_rate": {
+      "message": "Snímková frekvence:"
+   },
+   "game_play_laggy": {
+      "message": "Hra vykazuje zpoždění"
+   },
+   "gameseatready": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> je připraven hrát s vámi hru \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "gameseatreadynodisplayname": {
+      "message": "Váš kamarád je připraven hrát s vámi hru \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "initialize_decoder_error_title": {
+      "message": "Došlo k chybě #47430002."
+   },
+   "initialize_opengl_error_title": {
+      "message": "Došlo k chybě #47430001."
+   },
+   "invalid_sessionid": {
+      "message": "Relace je neplatná."
+   },
+   "invite_friend": {
+      "message": "Můžete dostat pozvání od kamaráda, abyste se připojili k společnému hraní jako host. Můžete hrát spolu s nimi, jako oni nebo se jen dívat, jak hrají."
+   },
+   "join_game": {
+      "message": "Připojit se ke hře"
+   },
+   "legal_information": {
+      "message": " Právní upozornění"
+   },
+   "license_agreement": {
+      "message": "Licenční dohoda"
+   },
+   "loading": {
+      "message": "Probíhá načítání komponent systému."
+   },
+   "nacl_module_crash": {
+      "message": "Došlo k chybě #47439998."
+   },
+   "no_streamer_config": {
+      "message": "Nelze najít konfigurace streameru."
+   },
+   "no_webgl_browser_support": {
+      "message": "WebGL musí být zapnutý, abyste se mohli připojit a hrát jako host."
+   },
+   "notice": {
+      "message": "Oznámení třetích stran a Open Source "
+   },
+   "notification_paused": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> pozastavil hru \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "notification_pausednodisplayname": {
+      "message": "Váš kamarád pozastavil hru \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "nvb_evt_game_exited_by_user": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> zastavil sdílení hry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_evt_game_exited_by_usernodisplayname": {
+      "message": "Váš kamarád zastavil sdílení hry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_evt_game_exited_unintentionally": {
+      "message": "Došlo k chybě #47430003."
+   },
+   "nvb_evt_session_expired": {
+      "message": "Maximální vymezený čas k hraní hry \u003Cb>{gameTitle}\u003C/b> jako host vypršel."
+   },
+   "nvb_evt_streaming_properties": {
+      "message": "Připojování k \u003Cb>{fromDisplayName}\u003C/b> za účelem hraní hry \u003Cb>{gameTitle}\u003C/b> jako host"
+   },
+   "nvb_evt_streaming_propertiesnodisplayname": {
+      "message": "Připojování k vašemu kamarádovi za účelem hraní hry \u003Cb>{gameTitle}\u003C/b> jako host"
+   },
+   "nvb_r_auth_err_unauthorized_client": {
+      "message": "Pozvánka od \u003Cb>{fromDisplayName}\u003C/b> k hraní hry \u003Cb>{gameTitle}\u003C/b> jako host již není platná."
+   },
+   "nvb_r_auth_err_unauthorized_clientnodisplayname": {
+      "message": "Pozvánka od vašeho kamaráda k hraní hry \u003Cb>{gameTitle}\u003C/b> jako host již není platná."
+   },
+   "nvb_r_client_upgrade_required": {
+      "message": "Potřebuje získat nejnovější verzi aplikace GeForce, abyste se mohl připojit a hrát jako host."
+   },
+   "nvb_r_network_error": {
+      "message": "Došlo k chyby v síťové komunikaci #47430005."
+   },
+   "nvb_r_no_session_to_resume": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> zastavil sdílení hry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_no_session_to_resumenodisplayname": {
+      "message": "Váš kamarád zastavil sdílení hry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_remote_user_response_timeout": {
+      "message": "Platnost pozvánky od \u003Cb>{fromDisplayName}\u003C/b> k hraní hry \u003Cb>{gameTitle}\u003C/b> jako host již vypršela."
+   },
+   "nvb_r_remote_user_response_timeoutnodisplayname": {
+      "message": "Platnost pozvánky od vaše kamaráda k hraní hry \u003Cb>{gameTitle}\u003C/b> jako host již vypršela."
+   },
+   "nvb_r_server_out_of_service": {
+      "message": "Nelze se připojit k vašemu kamarádovi za účelem hraní hry \u003Cb>{gameTitle}\u003C/b> jako host. Došlo k chybě #47430004."
+   },
+   "nvb_r_server_upgrade_required": {
+      "message": "Váš kamarád, \u003Cb>{fromDisplayName}\u003C/b>, potřebuje získat nejnovější verzi aplikace GeForce, aby se mohl připojit a hrát jako host."
+   },
+   "nvb_r_session_no_longer_active": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> zastavil sdílení hry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_session_no_longer_activenodisplayname": {
+      "message": "Váš kamarád zastavil sdílení hry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_session_request_rejected": {
+      "message": "Pozvánka od \u003Cb>{fromDisplayName}\u003C/b> k hraní hry \u003Cb>{gameTitle}\u003C/b> jako host byla zrušena."
+   },
+   "nvb_r_session_request_rejectednodisplayname": {
+      "message": "Pozvánka od vaše kamaráda k hraní hry \u003Cb>{gameTitle}\u003C/b> jako host byla zrušena."
+   },
+   "nvb_r_streamer_connect_failed": {
+      "message": "Nelze se připojit k vašemu kamarádovi za účelem hraní hry \u003Cb>{gameTitle}\u003C/b> jako host. Došlo k chybě #{hexcode} "
+   },
+   "nvb_r_streamer_network_error": {
+      "message": "Došlo k chyby v síťové komunikaci #{hexcode}."
+   },
+   "nvb_r_unknown": {
+      "message": "Nelze se připojit k \u003Cb>{fromDisplayName}\u003C/b> za účelem hraní hry \u003Cb>{gameTitle}\u003C/b> jako host. Došlo k chybě #47430218."
+   },
+   "nvb_r_unknownnodisplayname": {
+      "message": "Nelze se připojit k vašemu kamarádovi za účelem hraní hry \u003Cb>{gameTitle}\u003C/b> jako host. Došlo k chybě #47430218."
+   },
+   "open_share": {
+      "message": "Otevřít funkcí Sdílení"
+   },
+   "packet_loss": {
+      "message": "Ztráta paketu:"
+   },
+   "playing": {
+      "message": "Hrajete hru \u003Cb>{gameTitle}\u003C/b> s \u003Cb>{fromDisplayName}\u003C/b>."
+   },
+   "playingNoDisplayName": {
+      "message": "Hrajete hru \u003Cb>{gameTitle}\u003C/b> se svým kamarádem."
+   },
+   "privacy_policy": {
+      "message": "Zásady ochrany osobních údajů"
+   },
+   "rate": {
+      "message": "Ohodnotit vaše užívání aplikace Stream:"
+   },
+   "read_software_lic_agreement": {
+      "message": "Přečtěte si pozorně následující licenční dohodu softwaru NVIDIA."
+   },
+   "reconnect": {
+      "message": "Pokus o opětovné připojení..."
+   },
+   "send": {
+      "message": "Poslat"
+   },
+   "send_feedback": {
+      "message": "Poslat zpětnou informaci"
+   },
+   "shortcuts": {
+      "message": "Klávesové zkratky"
+   },
+   "skip": {
+      "message": "Přeskočit"
+   },
+   "software_lic_agreement": {
+      "message": "Licenční dohoda softwaru NVIDIA"
+   },
+   "statistics": {
+      "message": "Statistika"
+   },
+   "stopTitle": {
+      "message": "Vaše relace byla ukončena."
+   },
+   "stopping": {
+      "message": "Probíhá zastavování vaší relace..."
+   },
+   "stream": {
+      "message": "Streamovat"
+   },
+   "streaming_health": {
+      "message": "Stav kondice streamování:"
+   },
+   "swiftshader_not_supported": {
+      "message": "Pro připojení a hraní hry jako host je třeba mít jednotkou GPU akcelerovaný OpenGL k renderování."
+   },
+   "system_ready": {
+      "message": "Váš systém je připraven!"
+   },
+   "title": {
+      "message": "Probíhá příprava relace..."
+   },
+   "toggle_fullscreen": {
+      "message": "Přepnout zobrazení na celou obrazovku / v okně."
+   },
+   "toggle_microphone": {
+      "message": "Zapnout/vypnout mikrofon"
+   },
+   "toggle_stats": {
+      "message": "Zobrazit/skrýt statistiku"
+   },
+   "troubleshooting_guide": {
+      "message": "Zobrazit průvodce Řešení problémů"
+   },
+   "unhandled_error": {
+      "message": "Došlo k chybě #47439999."
+   },
+   "version": {
+      "message": "Verze $details$",
+      "placeholders": {
+         "details": {
+            "content": "$1",
+            "example": "2015.xxx.yyyy.1"
+         }
+      }
+   },
+   "watch_game": {
+      "message": "Sledovat hru"
+   },
+   "webgl_init_failed": {
+      "message": "WebGL se nepodařilo spustit."
+   }
+}

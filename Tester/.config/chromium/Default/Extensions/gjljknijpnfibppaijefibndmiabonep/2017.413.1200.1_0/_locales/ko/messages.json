@@ -1,0 +1,281 @@
+{
+   "about": {
+      "message": "정보"
+   },
+   "accept_terms": {
+      "message": "동의 및 계속"
+   },
+   "additional_detail": {
+      "message": "추가적인 세부사항:"
+   },
+   "audio_video_quality": {
+      "message": "시청각 품질이 나쁨"
+   },
+   "beta": {
+      "message": "베타"
+   },
+   "bitrate": {
+      "message": "현재/최대 비트 전송률:"
+   },
+   "chat_not_working": {
+      "message": "음성 채팅이 작동하지 않음"
+   },
+   "close": {
+      "message": "닫기"
+   },
+   "comments": {
+      "message": "설명:"
+   },
+   "configuring": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>이(가) \u003Cb>{gameTitle}\u003C/b>의 공유를 시작하기를 기다리는 중입니다."
+   },
+   "configuringnodisplayname": {
+      "message": "친구가 \u003Cb>{gameTitle}\u003C/b>의 공유를 시작하기를 기다리는 중입니다."
+   },
+   "connecting": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>와(과) 연결하여 게스트로 \u003Cb>{gameTitle}\u003C/b>을(를) 플레이합니다."
+   },
+   "connectingnodisplayname": {
+      "message": "친구와 연결하여 손님으로 \u003Cb>{gameTitle}\u003C/b>을(를) 플레이합니다."
+   },
+   "controller_not_working": {
+      "message": "컨트롤러 공유가 작동하지 않음"
+   },
+   "copyright": {
+      "message": "&copy; 2015 NVIDIA Corporation, All rights reserved."
+   },
+   "copyright2": {
+      "message": "Copyright &copy; 2015 NVIDIA Corporation"
+   },
+   "disconnected": {
+      "message": "네트워크 연결이 끊어짐"
+   },
+   "errorTitle": {
+      "message": "스트리밍 플러그인에 문제가 발생했습니다..."
+   },
+   "external_license_agreement": {
+      "message": "타사 라이선스 계약"
+   },
+   "feedback": {
+      "message": "피드백"
+   },
+   "frame_rate": {
+      "message": "프레임 속도:"
+   },
+   "game_play_laggy": {
+      "message": "게임플레이가 느림"
+   },
+   "gameseatready": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>이(가) \u003Cb>{gameTitle}\u003C/b>을(를) 함께 플레이할 준비가 되었습니다."
+   },
+   "gameseatreadynodisplayname": {
+      "message": "친구가 \u003Cb>{gameTitle}\u003C/b>을(를) 함께 플레이할 준비가 되었습니다."
+   },
+   "initialize_decoder_error_title": {
+      "message": "오류 #47430002가 발생했습니다."
+   },
+   "initialize_opengl_error_title": {
+      "message": "오류 #47430001이 발생했습니다."
+   },
+   "invalid_sessionid": {
+      "message": "세션이 유효하지 않습니다."
+   },
+   "invite_friend": {
+      "message": "회원님께 게임에 참여하여 게스트로 플레이하도록 초대장을 보낸 친구가 있습니다. 친구와 함께 또는 친구로서 플레이하거나 친구의 플레이를 시청할 수 있습니다."
+   },
+   "join_game": {
+      "message": "게임 참여"
+   },
+   "legal_information": {
+      "message": " 법률 정보"
+   },
+   "license_agreement": {
+      "message": "라이선스 계약"
+   },
+   "loading": {
+      "message": "시스템 구성 요소를 로드 중입니다."
+   },
+   "nacl_module_crash": {
+      "message": "오류 #47439998이 발생했습니다."
+   },
+   "no_streamer_config": {
+      "message": "스트리머 구성을 찾을 수 없습니다."
+   },
+   "no_webgl_browser_support": {
+      "message": "게스트로 연결하여 플레이하려면 WebGL이 활성화되어야 합니다."
+   },
+   "notice": {
+      "message": "타사 및 오픈 소스 고지 사항"
+   },
+   "notification_paused": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>이(가) \u003Cb>{gameTitle}\u003C/b>을(를) 일시 정지하였습니다."
+   },
+   "notification_pausednodisplayname": {
+      "message": "친구가 \u003Cb>{gameTitle}\u003C/b>을(를) 일시 정지하였습니다."
+   },
+   "nvb_evt_game_exited_by_user": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>이(가) \u003Cb>{gameTitle}\u003C/b> 공유를 중단했습니다."
+   },
+   "nvb_evt_game_exited_by_usernodisplayname": {
+      "message": "친구가 \u003Cb>{gameTitle}\u003C/b>의 공유를 중단했습니다."
+   },
+   "nvb_evt_game_exited_unintentionally": {
+      "message": "오류 #47430003이 발생했습니다."
+   },
+   "nvb_evt_session_expired": {
+      "message": "게스트로 \u003Cb>{gameTitle}\u003C/b>을(를) 플레이할 수 있는 최대 허용 횟수에 도달했습니다."
+   },
+   "nvb_evt_streaming_properties": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>와(과) 연결하여 게스트로 \u003Cb>{gameTitle}\u003C/b>을(를) 플레이합니다."
+   },
+   "nvb_evt_streaming_propertiesnodisplayname": {
+      "message": "친구와 연결하여 게스트로 \u003Cb>{gameTitle}\u003C/b>을(를) 플레이합니다."
+   },
+   "nvb_r_auth_err_unauthorized_client": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>에게 받은 게스트로 \u003Cb>{gameTitle}\u003C/b>을(를) 플레이하는 초대가 더 이상 활성 상태가 아닙니다."
+   },
+   "nvb_r_auth_err_unauthorized_clientnodisplayname": {
+      "message": "친구에게 받은 게스트로 \u003Cb>{gameTitle}\u003C/b>을(를) 플레이하는 초대가 더 이상 활성 상태가 아닙니다."
+   },
+   "nvb_r_client_upgrade_required": {
+      "message": "연결 및 게스트로서 플레이하기 위해 GeForce Experience의 최신 버전이 필요합니다."
+   },
+   "nvb_r_network_error": {
+      "message": "네트워크 통신 오류 #47430005가 발생했습니다."
+   },
+   "nvb_r_no_session_to_resume": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>이(가) \u003Cb>{gameTitle}\u003C/b> 공유를 중단했습니다."
+   },
+   "nvb_r_no_session_to_resumenodisplayname": {
+      "message": "친구가 \u003Cb>{gameTitle}\u003C/b> 공유를 중단했습니다."
+   },
+   "nvb_r_remote_user_response_timeout": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>에게 받은 게스트로 \u003Cb>{gameTitle}\u003C/b>을(를) 플레이하는 초대가 만료되었습니다."
+   },
+   "nvb_r_remote_user_response_timeoutnodisplayname": {
+      "message": "친구에게 받은 게스트로 \u003Cb>{gameTitle}\u003C/b>을(를) 플레이하는 초대가 만료되었습니다."
+   },
+   "nvb_r_server_out_of_service": {
+      "message": "친구와 연결하여 게스트로 \u003Cb>{gameTitle}\u003C/b>을(를) 플레이할 수 없습니다. 오류 #47430004가 발생했습니다."
+   },
+   "nvb_r_server_upgrade_required": {
+      "message": "연결 및 게스트로서 플레이하기 위해 친구 \u003Cb>{fromDisplayName}\u003C/b>에게 GeForce Experience의 최신 버전이 필요합니다."
+   },
+   "nvb_r_session_no_longer_active": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>이(가) \u003Cb>{gameTitle}\u003C/b> 공유를 중단했습니다."
+   },
+   "nvb_r_session_no_longer_activenodisplayname": {
+      "message": "친구가 \u003Cb>{gameTitle}\u003C/b> 공유를 중단했습니다."
+   },
+   "nvb_r_session_request_rejected": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>에게 받은 게스트로 \u003Cb>{gameTitle}\u003C/b>을(를) 플레이하는 초대가 취소되었습니다."
+   },
+   "nvb_r_session_request_rejectednodisplayname": {
+      "message": "친구에게 받은 게스트로 \u003Cb>{gameTitle}\u003C/b>을(를) 플레이하는 초대가 취소되었습니다."
+   },
+   "nvb_r_streamer_connect_failed": {
+      "message": "친구와 연결하여 게스트로 \u003Cb>{gameTitle}\u003C/b>을(를) 플레이할 수 없습니다. 오류 #{hexcode}이(가) 발생했습니다."
+   },
+   "nvb_r_streamer_network_error": {
+      "message": "네트워크 통신 오류 #{hexcode}이(가) 발생했습니다."
+   },
+   "nvb_r_unknown": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>와(과) 연결하여 게스트로 \u003Cb>{gameTitle}\u003C/b>을(를) 플레이할 수 없습니다. 오류 #47430218이 발생했습니다."
+   },
+   "nvb_r_unknownnodisplayname": {
+      "message": "친구와 연결하여 게스트로 \u003Cb>{gameTitle}\u003C/b>을(를) 플레이할 수 없습니다. 오류 #47430218이 발생했습니다."
+   },
+   "open_share": {
+      "message": "Share 열기"
+   },
+   "packet_loss": {
+      "message": "패킷 손실:"
+   },
+   "playing": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>와(과) \u003Cb>{gameTitle}\u003C/b>을(를) 플레이하는 중입니다."
+   },
+   "playingNoDisplayName": {
+      "message": "친구와 \u003Cb>{gameTitle}\u003C/b>을(를) 플레이하는 중입니다."
+   },
+   "privacy_policy": {
+      "message": "개인 정보 보호 정책"
+   },
+   "rate": {
+      "message": "스트림 사용 경험 평가:"
+   },
+   "read_software_lic_agreement": {
+      "message": "다음 NVIDIA 소프트웨어 라이센스 계약을 숙지하십시오."
+   },
+   "reconnect": {
+      "message": "재연결 시도 중..."
+   },
+   "send": {
+      "message": "보내기"
+   },
+   "send_feedback": {
+      "message": "피드백"
+   },
+   "shortcuts": {
+      "message": "키보드 바로가기"
+   },
+   "skip": {
+      "message": "건너뛰기"
+   },
+   "software_lic_agreement": {
+      "message": "NVIDIA 소프트웨어 라이센스 계약"
+   },
+   "statistics": {
+      "message": "통계"
+   },
+   "stopTitle": {
+      "message": "세션이 종료되었습니다."
+   },
+   "stopping": {
+      "message": "세션을 정지하는 중입니다..."
+   },
+   "stream": {
+      "message": "스트림"
+   },
+   "streaming_health": {
+      "message": "스트리밍 상태:"
+   },
+   "swiftshader_not_supported": {
+      "message": "게스트로 연결하여 플레이하려면 GPU 가속 OpenGL 렌더링이 필요합니다."
+   },
+   "system_ready": {
+      "message": "시스템이 준비되었습니다!"
+   },
+   "title": {
+      "message": "세션을 준비 중입니다..."
+   },
+   "toggle_fullscreen": {
+      "message": "전화 화면/창 토글"
+   },
+   "toggle_microphone": {
+      "message": "마이크 음소거/음소거 해제"
+   },
+   "toggle_stats": {
+      "message": "통계 정보 표시/숨기기"
+   },
+   "troubleshooting_guide": {
+      "message": "문제 해결 안내서 보기"
+   },
+   "unhandled_error": {
+      "message": "오류 #47439999가 발생했습니다."
+   },
+   "version": {
+      "message": "버전 $details$",
+      "placeholders": {
+         "details": {
+            "content": "$1",
+            "example": "2015.xxx.yyyy.1"
+         }
+      }
+   },
+   "watch_game": {
+      "message": "게임 시청"
+   },
+   "webgl_init_failed": {
+      "message": "WebGL을 초기화하지 못했습니다."
+   }
+}

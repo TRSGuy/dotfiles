@@ -1,0 +1,281 @@
+{
+   "about": {
+      "message": "Hakkında"
+   },
+   "accept_terms": {
+      "message": "Kabul et ve devam"
+   },
+   "additional_detail": {
+      "message": "Daha ayrıntılı bilgi:"
+   },
+   "audio_video_quality": {
+      "message": "Görsel/ses kalitesi düşük"
+   },
+   "beta": {
+      "message": "BETA"
+   },
+   "bitrate": {
+      "message": "Mevcut/maksimum bit hızı:"
+   },
+   "chat_not_working": {
+      "message": "Sesli sohbet çalışmıyor"
+   },
+   "close": {
+      "message": "Kapat"
+   },
+   "comments": {
+      "message": "Yorumlar:"
+   },
+   "configuring": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> ana bilgisayarının \u003Cb>{gameTitle}\u003C/b> oyununu sizinle paylaşmaya başlaması bekleniyor."
+   },
+   "configuringnodisplayname": {
+      "message": "Arkadaşınızın \u003Cb>{gameTitle}\u003C/b> oyununu sizinle paylaşmaya başlaması bekleniyor."
+   },
+   "connecting": {
+      "message": "\u003Cb>{gameTitle}\u003C/b> oyununu misafir olarak oynamak üzere \u003Cb>{fromDisplayName}\u003C/b> ile bağlantı kuruluyor."
+   },
+   "connectingnodisplayname": {
+      "message": "\u003Cb>{gameTitle}\u003C/b> oyununu misafir olarak oynamak üzere arkadaşınızla bağlantı kuruluyor."
+   },
+   "controller_not_working": {
+      "message": "Denetleyici paylaşımı çalışmıyor"
+   },
+   "copyright": {
+      "message": "&copy; 2015 NVIDIA Corporation, tüm hakları saklıdır."
+   },
+   "copyright2": {
+      "message": "Telif Hakkı &copy; 2015 NVIDIA Corporation"
+   },
+   "disconnected": {
+      "message": "Ağ bağlantısı koptu"
+   },
+   "errorTitle": {
+      "message": "Akış eklentisi bir sorunla karşılaştı..."
+   },
+   "external_license_agreement": {
+      "message": "Üçüncü taraf lisans sözleşmeleri"
+   },
+   "feedback": {
+      "message": "Geribildirim"
+   },
+   "frame_rate": {
+      "message": "Kare hızı:"
+   },
+   "game_play_laggy": {
+      "message": "Oyun oynanırken öteleme var"
+   },
+   "gameseatready": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> sizinle \u003Cb>{gameTitle}\u003C/b> oynamaya hazır."
+   },
+   "gameseatreadynodisplayname": {
+      "message": "Arkadaşınız sizinle \u003Cb>{gameTitle}\u003C/b> oynamaya hazır."
+   },
+   "initialize_decoder_error_title": {
+      "message": "Hata #47430002 oluştu."
+   },
+   "initialize_opengl_error_title": {
+      "message": "Hata #47430001 oluştu."
+   },
+   "invalid_sessionid": {
+      "message": "Oturum geçersiz."
+   },
+   "invite_friend": {
+      "message": "Bir arkadaşınızın oyunda kendilerine katılmanız için size davetiye göndermesini sağlayın ve misafir olarak oynayın. Onlarla oynayabilir, onlardan biri olarak oynayabilir veya sadece oyunlarını seyredebilirsiniz."
+   },
+   "join_game": {
+      "message": "Oyuna katıl"
+   },
+   "legal_information": {
+      "message": " Yasal Bilgiler"
+   },
+   "license_agreement": {
+      "message": "Lisans sözleşmesi"
+   },
+   "loading": {
+      "message": "Sistem bileşenleri yükleniyor."
+   },
+   "nacl_module_crash": {
+      "message": "Hata #47439998 oluştu."
+   },
+   "no_streamer_config": {
+      "message": "Akış yapılandırması bulunamıyor."
+   },
+   "no_webgl_browser_support": {
+      "message": "Bağlanıp misafir olarak oynayabilmek için WebGL etkinleştirilmelidir."
+   },
+   "notice": {
+      "message": "Üçüncü Şahıs ve Açık Kaynak Bildirimleri"
+   },
+   "notification_paused": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>, \u003Cb>{gameTitle}\u003C/b> oyununu duraklattı."
+   },
+   "notification_pausednodisplayname": {
+      "message": "Arkadaşınız \u003Cb>{gameTitle}\u003C/b> oyununu duraklattı."
+   },
+   "nvb_evt_game_exited_by_user": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>, \u003Cb>{gameTitle}\u003C/b> oyununu paylaşmayı bıraktı."
+   },
+   "nvb_evt_game_exited_by_usernodisplayname": {
+      "message": "Arkadaşınız \u003Cb>{gameTitle}\u003C/b> oyununu paylaşmayı bıraktı."
+   },
+   "nvb_evt_game_exited_unintentionally": {
+      "message": "Hata #47430003 oluştu."
+   },
+   "nvb_evt_session_expired": {
+      "message": "\u003Cb>{gameTitle}\u003C/b> oyununu misafir olarak oynamak için izin verilen maksimum süreye ulaşıldı."
+   },
+   "nvb_evt_streaming_properties": {
+      "message": "\u003Cb>{gameTitle}\u003C/b> oyununu misafir olarak oynamak üzere \u003Cb>{fromDisplayName}\u003C/b> ile bağlantı kuruluyor"
+   },
+   "nvb_evt_streaming_propertiesnodisplayname": {
+      "message": "\u003Cb>{gameTitle}\u003C/b> oyununu misafir olarak oynamak üzere arkadaşınızla bağlantı kuruluyor"
+   },
+   "nvb_r_auth_err_unauthorized_client": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> ana bilgisayarından \u003Cb>{gameTitle}\u003C/b> oyununu misafir olarak oynamanız için gelen davet artık etkin değil."
+   },
+   "nvb_r_auth_err_unauthorized_clientnodisplayname": {
+      "message": "Arkadaşınızdan \u003Cb>{gameTitle}\u003C/b> oyununu misafir olarak oynamanız için gelen davet artık etkin değil."
+   },
+   "nvb_r_client_upgrade_required": {
+      "message": "Bağlanıp misafir olarak oynayabilmeniz için GeForce Experience'ın son sürümünü edinmeniz gerekir."
+   },
+   "nvb_r_network_error": {
+      "message": "Ağ iletişim hatası #47430005 oluştu."
+   },
+   "nvb_r_no_session_to_resume": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>, \u003Cb>{gameTitle}\u003C/b> oyununu paylaşmayı bıraktı."
+   },
+   "nvb_r_no_session_to_resumenodisplayname": {
+      "message": "Arkadaşınız \u003Cb>{gameTitle}\u003C/b> oyununu paylaşmayı bıraktı."
+   },
+   "nvb_r_remote_user_response_timeout": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> ana bilgisayarından \u003Cb>{gameTitle}\u003C/b> oyununu misafir olarak oynamanız için gelen davetin süresi doldu."
+   },
+   "nvb_r_remote_user_response_timeoutnodisplayname": {
+      "message": "Arkadaşınızdan \u003Cb>{gameTitle}\u003C/b> oyununu misafir olarak oynamanız için gelen davetin süresi doldu."
+   },
+   "nvb_r_server_out_of_service": {
+      "message": "\u003Cb>{gameTitle}\u003C/b> oyununu misafir olarak oynamak üzere arkadaşınızla bağlantı kurulamadı. Hata #47430004 oluştu."
+   },
+   "nvb_r_server_upgrade_required": {
+      "message": "Bağlanıp misafir olarak oynayabilmeniz için \u003Cb>{fromDisplayName}\u003C/b> adlı arkadaşınızda GeForce Experience'ın son sürümünün olması gerekir."
+   },
+   "nvb_r_session_no_longer_active": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>, \u003Cb>{gameTitle}\u003C/b> oyununu paylaşmayı bıraktı."
+   },
+   "nvb_r_session_no_longer_activenodisplayname": {
+      "message": "Arkadaşınız \u003Cb>{gameTitle}\u003C/b> oyununu paylaşmayı bıraktı."
+   },
+   "nvb_r_session_request_rejected": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> ana bilgisayarından \u003Cb>{gameTitle}\u003C/b> oyununu misafir olarak oynamanız için gelen davet iptal edildi."
+   },
+   "nvb_r_session_request_rejectednodisplayname": {
+      "message": "Arkadaşınızdan \u003Cb>{gameTitle}\u003C/b> oyununu misafir olarak oynamanız için gelen davet iptal edildi."
+   },
+   "nvb_r_streamer_connect_failed": {
+      "message": "\u003Cb>{gameTitle}\u003C/b> oyununu misafir olarak oynamak üzere arkadaşınızla bağlantı kurulamadı. Hata #{hexcode} oluştu."
+   },
+   "nvb_r_streamer_network_error": {
+      "message": "Ağ iletişim hatası #{hexcode} oluştu."
+   },
+   "nvb_r_unknown": {
+      "message": "\u003Cb>{gameTitle}\u003C/b> oyununu misafir olarak oynamak üzere \u003Cb>{fromDisplayName}\u003C/b> ile bağlantı kurulamadı. Hata #47430218 oluştu."
+   },
+   "nvb_r_unknownnodisplayname": {
+      "message": "\u003Cb>{gameTitle}\u003C/b> oyununu misafir olarak oynamak üzere arkadaşınızla bağlantı kurulamadı. Hata #47430218 oluştu."
+   },
+   "open_share": {
+      "message": "Share'i aç"
+   },
+   "packet_loss": {
+      "message": "Paket kaybı:"
+   },
+   "playing": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> ile \u003Cb>{gameTitle}\u003C/b> oynuyorsunuz."
+   },
+   "playingNoDisplayName": {
+      "message": "Arkadaşınızla \u003Cb>{gameTitle}\u003C/b> oynuyorsunuz."
+   },
+   "privacy_policy": {
+      "message": "Gizlilik İlkesi"
+   },
+   "rate": {
+      "message": "Akış kullanımıyla ilgili deneyiminizi puanlayın:"
+   },
+   "read_software_lic_agreement": {
+      "message": "Lütfen aşağıdaki NVIDIA yazılım lisans sözleşmesini dikkatle okuyun."
+   },
+   "reconnect": {
+      "message": "Yeniden bağlanma girişiminde bulunuluyor..."
+   },
+   "send": {
+      "message": "Gönder"
+   },
+   "send_feedback": {
+      "message": "Geribildirim gönder"
+   },
+   "shortcuts": {
+      "message": "Klavye kısayolları"
+   },
+   "skip": {
+      "message": "Atla"
+   },
+   "software_lic_agreement": {
+      "message": "NVIDIA yazılım lisans sözleşmesi"
+   },
+   "statistics": {
+      "message": "İstatistik"
+   },
+   "stopTitle": {
+      "message": "Oturumunuz sona erdi."
+   },
+   "stopping": {
+      "message": "Oturumunuz durduruluyor..."
+   },
+   "stream": {
+      "message": "Akış"
+   },
+   "streaming_health": {
+      "message": "Akış sağlığı:"
+   },
+   "swiftshader_not_supported": {
+      "message": "Bağlanıp misafir olarak bağlanıp oynamak için GPU ile hızlandırılmış OpenGL işleyici gerekir."
+   },
+   "system_ready": {
+      "message": "Sisteminiz hazır!"
+   },
+   "title": {
+      "message": "Oturumunuz hazırlanıyor..."
+   },
+   "toggle_fullscreen": {
+      "message": "Tam ekran ile pencere içinde görüntüleme arasında geçiş yap"
+   },
+   "toggle_microphone": {
+      "message": "Mikrofonu sessize al / sessizden çıkart"
+   },
+   "toggle_stats": {
+      "message": "İstatistikleri göster/gizle"
+   },
+   "troubleshooting_guide": {
+      "message": "Sorun Giderme Kılavuzu'nu görüntüle"
+   },
+   "unhandled_error": {
+      "message": "Hata #47439999 oluştu."
+   },
+   "version": {
+      "message": "Sürüm $details$",
+      "placeholders": {
+         "details": {
+            "content": "$1",
+            "example": "2015.xxx.yyyy.1"
+         }
+      }
+   },
+   "watch_game": {
+      "message": "Oyunu izle"
+   },
+   "webgl_init_failed": {
+      "message": "WebGL başlatılamadı."
+   }
+}

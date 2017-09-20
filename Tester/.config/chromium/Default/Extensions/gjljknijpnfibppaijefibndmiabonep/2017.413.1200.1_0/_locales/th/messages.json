@@ -1,0 +1,281 @@
+{
+   "about": {
+      "message": "เกี่ยวกับ"
+   },
+   "accept_terms": {
+      "message": "ตกลงและทำต่อ"
+   },
+   "additional_detail": {
+      "message": "รายละเอียดเพิ่มเติม:"
+   },
+   "audio_video_quality": {
+      "message": "คุณภาพของภาพ/เสียงไม่ดี"
+   },
+   "beta": {
+      "message": "เบต้า"
+   },
+   "bitrate": {
+      "message": "Bitrate ปัจจุบัน/สูงสุด:"
+   },
+   "chat_not_working": {
+      "message": "การสนทนาด้วยเสียงไม่ทำงาน"
+   },
+   "close": {
+      "message": "ปิด"
+   },
+   "comments": {
+      "message": "ข้อคิดเห็น:"
+   },
+   "configuring": {
+      "message": "กำลังรอ \u003Cb>{fromDisplayName}\u003C/b> เพื่อเริ่มต้นการแชร์ \u003Cb>{gameTitle}\u003C/b> กับคุณ"
+   },
+   "configuringnodisplayname": {
+      "message": "กำลังรอให้เพื่อนของคุณเริ่มต้นการแชร์ \u003Cb>{gameTitle}\u003C/b> กับคุณ"
+   },
+   "connecting": {
+      "message": "กำลังเชื่อมต่อกับ \u003Cb>{fromDisplayName}\u003C/b> เพื่อเล่น \u003Cb>{gameTitle}\u003C/b> ในฐานะแขกรับเชิญ"
+   },
+   "connectingnodisplayname": {
+      "message": "กำลังเชื่อมต่อกับเพื่อนของคุณเพื่อเล่น \u003Cb>{gameTitle}\u003C/b> ในฐานะแขกรับเชิญ"
+   },
+   "controller_not_working": {
+      "message": "การแชร์ตัวควบคุมไม่ทำงาน"
+   },
+   "copyright": {
+      "message": "&copy; 2015 NVIDIA Corporation. สงวนสิทธิ์ทั้งหมด"
+   },
+   "copyright2": {
+      "message": "ลิขสิทธิ์และสำเนา 2015 NVIDIA Corporation"
+   },
+   "disconnected": {
+      "message": "การเชื่อมต่อเครือข่ายสูญหาย"
+   },
+   "errorTitle": {
+      "message": "พลัก-อินสตรีมพบปัญหา..."
+   },
+   "external_license_agreement": {
+      "message": "ข้อตกลงสิทธิ์การใช้งานของบุคคลที่ 3"
+   },
+   "feedback": {
+      "message": "ข้อคิดเห็น"
+   },
+   "frame_rate": {
+      "message": "อัตราเฟรม:"
+   },
+   "game_play_laggy": {
+      "message": "การเล่นเกมล่าช้า"
+   },
+   "gameseatready": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> พร้อมแล้วที่จะเล่น \u003Cb>{gameTitle}\u003C/b> กับคุณ"
+   },
+   "gameseatreadynodisplayname": {
+      "message": "เพื่อนของคุณพร้อมแล้วที่จะเล่น \u003Cb>{gameTitle}\u003C/b> กับคุณ"
+   },
+   "initialize_decoder_error_title": {
+      "message": "เกิดข้อผิดพลาด #47430002"
+   },
+   "initialize_opengl_error_title": {
+      "message": "เกิดข้อผิดพลาด #47430001"
+   },
+   "invalid_sessionid": {
+      "message": "เซสชั่นนี้ไม่ถูกต้อง"
+   },
+   "invite_friend": {
+      "message": "ให้เพื่อนของคุณส่งคำเชิญเพื่อเข้าร่วมกับพวกเขาในเกมและเล่นในฐานะแขกรับเชิญ คุณสามารถเล่นไปพร้อมกับพวกเขา เล่นในฐานะพวกเขา หรือเพียงแค่ดูพวกเขาเล่น"
+   },
+   "join_game": {
+      "message": "เข้าร่วมเกม"
+   },
+   "legal_information": {
+      "message": " ข้อมูลทางกฎหมาย"
+   },
+   "license_agreement": {
+      "message": "ข้อตกลงสิทธิ์การใช้งาน"
+   },
+   "loading": {
+      "message": "กำลังโหลดส่วนประกอบทั้งหมดของระบบ"
+   },
+   "nacl_module_crash": {
+      "message": "เกิดข้อผิดพลาด #47439998"
+   },
+   "no_streamer_config": {
+      "message": "ไม่สามารถค้นหาการกำหนดค่าตัวสตรีม"
+   },
+   "no_webgl_browser_support": {
+      "message": "ต้องเปิดการใช้งาน WebGL เพื่อเชื่อมต่อและเล่นในฐานะแขกรับเชิญ"
+   },
+   "notice": {
+      "message": "ประกาศสำหรับโอเพนซอร์สและบุคคลที่ 3"
+   },
+   "notification_paused": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> หยุด \u003Cb>{gameTitle}\u003C/b> ชั่วคราว"
+   },
+   "notification_pausednodisplayname": {
+      "message": "เพื่อนของคุณหยุด \u003Cb>{gameTitle}\u003C/b> ชั่วคราว"
+   },
+   "nvb_evt_game_exited_by_user": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> หยุดการแชร์ \u003Cb>{gameTitle}\u003C/b> แล้ว"
+   },
+   "nvb_evt_game_exited_by_usernodisplayname": {
+      "message": "เพื่อนของคุณหยุดการแชร์ \u003Cb>{gameTitle}\u003C/b> แล้ว"
+   },
+   "nvb_evt_game_exited_unintentionally": {
+      "message": "เกิดข้อผิดพลาด #47430003"
+   },
+   "nvb_evt_session_expired": {
+      "message": "ถึงกำหนดเวลาสูงสุดที่อนุญาตให้เล่น \u003Cb>{gameTitle}\u003C/b> ในฐานะแขกรับเชิญแล้ว"
+   },
+   "nvb_evt_streaming_properties": {
+      "message": "กำลังเชื่อมต่อกับ \u003Cb>{fromDisplayName}\u003C/b> เพื่อเล่น \u003Cb>{gameTitle}\u003C/b> ในฐานะแขกรับเชิญ"
+   },
+   "nvb_evt_streaming_propertiesnodisplayname": {
+      "message": "กำลังเชื่อมต่อกับเพื่อนของคุณเพื่อเล่น \u003Cb>{gameTitle}\u003C/b> ในฐานะแขกรับเชิญ"
+   },
+   "nvb_r_auth_err_unauthorized_client": {
+      "message": "คำเชิญของคุณจาก \u003Cb>{fromDisplayName}\u003C/b> เพื่อเล่น \u003Cb>{gameTitle}\u003C/b> ในฐานะแขกรับเชิญไม่สามารใช้งานได้อีกต่อไป"
+   },
+   "nvb_r_auth_err_unauthorized_clientnodisplayname": {
+      "message": "คำเชิญจากเพื่อนของคุณเพื่อเล่น \u003Cb>{gameTitle}\u003C/b> ในฐานะแขกรับเชิญไม่สามารถใช้งานได้อีกต่อไป"
+   },
+   "nvb_r_client_upgrade_required": {
+      "message": "คุณต้องมีเวอร์ชันล่าสุดของ GeForce Experience เพื่อให้คุณสามารถเชื่อมต่อ และเล่นเกมในฐานะแขกรับเชิญได้"
+   },
+   "nvb_r_network_error": {
+      "message": "เกิดข้อผิดพลาดทางการสื่อสารของเครือข่าย #47430005"
+   },
+   "nvb_r_no_session_to_resume": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> หยุดการแชร์ \u003Cb>{gameTitle}\u003C/b> แล้ว"
+   },
+   "nvb_r_no_session_to_resumenodisplayname": {
+      "message": "เพื่อนของคุณหยุดการแชร์ \u003Cb>{gameTitle}\u003C/b> แล้ว"
+   },
+   "nvb_r_remote_user_response_timeout": {
+      "message": "คำเชิญของคุณจาก \u003Cb>{fromDisplayName}\u003C/b> เพื่อเล่น \u003Cb>{gameTitle}\u003C/b> ในฐานะแขกรับเชิญหมดอายุแล้ว"
+   },
+   "nvb_r_remote_user_response_timeoutnodisplayname": {
+      "message": "คำเชิญจากเพื่อนของคุณเพื่อเล่น \u003Cb>{gameTitle}\u003C/b> ในฐานะแขกรับเชิญหมดอายุแล้ว"
+   },
+   "nvb_r_server_out_of_service": {
+      "message": "ไม่สามารถเชื่อมต่อกับเพื่อนของคุณเพื่อเล่น \u003Cb>{gameTitle}\u003C/b> ในฐานะแขกรับเชิญ เกิดข้อผิดพลาด #47430004"
+   },
+   "nvb_r_server_upgrade_required": {
+      "message": "เพื่อนของคุณ \u003Cb>{fromDisplayName}\u003C/b> ต้องมีเวอร์ชันล่าสุดของ GeForce Experience เพื่อให้คุณสามารถเชื่อมต่อ และเล่นเกมในฐานะแขกรับเชิญได้"
+   },
+   "nvb_r_session_no_longer_active": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> หยุดการแชร์ \u003Cb>{gameTitle}\u003C/b> แล้ว"
+   },
+   "nvb_r_session_no_longer_activenodisplayname": {
+      "message": "เพื่อนของคุณหยุดการแชร์ \u003Cb>{gameTitle}\u003C/b> แล้ว"
+   },
+   "nvb_r_session_request_rejected": {
+      "message": "คำเชิญของคุณจาก \u003Cb>{fromDisplayName}\u003C/b> เพื่อเล่น \u003Cb>{gameTitle}\u003C/b> ในฐานะแขกรับเชิญถูกยกเลิกแล้ว"
+   },
+   "nvb_r_session_request_rejectednodisplayname": {
+      "message": "คำเชิญจากเพื่อนของคุณเพื่อเล่น \u003Cb>{gameTitle}\u003C/b> ในฐานะแขกรับเชิญถูกยกเลิกแล้ว"
+   },
+   "nvb_r_streamer_connect_failed": {
+      "message": "ไม่สามารถเชื่อมต่อกับเพื่อนของคุณเพื่อเล่น \u003Cb>{gameTitle}\u003C/b> ในฐานะแขกรับเชิญ เกิดข้อผิดพลาด #{hexcode}"
+   },
+   "nvb_r_streamer_network_error": {
+      "message": "เกิดข้อผิดพลาดทางการสื่อสารของเครือข่าย #{hexcode}"
+   },
+   "nvb_r_unknown": {
+      "message": "ไม่สามารถเชื่อมต่อกับ \u003Cb>{fromDisplayName}\u003C/b> เพื่อเล่น \u003Cb>{gameTitle}\u003C/b> ในฐานะแขกรับเชิญ เกิดข้อผิดพลาด #47430218"
+   },
+   "nvb_r_unknownnodisplayname": {
+      "message": "ไม่สามารถเชื่อมต่อกับเพื่อนของคุณเพื่อเล่น \u003Cb>{gameTitle}\u003C/b> ในฐานะแขกรับเชิญ เกิดข้อผิดพลาด #47430218"
+   },
+   "open_share": {
+      "message": "เปิด Share"
+   },
+   "packet_loss": {
+      "message": "การสูญเสียแพ็คเก็ต:"
+   },
+   "playing": {
+      "message": "คุณกำลังเล่น \u003Cb>{gameTitle}\u003C/b> กับ \u003Cb>{fromDisplayName}\u003C/b>"
+   },
+   "playingNoDisplayName": {
+      "message": "คุณกำลังเล่น \u003Cb>{gameTitle}\u003C/b> กับเพื่อนของคุณ"
+   },
+   "privacy_policy": {
+      "message": "นโยบายความเป็นส่วนตัว"
+   },
+   "rate": {
+      "message": "ให้ึคะแนนประสบการณ์ในการใช้สตรีมของคุณ:"
+   },
+   "read_software_lic_agreement": {
+      "message": "โปรดอ่านข้อตกลงสิทธิ์การใช้งานซอฟต์แวร์ของ NVIDIA ต่อไปนี้อย่างละเอียด"
+   },
+   "reconnect": {
+      "message": "กำลังพยายามเชื่อมต่ออีกครั้ง"
+   },
+   "send": {
+      "message": "ส่ง"
+   },
+   "send_feedback": {
+      "message": "ส่งผลตอบกลับ"
+   },
+   "shortcuts": {
+      "message": "แป้นพิมพ์ลัด"
+   },
+   "skip": {
+      "message": "ข้าม"
+   },
+   "software_lic_agreement": {
+      "message": "ข้อตกลงสิทธิ์การใช้งานซอฟต์แวร์ของ NVIDIA"
+   },
+   "statistics": {
+      "message": "สถิติ"
+   },
+   "stopTitle": {
+      "message": "เซสชั่นของคุณถูกปิดลงแล้ว"
+   },
+   "stopping": {
+      "message": "กำลังหยุดเซสชั่นของคุณ..."
+   },
+   "stream": {
+      "message": "สตรีม"
+   },
+   "streaming_health": {
+      "message": "ความสมบูรณ์ของการสตรีม:"
+   },
+   "swiftshader_not_supported": {
+      "message": "ต้องมีตัวแสดงภาพ OpenGL ที่เร่งความเร็วในการทำงาน GPU เพื่อเชื่อมต่อและเล่นในฐานะแขกรับเชิญ"
+   },
+   "system_ready": {
+      "message": "ระบบของคุณพร้อมแล้ว!"
+   },
+   "title": {
+      "message": "กำลังเตรียมเซสชั่นของคุณ..."
+   },
+   "toggle_fullscreen": {
+      "message": "สลับโหมดเต็มจอภาพ/หน้าต่าง"
+   },
+   "toggle_microphone": {
+      "message": "ปิดเสียง/เปิดเสียงไมโครโฟน"
+   },
+   "toggle_stats": {
+      "message": "เปิด/ซ่อนสถิติ"
+   },
+   "troubleshooting_guide": {
+      "message": "ดูคำแนะนำการแก้ไขปัญหา"
+   },
+   "unhandled_error": {
+      "message": "เกิดข้อผิดพลาด #47439999"
+   },
+   "version": {
+      "message": "รุ่น $details$",
+      "placeholders": {
+         "details": {
+            "content": "$1",
+            "example": "2015.xxx.yyyy.1"
+         }
+      }
+   },
+   "watch_game": {
+      "message": "ชมเกม"
+   },
+   "webgl_init_failed": {
+      "message": "ล้มเหลวในการเริ่มต้นการทำงาน WebGL"
+   }
+}

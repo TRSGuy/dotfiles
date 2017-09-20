@@ -1,0 +1,281 @@
+{
+   "about": {
+      "message": "Informácie"
+   },
+   "accept_terms": {
+      "message": "Odsúhlasiť a pokračovať"
+   },
+   "additional_detail": {
+      "message": "Ďalšie podrobnosti:"
+   },
+   "audio_video_quality": {
+      "message": "Nízka kvalita obrazu/zvuku"
+   },
+   "beta": {
+      "message": "Verzia BETA"
+   },
+   "bitrate": {
+      "message": "Aktuálna/maximálna bitová rýchlosť:"
+   },
+   "chat_not_working": {
+      "message": "Hlasový rozhovor nefunguje"
+   },
+   "close": {
+      "message": "Zavrieť"
+   },
+   "comments": {
+      "message": "Komentáre:"
+   },
+   "configuring": {
+      "message": "Čaká sa, kým \u003Cb>{fromDisplayName}\u003C/b> začne s vami zdieľať hru \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "configuringnodisplayname": {
+      "message": "Čaká sa, kým váš priateľ začne s vami zdieľať hru \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "connecting": {
+      "message": "Pripája sa k používateľovi \u003Cb>{fromDisplayName}\u003C/b> na hranie hry \u003Cb>{gameTitle}\u003C/b> v role hosťa."
+   },
+   "connectingnodisplayname": {
+      "message": "Pripája sa k vášmu priateľovi na hranie hry \u003Cb>{gameTitle}\u003C/b> v role hosťa."
+   },
+   "controller_not_working": {
+      "message": "Zdieľanie ovládača nefunguje"
+   },
+   "copyright": {
+      "message": "&copy; 2015 NVIDIA Corporation, všetky práva vyhradené."
+   },
+   "copyright2": {
+      "message": "Copyright &copy; 2015 NVIDIA Corporation "
+   },
+   "disconnected": {
+      "message": "Prerušilo sa sieťové pripojenie"
+   },
+   "errorTitle": {
+      "message": "V doplnku na streamovanie sa vyskytla chyba..."
+   },
+   "external_license_agreement": {
+      "message": "Licenčné zmluvy tretích strán"
+   },
+   "feedback": {
+      "message": "Odozva"
+   },
+   "frame_rate": {
+      "message": "Snímková frekvencia:"
+   },
+   "game_play_laggy": {
+      "message": "Hra sa pri hraní oneskoruje"
+   },
+   "gameseatready": {
+      "message": "Používateľ \u003Cb>{fromDisplayName}\u003C/b> je pripravený hrať s vami hru \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "gameseatreadynodisplayname": {
+      "message": "Váš priateľ je pripravený hrať s vami hru \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "initialize_decoder_error_title": {
+      "message": "Vyskytla sa chyba #47430002."
+   },
+   "initialize_opengl_error_title": {
+      "message": "Vyskytla sa chyba #47430001."
+   },
+   "invalid_sessionid": {
+      "message": "Relácia je neplatná."
+   },
+   "invite_friend": {
+      "message": "Požiadajte priateľa, aby vám odoslal pozvánku. Môžete sa k nemu pripojiť v hre a hrať ako hosť. Môžete hrať spolu s ním, hrať za neho alebo sa len pozerať, ako hrá."
+   },
+   "join_game": {
+      "message": "Pripojiť sa k hre"
+   },
+   "legal_information": {
+      "message": " Právne informácie"
+   },
+   "license_agreement": {
+      "message": "Licenčná zmluva"
+   },
+   "loading": {
+      "message": "Načítavajú sa systémové súčasti."
+   },
+   "nacl_module_crash": {
+      "message": "Vyskytla sa chyba #47439998."
+   },
+   "no_streamer_config": {
+      "message": "Nie je možné nájsť konfiguráciu streamovacieho zariadenia."
+   },
+   "no_webgl_browser_support": {
+      "message": "Na pripojenie a hranie v role hosťa musí byť povolená knižnica WebGL."
+   },
+   "notice": {
+      "message": "Poznámky týkajúce sa tretích strán a otvoreného zdroja"
+   },
+   "notification_paused": {
+      "message": "Používateľ \u003Cb>{fromDisplayName}\u003C/b> pozastavil hru \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "notification_pausednodisplayname": {
+      "message": "Váš priateľ pozastavil hru \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "nvb_evt_game_exited_by_user": {
+      "message": "Používateľ \u003Cb>{fromDisplayName}\u003C/b> zastavil zdieľanie hry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_evt_game_exited_by_usernodisplayname": {
+      "message": "Váš priateľ zastavil zdieľanie hry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_evt_game_exited_unintentionally": {
+      "message": "Vyskytla sa chyba #47430003."
+   },
+   "nvb_evt_session_expired": {
+      "message": "Dosiahol sa maximálny povolený čas na hranie hry \u003Cb>{gameTitle}\u003C/b> v role hosťa."
+   },
+   "nvb_evt_streaming_properties": {
+      "message": "Pripája sa k používateľovi \u003Cb>{fromDisplayName}\u003C/b> na hranie hry \u003Cb>{gameTitle}\u003C/b> v role hosťa"
+   },
+   "nvb_evt_streaming_propertiesnodisplayname": {
+      "message": "Pripája sa k vášmu priateľovi na hranie hry \u003Cb>{gameTitle}\u003C/b> v role hosťa"
+   },
+   "nvb_r_auth_err_unauthorized_client": {
+      "message": "Pozvánka od používateľa \u003Cb>{fromDisplayName}\u003C/b> na hranie hry \u003Cb>{gameTitle}\u003C/b> v role hosťa už nie je aktívna."
+   },
+   "nvb_r_auth_err_unauthorized_clientnodisplayname": {
+      "message": "Pozvánka od vášho priateľa na hranie hry \u003Cb>{gameTitle}\u003C/b> v role hosťa už nie je aktívna."
+   },
+   "nvb_r_client_upgrade_required": {
+      "message": "Na pripojenie a hranie v role hosťa potrebujete najnovšiu verziu programu GeForce Experience."
+   },
+   "nvb_r_network_error": {
+      "message": "Vyskytla sa chyba sieťovej komunikácie #47430005."
+   },
+   "nvb_r_no_session_to_resume": {
+      "message": "Používateľ \u003Cb>{fromDisplayName}\u003C/b> zastavil zdieľanie hry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_no_session_to_resumenodisplayname": {
+      "message": "Váš priateľ zastavil zdieľanie hry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_remote_user_response_timeout": {
+      "message": "Platnosť pozvánky od používateľa \u003Cb>{fromDisplayName}\u003C/b> na hranie hry \u003Cb>{gameTitle}\u003C/b> v role hosťa uplynula."
+   },
+   "nvb_r_remote_user_response_timeoutnodisplayname": {
+      "message": "Platnosť pozvánky od vášho priateľa na hranie hry \u003Cb>{gameTitle}\u003C/b> v role hosťa uplynula."
+   },
+   "nvb_r_server_out_of_service": {
+      "message": "Nie je možné pripojiť sa k vášmu priateľovi na hranie hry \u003Cb>{gameTitle}\u003C/b> v role hosťa. Vyskytla sa chyba #47430004."
+   },
+   "nvb_r_server_upgrade_required": {
+      "message": "Váš priateľ, \u003Cb>{fromDisplayName}\u003C/b>, potrebuje najnovšiu verziu programu GeForce Experience, inak sa nemôžete pripojiť a hrať ako hosť."
+   },
+   "nvb_r_session_no_longer_active": {
+      "message": "Používateľ \u003Cb>{fromDisplayName}\u003C/b> zastavil zdieľanie hry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_session_no_longer_activenodisplayname": {
+      "message": "Váš priateľ zastavil zdieľanie hry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_session_request_rejected": {
+      "message": "Pozvánka od používateľa \u003Cb>{fromDisplayName}\u003C/b> na hranie hry \u003Cb>{gameTitle}\u003C/b> v role hosťa bola zrušená."
+   },
+   "nvb_r_session_request_rejectednodisplayname": {
+      "message": "Pozvánka od vášho priateľa na hranie hry \u003Cb>{gameTitle}\u003C/b> v role hosťa bola zrušená."
+   },
+   "nvb_r_streamer_connect_failed": {
+      "message": "Nie je možné pripojiť sa k vášmu priateľovi na hranie hry \u003Cb>{gameTitle}\u003C/b> v role hosťa. Vyskytla sa chyba #{hexcode}."
+   },
+   "nvb_r_streamer_network_error": {
+      "message": "Vyskytla sa chyba sieťovej komunikácie #{hexcode}."
+   },
+   "nvb_r_unknown": {
+      "message": "Nie je možné pripojiť sa k používateľovi \u003Cb>{fromDisplayName}\u003C/b> na hranie hry \u003Cb>{gameTitle}\u003C/b> v role hosťa. Vyskytla sa chyba #47430218."
+   },
+   "nvb_r_unknownnodisplayname": {
+      "message": "Nie je možné pripojiť sa k vášmu priateľovi na hranie hry \u003Cb>{gameTitle}\u003C/b> v role hosťa. Vyskytla sa chyba #47430218."
+   },
+   "open_share": {
+      "message": "Otvoriť funkciu Zdieľanie"
+   },
+   "packet_loss": {
+      "message": "Strata paketov:"
+   },
+   "playing": {
+      "message": "Hráte hru \u003Cb>{gameTitle}\u003C/b> s používateľom \u003Cb>{fromDisplayName}\u003C/b>."
+   },
+   "playingNoDisplayName": {
+      "message": "Hráte hru \u003Cb>{gameTitle}\u003C/b> so svojím priateľom."
+   },
+   "privacy_policy": {
+      "message": "Zásady ochrany osobných údajov"
+   },
+   "rate": {
+      "message": "Ohodnoťte svoje skúsenosti s používaním služby Stream:"
+   },
+   "read_software_lic_agreement": {
+      "message": "Pozorne si prečítajte licenčnú zmluvu k softvéru NVIDIA."
+   },
+   "reconnect": {
+      "message": "Prebieha pokus o opätovné pripojenie..."
+   },
+   "send": {
+      "message": "Odoslať"
+   },
+   "send_feedback": {
+      "message": "Odoslať odozvu"
+   },
+   "shortcuts": {
+      "message": "Klávesové skratky"
+   },
+   "skip": {
+      "message": "Preskočiť"
+   },
+   "software_lic_agreement": {
+      "message": "Licenčná zmluva k softvéru NVIDIA"
+   },
+   "statistics": {
+      "message": "Štatistika"
+   },
+   "stopTitle": {
+      "message": "Vaša relácia sa ukončila."
+   },
+   "stopping": {
+      "message": "Zastavuje sa vaša relácia..."
+   },
+   "stream": {
+      "message": "Stream"
+   },
+   "streaming_health": {
+      "message": "Stav streamovania:"
+   },
+   "swiftshader_not_supported": {
+      "message": "Na pripojenie a hranie v role hosťa sa vyžaduje vykresľovač technológie OpenGL urýchľovaný procesorom GPU."
+   },
+   "system_ready": {
+      "message": "Systém je pripravený."
+   },
+   "title": {
+      "message": "Pripravuje sa vaša relácia..."
+   },
+   "toggle_fullscreen": {
+      "message": "Prepnúť na celú obrazovku/v okne"
+   },
+   "toggle_microphone": {
+      "message": "Stlmiť mikrofón/zrušiť stlmenie mikrofónu"
+   },
+   "toggle_stats": {
+      "message": "Zobraziť/skryť štatistiky"
+   },
+   "troubleshooting_guide": {
+      "message": "Zobraziť sprievodcu riešením problémov"
+   },
+   "unhandled_error": {
+      "message": "Vyskytla sa chyba #47439999."
+   },
+   "version": {
+      "message": "Verzia $details$",
+      "placeholders": {
+         "details": {
+            "content": "$1",
+            "example": "2015.xxx.yyyy.1"
+         }
+      }
+   },
+   "watch_game": {
+      "message": "Sledovať hru"
+   },
+   "webgl_init_failed": {
+      "message": "Nepodarilo sa inicializovať knižnicu WebGL."
+   }
+}

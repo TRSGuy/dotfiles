@@ -1,0 +1,716 @@
+/* This will override the margin of the embedded gridPepperModule */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: DINWebPro-Light;
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/DINWebPro.eot");
+    -webkit-font-smoothing: antialiased;
+}
+/* first for IE 4–8 */
+
+@font-face {
+    font-family: DINWebPro-Light;
+    src: url("../fonts/DINWebPro-Light.eot");
+}
+/* then for WOFF-capable browsers */
+
+@font-face {
+    font-family: DINWebPro-Light;
+    src: url("../fonts/DINWebPro-Light.woff") format("woff");
+}
+
+#listener {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+}
+
+#listener:-webkit-full-screen {
+    width: 100%;
+    height: 100%;
+}
+
+#gridPepperModule {
+    width: 100%;
+    height: 100%;
+}
+
+#clientDisplay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    visibility: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+#messageDisplay {
+    width: 1600px;
+    height: 1200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: #efefef;
+    font-size: 16px;
+    font-family: DINWebPro-Light, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 28px;
+    background: url(../img/Background_Texture_1920x1200.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    overflow-x: hidden;
+    white-space: normal;
+}
+
+#content-container {
+    width: 100%;
+    margin-top: 15%;
+}
+
+#content {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#content h1 {
+    font: inherit;
+    font-size: 2.3em;
+    font-weight: normal;
+    line-height: 1.5em;
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #efefef;
+}
+
+#content h2 {
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 20px;
+    line-height: 1.5em;
+    font: inherit;
+    font-size: 1.5em;
+    font-weight: normal;
+    color: #efefef;
+}
+
+#messageButtonDiv {
+    text-align: center;
+}
+
+#messageLogoImage {
+    padding-bottom: 1.0em;
+}
+
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pauseContainer h1 {
+    position: relative;
+    margin-top: 0;
+    font: inherit;
+    font-size: 2.3em;
+    font-weight: normal;
+    line-height: 1.5em;
+    color: #efefef;
+}
+
+#pauseText {
+    padding-top: 40px;
+    text-align: center;
+}
+
+#wrap {
+    margin: 0 auto;
+    width: 500px;
+    padding: 10px;
+    border: 1px solid #bbb;
+    text-align: center;
+    background: #EEEEE1;
+}
+
+input[type=button] {
+    margin-right: 10px;
+}
+
+.notifier-fullscreen-notification {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 2147483647;
+}
+
+.notifier-fullscreen-notification .text {
+    top: 50%;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    font-size: 400%;
+    color: rgb(255, 255, 255);
+}
+
+#statsContainer {
+    position: absolute;
+    z-index: 2147483647;
+    pointer-events: none;
+    bottom: 0;
+    left: 0;
+    width: 300px;
+    height: 140px;
+    padding: 20px;
+    margin: 20px;
+    display: table;
+    background: rgba(0,0,0, 0.70);
+}
+
+#statsContainer th {
+    padding-bottom: 10px;
+    font-family: 'Segoe UI';
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #FFF;
+}
+
+#statsContainer td {
+    font-family: 'Segoe UI';
+    font-size: 18px;
+    font-weight:lighter;
+    text-decoration: none;
+    color: #FFF;
+}
+
+#osdContainer {
+    position: absolute;
+    z-index: 2147483647;
+    pointer-events: none;
+    bottom: 0;
+    right: 0;
+    padding:20px;
+}
+
+#micOsdImage {
+    float: left;
+    padding-right:10px;
+}
+
+#signalStrengthImage {
+}
+
+#miniOsc {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: rgba(0,0,0,0.1);
+    z-index: 2147483647;
+}
+
+#topBar {
+    height:80px;
+    width:100%;
+    background: rgba(0,0,0, 0.70);
+    display: table;
+}
+
+#appIcon {
+    width:64px;
+    height:64px;
+    float:left;
+    margin: 8px;
+}
+
+#share {
+    vertical-align: middle;
+    text-align: center;
+    margin: 18px;
+    
+    font-family: 'Segoe UI';
+    font-size: 32px;
+    font-weight: bolder;
+    text-decoration: none;
+    color: #FFF;
+}
+
+#closeButton {
+    width:32px;
+    height:32px;
+    float:right;
+    margin: 21px;
+    border: 3px solid transparent;
+}
+
+#oscMenu {
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 20px;
+    transform: translate(100px, 0px);
+    white-space: nowrap;
+}
+
+.oscMenuImage {
+    padding-top: 12px;
+}
+
+#oscMenu li {
+    display: block;
+    text-align: center;
+    background: rgba(0,0,0, 0.70);
+    
+    -webkit-box-sizing: border-box;
+    border: 3px solid transparent;
+    overflow:hidden;
+    float:left;
+        
+    font-family: 'Segoe UI';
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #FFF;
+}
+
+#oscMenu li.active {
+    background: black;
+    border: 3px solid #76b900;
+}
+
+
+#oscMenu #joinTile {
+    width:480px;
+    height:240px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+#oscMenu #fullscreenTile {
+    margin-left:20px;
+    width:80px;
+    height:80px;
+}
+
+#oscMenu #micTile {
+    width:80px;
+    height:80px;
+}
+
+#shortcutBox {
+    width: 440px;
+    display: table;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 20px;
+    background: rgba(0,0,0, 0.70);
+}
+
+#shortcutBox th {
+    padding-bottom: 15px;
+    font-family: 'Segoe UI';
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #FFF;
+}
+
+#shortcutBox td {
+    font-family: 'Segoe UI';
+    font-size: 18px;
+    font-weight:lighter;
+    text-decoration: none;
+    color: #FFF;
+}
+
+#aboutBox {
+    width: 440px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: rgba(0,0,0, 0.70);
+    color: #FFF;
+}
+
+#aboutHeader {
+    width: 100%;
+    text-align: center;
+}
+
+#aboutImage {
+    padding-left: 10px;
+    padding-bottom: 4px;
+    display: inline;
+}
+
+#aboutText {
+    margin: 0px;
+    padding: 0px;
+    display: inline;
+    
+    font-family: 'Segoe UI';
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #FFF;
+}
+
+#aboutContent {
+    padding-top: 15px;
+    text-align: center;
+}
+
+#aboutBox p {
+    font-family: 'Segoe UI';
+    font-size: 18px;
+    font-weight:lighter;
+    text-decoration: none;
+    color: #FFF;
+}
+
+#aboutBox a {
+    cursor: pointer;
+    font-family: 'Segoe UI';
+    font-size: 14px;
+    font-weight:lighter;
+    text-decoration: none;
+    color: #FFF;
+    text-decoration: underline;
+}
+
+#feedbackDisplay {
+    width: 1600px;
+    height: 1200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'Segoe UI';
+    font-size: 22px;
+    text-decoration: none;
+    color: #FFF;
+    background: url(../img/Background_Texture_1920x1200.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    overflow-x: hidden;
+    white-space: normal;
+}
+
+#feedback {
+    width: 100%;
+    margin: 7% auto;
+}
+
+#streamTile {
+    font-family: 'Segoe UI';
+    font-size: 22px;
+    text-decoration: none;
+    color: #FFF;
+    
+    position: relative;
+    display: block;
+    text-align: center;
+    background: rgba(0,0,0,1);
+    
+    width:240px;
+    height:240px;
+    margin-right: 40px;
+    margin-left: 100px;
+    overflow:hidden;
+    float:left;
+}
+
+#streamTileText {
+    margin-top:20px;
+    margin-bottom:10px;
+}
+
+#streamTileBottomText {
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+#ratings {
+    font-family: 'Segoe UI';
+    font-size: 22px;
+    text-decoration: none;
+    border-top: 10px solid #76b900;
+    color: #FFF;
+    position: relative;
+    display: block;
+    background: #262b2f;
+    overflow:hidden;
+    float:left;
+}
+
+#heading {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.rating_selection {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    background: black;
+}
+
+.rating_selection label:first-of-type {
+    display: none;
+}
+
+.rating_selection input[type='radio'],
+.rating_selection span {
+    display: none;
+}
+
+.rating_selection label {
+    cursor: pointer;
+}
+
+.rating_selection label:before {
+    display: inline-block;
+    content: url(../img/star_green_filled_icon48.png);
+}
+
+.rating_selection input:checked + label ~ label:before {
+    content: url(../img/star_white_hollow_icon48.png);
+}
+
+.rating_selection:hover label[for]:before {
+    content: url(../img/star_green_hollow_icon48.png);
+}
+
+.rating_selection:hover label:hover ~ label:before {
+    content: url(../img/star_white_hollow_icon48.png);
+}
+
+#details {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    display:block;
+}
+
+#addDetailsText_id {
+    margin-top: 20px;
+}
+
+.addDetails_selection label {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.addDetails_selection input[type='checkbox'] {
+    display: none;
+}
+
+.addDetails_selection label:before {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-right: 10px;
+    background-color: black;
+    border: 2px solid transparent;
+}
+
+.addDetails_selection input[type='checkbox']:checked + label:before {
+    background-color: #76b900;
+}
+
+.addDetails_selection input[type='checkbox']:hover + label:before {
+    border: 2px solid #76b900;
+}
+
+#comments {
+    margin:20px;
+}
+#commentsTextArea {
+    margin-top: 15px;
+    background-color: black;
+    border: none;
+    color: #FFF;
+    font-family: 'Segoe UI';
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#buttons {
+    font-family: 'Segoe UI';
+    font-size: 22px;
+    text-decoration: none;
+    color: #FFF;
+    position: relative;
+    display: block;
+    width:240px;
+    height:180px;
+    margin-left: 40px;
+    overflow:hidden;
+    float:left;
+}
+
+.feedback_button {
+    font-family: 'Segoe UI';
+    font-size: 22px;
+    text-decoration: none;
+    color: #FFF;
+    background: black;
+    width: 240px;
+    height: 80px;
+    margin-bottom: 20px;
+    border: none;
+    outline: none;
+    box-shadow:none;
+}
+
+/*
+.feedback_button:hover {
+    background: #76b900;
+}
+*/
+
+.feedback_button.active {
+    background: #76b900;
+}
+
+#eulaDisplay {
+    width: 1600px;
+    height: 1200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: #efefef;
+    font-size: 16px;
+    font-family: DINWebPro-Light, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 28px;
+    background: url(../img/Background_Texture_1920x1200.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    overflow-x: hidden;
+    white-space: normal;
+}
+
+#eulaContainer {
+    width: 600px;
+    margin: 7% auto;
+}
+
+#eulaContainer img {
+    padding-bottom: 1.0em;
+}
+
+#eulaContainer h1 {
+    font: inherit;
+    font-size: 2.3em;
+    font-weight: normal;
+    line-height: 1.5em;
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #efefef;
+}
+
+#eulaContainer h2 {
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 20px;
+    line-height: 1.5em;
+    font: inherit;
+    font-size: 1.5em;
+    font-weight: normal;
+    color: #efefef;
+}
+
+#eulaContent {
+    width: 600px;
+}
+
+#eulaTextArea {
+    width: 100%;
+    height:200px;
+
+    background-color: black;
+    color: #FFF;
+    font-size: 16px;
+    text-decoration: none;
+    overflow:auto;
+    margin: 10px auto;
+}
+
+#eulaButtonDiv {
+    text-align: center;
+}
+
+.buttonactive {
+    border: 2px solid #76b900;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 1.0em;
+    outline: 0;
+    background: none;
+    color: #fff;
+}
+
+.buttonactive:hover {
+    background: #76b900;
+}
+
+.buttonactive:active {
+    background: #5a8d00
+}
+
+.buttoninactive {
+    border: 2px solid #666666;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 1.0em;
+    color: #cccccc;
+    outline: 0;
+    background: #666666;
+    width: 10em;
+}
+
+.buttoninactive:hover {
+    background: #666666;
+}
+
+.buttoninactive:active {
+    background: #666666
+}
+
+*:focus {
+    outline: 0;
+}

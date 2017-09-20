@@ -1,0 +1,281 @@
+{
+   "about": {
+      "message": "Om"
+   },
+   "accept_terms": {
+      "message": "Acceptér og fortsæt."
+   },
+   "additional_detail": {
+      "message": "Yderligere detaljer:"
+   },
+   "audio_video_quality": {
+      "message": "Kvalitet på billede/lyd er dårlig"
+   },
+   "beta": {
+      "message": "BETA"
+   },
+   "bitrate": {
+      "message": "Aktuel/Maksimal bithastighed:"
+   },
+   "chat_not_working": {
+      "message": "Talechat fungerer ikke"
+   },
+   "close": {
+      "message": "Luk"
+   },
+   "comments": {
+      "message": "Kommentarer:"
+   },
+   "configuring": {
+      "message": "Venter på at \u003Cb>{fromDisplayName}\u003C/b> begynder at dele \u003Cb>{gameTitle}\u003C/b> med dig."
+   },
+   "configuringnodisplayname": {
+      "message": "Venter på at din ven begynder at dele \u003Cb>{gameTitle}\u003C/b> med dig."
+   },
+   "connecting": {
+      "message": "Etablerer forbindelse med \u003Cb>{fromDisplayName}\u003C/b> for at spille \u003Cb>{gameTitle}\u003C/b> som en gæst."
+   },
+   "connectingnodisplayname": {
+      "message": "Etablerer forbindelse med din ven for at spille \u003Cb>{gameTitle}\u003C/b> som en gæst."
+   },
+   "controller_not_working": {
+      "message": "Controller-deling fungerer ikke"
+   },
+   "copyright": {
+      "message": "&copy; 2015 NVIDIA Corporation. Alle rettigheder forbeholdes."
+   },
+   "copyright2": {
+      "message": "Copyright &copy; 2015 NVIDIA Corporation "
+   },
+   "disconnected": {
+      "message": "Netværksforbindelse blev tabt"
+   },
+   "errorTitle": {
+      "message": "Stream plug-in er stødt på et problem..."
+   },
+   "external_license_agreement": {
+      "message": "Licensaftaler fra tredjeparter"
+   },
+   "feedback": {
+      "message": "Tilbagemelding"
+   },
+   "frame_rate": {
+      "message": "Billedhastighed:"
+   },
+   "game_play_laggy": {
+      "message": "Spil er forsinket"
+   },
+   "gameseatready": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> er klar til at spille \u003Cb>{gameTitle}\u003C/b> med dig."
+   },
+   "gameseatreadynodisplayname": {
+      "message": "Din ven er klar til at spille \u003Cb>{gameTitle}\u003C/b> med dig."
+   },
+   "initialize_decoder_error_title": {
+      "message": "Fejl nr. 47430002 opstod."
+   },
+   "initialize_opengl_error_title": {
+      "message": "Fejl nr. 47430001 opstod."
+   },
+   "invalid_sessionid": {
+      "message": "Sessionen er ugyldig."
+   },
+   "invite_friend": {
+      "message": "Få en ven til at sende dig en invitation til at deltage i et spil, og spil som en gæst. Du kan spille sammen med dem, spille som dem, eller bare se dem spille."
+   },
+   "join_game": {
+      "message": "Deltag i spil"
+   },
+   "legal_information": {
+      "message": " Juridiske oplysninger"
+   },
+   "license_agreement": {
+      "message": "Licensaftale"
+   },
+   "loading": {
+      "message": "Indlæser systemkomponenter."
+   },
+   "nacl_module_crash": {
+      "message": "Fejl nr. 47439998 opstod."
+   },
+   "no_streamer_config": {
+      "message": "Kan ikke finde streamer-konfiguration."
+   },
+   "no_webgl_browser_support": {
+      "message": "WebGL skal være aktiveret for at etablere forbindelse og spille som en gæst."
+   },
+   "notice": {
+      "message": "Bemærkninger om tredjeparter og open source"
+   },
+   "notification_paused": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> holder pause i \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "notification_pausednodisplayname": {
+      "message": "Din ven holder pause i \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "nvb_evt_game_exited_by_user": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> er holdt op med at dele \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_evt_game_exited_by_usernodisplayname": {
+      "message": "Din ven er holdt op med dele \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_evt_game_exited_unintentionally": {
+      "message": "Fejl nr. 47430003 opstod."
+   },
+   "nvb_evt_session_expired": {
+      "message": "Den maksimalt tilladte tid til at spille \u003Cb>{gameTitle}\u003C/b> som en gæst er nået."
+   },
+   "nvb_evt_streaming_properties": {
+      "message": "Etablerer forbindelse med \u003Cb>{fromDisplayName}\u003C/b> for at spille \u003Cb>{gameTitle}\u003C/b> som en gæst."
+   },
+   "nvb_evt_streaming_propertiesnodisplayname": {
+      "message": "Etablerer forbindelse med din ven for at spille \u003Cb>{gameTitle}\u003C/b> som en gæst."
+   },
+   "nvb_r_auth_err_unauthorized_client": {
+      "message": "Din invitation fra \u003Cb>{fromDisplayName}\u003C/b> til at spille \u003Cb>{gameTitle}\u003C/b> som en gæst er ikke længere aktiv."
+   },
+   "nvb_r_auth_err_unauthorized_clientnodisplayname": {
+      "message": "Din invitation fra din ven til at spille \u003Cb>{gameTitle}\u003C/b> som en gæst er ikke længere aktiv."
+   },
+   "nvb_r_client_upgrade_required": {
+      "message": "Du er nødt til at få den seneste version af GeForce Experience, for at du kan etablere forbindelse og spille som en gæst."
+   },
+   "nvb_r_network_error": {
+      "message": "Netværkskommunikationfejl nr. 47430005 opstod."
+   },
+   "nvb_r_no_session_to_resume": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> er holdt op med at dele \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_no_session_to_resumenodisplayname": {
+      "message": "Din ven er holdt op med dele \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_remote_user_response_timeout": {
+      "message": "Din invitation fra \u003Cb>{fromDisplayName}\u003C/b> til at spille \u003Cb>{gameTitle}\u003C/b> som en gæst er udløbet."
+   },
+   "nvb_r_remote_user_response_timeoutnodisplayname": {
+      "message": "Din invitation fra din ven til at spille \u003Cb>{gameTitle}\u003C/b> som en gæst er udløbet."
+   },
+   "nvb_r_server_out_of_service": {
+      "message": "Kan ikke etablere forbindelse med din ven for at spille \u003Cb>{gameTitle}\u003C/b> som en gæst. Fejl nr. 47430004 opstod."
+   },
+   "nvb_r_server_upgrade_required": {
+      "message": "Din ven, \u003Cb>{fromDisplayName}\u003C/b>, er nødt til at få den seneste version af GeForce Experience, for at du kan etablere forbindelse og spille som en gæst."
+   },
+   "nvb_r_session_no_longer_active": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> er holdt op med at dele \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_session_no_longer_activenodisplayname": {
+      "message": "Din ven er holdt op med dele \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_session_request_rejected": {
+      "message": "Din invitation fra \u003Cb>{fromDisplayName}\u003C/b> til at spille \u003Cb>{gameTitle}\u003C/b> som en gæst er blevet annulleret."
+   },
+   "nvb_r_session_request_rejectednodisplayname": {
+      "message": "Din invitation fra din ven til at spille \u003Cb>{gameTitle}\u003C/b> som en gæst er blevet annulleret."
+   },
+   "nvb_r_streamer_connect_failed": {
+      "message": "Kan ikke etablere forbindelse med din ven for at spille \u003Cb>{gameTitle}\u003C/b> som en gæst. Fejl nr. {hexcode} opstod"
+   },
+   "nvb_r_streamer_network_error": {
+      "message": "Netværkskommunikationfejl nr. {hexcode} opstod."
+   },
+   "nvb_r_unknown": {
+      "message": "Kan ikke etablere forbindelse med \u003Cb>{fromDisplayName}\u003C/b> for at spille \u003Cb>{gameTitle}\u003C/b> som en gæst. Fejl nr. 47430218 opstod."
+   },
+   "nvb_r_unknownnodisplayname": {
+      "message": "Kan ikke etablere forbindelse med din ven for at spille \u003Cb>{gameTitle}\u003C/b> som en gæst. Fejl nr. 47430218 opstod."
+   },
+   "open_share": {
+      "message": "Åbn Deling"
+   },
+   "packet_loss": {
+      "message": "Mistet pakke:"
+   },
+   "playing": {
+      "message": "Du spiller \u003Cb>{gameTitle}\u003C/b> med \u003Cb>{fromDisplayName}\u003C/b>."
+   },
+   "playingNoDisplayName": {
+      "message": "Du spiller \u003Cb>{gameTitle}\u003C/b> med din ven."
+   },
+   "privacy_policy": {
+      "message": "Politik for beskyttelse af private oplysninger"
+   },
+   "rate": {
+      "message": "Vurder din oplevelse med brug af Stream:"
+   },
+   "read_software_lic_agreement": {
+      "message": "Læs følgende NVIDIA-softwarelicensaftale omhyggeligt."
+   },
+   "reconnect": {
+      "message": "Forsøger at få forbindelse igen..."
+   },
+   "send": {
+      "message": "Send"
+   },
+   "send_feedback": {
+      "message": "Send tilbagemelding"
+   },
+   "shortcuts": {
+      "message": "Tastaturgenveje"
+   },
+   "skip": {
+      "message": "Spring over"
+   },
+   "software_lic_agreement": {
+      "message": "NVIDIA-softwarelicensaftale"
+   },
+   "statistics": {
+      "message": "Statistikker"
+   },
+   "stopTitle": {
+      "message": "Din session er omme."
+   },
+   "stopping": {
+      "message": "Standser din session..."
+   },
+   "stream": {
+      "message": "Stream"
+   },
+   "streaming_health": {
+      "message": "Helbredstilstand på streaming:"
+   },
+   "swiftshader_not_supported": {
+      "message": "En GPU-accelereret OpenGL-gengiver er nødvendig for at etablere forbindelse og spille som gæst."
+   },
+   "system_ready": {
+      "message": "Systemet er parat!"
+   },
+   "title": {
+      "message": "Forbereder din session..."
+   },
+   "toggle_fullscreen": {
+      "message": "Skift imellem fuld skærm/i vindue"
+   },
+   "toggle_microphone": {
+      "message": "Slå mikrofonlyd til/fra"
+   },
+   "toggle_stats": {
+      "message": "Vis/Skjul statistikker"
+   },
+   "troubleshooting_guide": {
+      "message": "Vis fejlfindingsvejledning"
+   },
+   "unhandled_error": {
+      "message": "Fejl nr. 47439999 opstod."
+   },
+   "version": {
+      "message": "Version $details$",
+      "placeholders": {
+         "details": {
+            "content": "$1",
+            "example": "2015.xxx.yyyy.1"
+         }
+      }
+   },
+   "watch_game": {
+      "message": "Se spil"
+   },
+   "webgl_init_failed": {
+      "message": "Kunne ikke initialisere WebGL."
+   }
+}

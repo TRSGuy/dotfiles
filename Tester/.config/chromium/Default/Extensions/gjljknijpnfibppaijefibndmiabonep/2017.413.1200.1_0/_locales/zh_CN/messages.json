@@ -1,0 +1,281 @@
+{
+   "about": {
+      "message": "关于"
+   },
+   "accept_terms": {
+      "message": "同意并继续"
+   },
+   "additional_detail": {
+      "message": "附加详情："
+   },
+   "audio_video_quality": {
+      "message": "视觉/音频质量太差"
+   },
+   "beta": {
+      "message": "BETA"
+   },
+   "bitrate": {
+      "message": "当前/最大比特率："
+   },
+   "chat_not_working": {
+      "message": "语音聊天无法正常运行"
+   },
+   "close": {
+      "message": "关闭"
+   },
+   "comments": {
+      "message": "评注："
+   },
+   "configuring": {
+      "message": "正在等待 \u003Cb>{fromDisplayName}\u003C/b> 开始与您共享\u003Cb>{gameTitle}\u003C/b>。"
+   },
+   "configuringnodisplayname": {
+      "message": "正在等待您的好友开始与您共享\u003Cb>{gameTitle}\u003C/b>。"
+   },
+   "connecting": {
+      "message": "正在连接 \u003Cb>{fromDisplayName}\u003C/b> ，以作为游客游戏 \u003Cb>{gameTitle}\u003C/b>。"
+   },
+   "connectingnodisplayname": {
+      "message": "正在连接您的好友，以作为游客游戏 \u003Cb>{gameTitle}\u003C/b>。"
+   },
+   "controller_not_working": {
+      "message": "控制器共享无法正常运行"
+   },
+   "copyright": {
+      "message": "&copy; 2015 NVIDIA Corporation，保留所有权利。"
+   },
+   "copyright2": {
+      "message": "&copy; 2015 NVIDIA Corporation 版权所有"
+   },
+   "disconnected": {
+      "message": "网络连接丢失"
+   },
+   "errorTitle": {
+      "message": "串流插件出现一个问题……"
+   },
+   "external_license_agreement": {
+      "message": "第三方许可协议"
+   },
+   "feedback": {
+      "message": "反馈"
+   },
+   "frame_rate": {
+      "message": "帧速率："
+   },
+   "game_play_laggy": {
+      "message": "游戏延迟"
+   },
+   "gameseatready": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> 准备与您游戏 \u003Cb>{gameTitle}\u003C/b>。"
+   },
+   "gameseatreadynodisplayname": {
+      "message": "您的好友准备与您游戏 \u003Cb>{gameTitle}\u003C/b>。"
+   },
+   "initialize_decoder_error_title": {
+      "message": "出现错误 #47430002。"
+   },
+   "initialize_opengl_error_title": {
+      "message": "出现错误 #47430001。"
+   },
+   "invalid_sessionid": {
+      "message": "会话无效。"
+   },
+   "invite_friend": {
+      "message": "有位朋友向您发送邀请，让您加入他们，以游客身份玩游戏。您可与他们一起玩游戏、以他们的身份玩游戏或者只是观看他们玩游戏。"
+   },
+   "join_game": {
+      "message": "加入游戏"
+   },
+   "legal_information": {
+      "message": " 法律信息"
+   },
+   "license_agreement": {
+      "message": "许可协议"
+   },
+   "loading": {
+      "message": "正在加载系统组件。"
+   },
+   "nacl_module_crash": {
+      "message": "出现错误 #47439998。"
+   },
+   "no_streamer_config": {
+      "message": "找不到串流器配置。"
+   },
+   "no_webgl_browser_support": {
+      "message": "必须启用 WebGL，才能连接并作为游客游戏。"
+   },
+   "notice": {
+      "message": "第三方和开放源代码通知"
+   },
+   "notification_paused": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> 暂停了 \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "notification_pausednodisplayname": {
+      "message": "您的好友暂停了 \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "nvb_evt_game_exited_by_user": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> 已停止共享 \u003Cb>{gameTitle}\u003C/b>。"
+   },
+   "nvb_evt_game_exited_by_usernodisplayname": {
+      "message": "您的好友已停止共享 \u003Cb>{gameTitle}\u003C/b>。"
+   },
+   "nvb_evt_game_exited_unintentionally": {
+      "message": "出现错误 #47430003。"
+   },
+   "nvb_evt_session_expired": {
+      "message": "已达到作为游客游戏 \u003Cb>{gameTitle}\u003C/b> 所允许的最大时间。"
+   },
+   "nvb_evt_streaming_properties": {
+      "message": "正在连接 \u003Cb>{fromDisplayName}\u003C/b> ，以作为游客游戏 \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "nvb_evt_streaming_propertiesnodisplayname": {
+      "message": "正在连接您的好友，以作为游客游戏 \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "nvb_r_auth_err_unauthorized_client": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> 邀请您作为游客游戏 \u003Cb>{gameTitle}\u003C/b> 的邀请不再处于活动状态。"
+   },
+   "nvb_r_auth_err_unauthorized_clientnodisplayname": {
+      "message": "您的好友邀请您作为游客游戏 \u003Cb>{gameTitle}\u003C/b> 的邀请不再处于活动状态。"
+   },
+   "nvb_r_client_upgrade_required": {
+      "message": "您需要获取最新版本的 GeForce Experience，这样您才能连接并作为游客游戏。"
+   },
+   "nvb_r_network_error": {
+      "message": "出现网络通信错误 #47430005。"
+   },
+   "nvb_r_no_session_to_resume": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> 已停止共享 \u003Cb>{gameTitle}\u003C/b>。"
+   },
+   "nvb_r_no_session_to_resumenodisplayname": {
+      "message": "您的好友已停止共享 \u003Cb>{gameTitle}\u003C/b>。"
+   },
+   "nvb_r_remote_user_response_timeout": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> 邀请您作为游客游戏 \u003Cb>{gameTitle}\u003C/b> 的邀请已过期。"
+   },
+   "nvb_r_remote_user_response_timeoutnodisplayname": {
+      "message": "您的好友邀请您作为游客游戏 \u003Cb>{gameTitle}\u003C/b> 的邀请已过期。"
+   },
+   "nvb_r_server_out_of_service": {
+      "message": "无法连接您的好友，以作为游客游戏 \u003Cb>{gameTitle}\u003C/b>。出现错误 #47430004。"
+   },
+   "nvb_r_server_upgrade_required": {
+      "message": "您的朋友 \u003Cb>{fromDisplayName}\u003C/b> 需要获得最新版本的 GeForce Experience，这样您才能连接并作为游客游戏。"
+   },
+   "nvb_r_session_no_longer_active": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> 已停止共享 \u003Cb>{gameTitle}\u003C/b>。"
+   },
+   "nvb_r_session_no_longer_activenodisplayname": {
+      "message": "您的好友已停止共享 \u003Cb>{gameTitle}\u003C/b>。"
+   },
+   "nvb_r_session_request_rejected": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> 邀请您作为游客游戏 \u003Cb>{gameTitle}\u003C/b> 的邀请已撤销。"
+   },
+   "nvb_r_session_request_rejectednodisplayname": {
+      "message": "您的好友邀请您作为游客游戏 \u003Cb>{gameTitle}\u003C/b> 的邀请已撤销。"
+   },
+   "nvb_r_streamer_connect_failed": {
+      "message": "无法连接您的好友，以作为游客游戏 \u003Cb>{gameTitle}\u003C/b>。出现错误 #{hexcode}"
+   },
+   "nvb_r_streamer_network_error": {
+      "message": "出现网络通信错误 #{hexcode}。"
+   },
+   "nvb_r_unknown": {
+      "message": "无法连接 \u003Cb>{fromDisplayName}\u003C/b> ，以作为游客游戏 \u003Cb>{gameTitle}\u003C/b>。出现错误 #47430218。"
+   },
+   "nvb_r_unknownnodisplayname": {
+      "message": "无法连接您的好友，以作为游客游戏 \u003Cb>{gameTitle}\u003C/b>。出现错误 #47430218。"
+   },
+   "open_share": {
+      "message": "打开 Share"
+   },
+   "packet_loss": {
+      "message": "丢包率："
+   },
+   "playing": {
+      "message": "您正在与 \u003Cb>{fromDisplayName}\u003C/b> 游戏 \u003Cb>{gameTitle}\u003C/b>。"
+   },
+   "playingNoDisplayName": {
+      "message": "您正在与您的好友游戏 \u003Cb>{gameTitle}\u003C/b>。"
+   },
+   "privacy_policy": {
+      "message": "隐私政策"
+   },
+   "rate": {
+      "message": "为您的串流使用体验评分："
+   },
+   "read_software_lic_agreement": {
+      "message": "请仔细阅读以下 NVIDIA 软件许可协议。"
+   },
+   "reconnect": {
+      "message": "正在试图重新连接..."
+   },
+   "send": {
+      "message": "发送"
+   },
+   "send_feedback": {
+      "message": "发送反馈"
+   },
+   "shortcuts": {
+      "message": "键盘快捷键"
+   },
+   "skip": {
+      "message": "跳过"
+   },
+   "software_lic_agreement": {
+      "message": "NVIDIA 软件许可协议"
+   },
+   "statistics": {
+      "message": "统计数据"
+   },
+   "stopTitle": {
+      "message": "您的会话已结束。"
+   },
+   "stopping": {
+      "message": "正在停止您的会话……"
+   },
+   "stream": {
+      "message": "串流"
+   },
+   "streaming_health": {
+      "message": "串流运行情况："
+   },
+   "swiftshader_not_supported": {
+      "message": "若要连接并作为游客游戏，则必须有一个 GPU 加速的 OpenGL 渲染器。"
+   },
+   "system_ready": {
+      "message": "您的系统已就绪！"
+   },
+   "title": {
+      "message": "正在准备您的会话……"
+   },
+   "toggle_fullscreen": {
+      "message": "切换全屏/窗口"
+   },
+   "toggle_microphone": {
+      "message": "话筒设置静音/取消静音"
+   },
+   "toggle_stats": {
+      "message": "显示/隐藏统计数据"
+   },
+   "troubleshooting_guide": {
+      "message": "查看故障排除指南"
+   },
+   "unhandled_error": {
+      "message": "出现错误 #47439999。"
+   },
+   "version": {
+      "message": "版本 $details$",
+      "placeholders": {
+         "details": {
+            "content": "$1",
+            "example": "2015.xxx.yyyy.1"
+         }
+      }
+   },
+   "watch_game": {
+      "message": "观看游戏"
+   },
+   "webgl_init_failed": {
+      "message": "无法初始化 WebGL。"
+   }
+}

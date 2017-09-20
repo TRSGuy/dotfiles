@@ -1,0 +1,281 @@
+{
+   "about": {
+      "message": "Tietoja"
+   },
+   "accept_terms": {
+      "message": "Hyväksy ja jatka"
+   },
+   "additional_detail": {
+      "message": "Lisätietoja:"
+   },
+   "audio_video_quality": {
+      "message": "Kuvan tai äänen laatu on huono"
+   },
+   "beta": {
+      "message": "BEETA"
+   },
+   "bitrate": {
+      "message": "Nykyinen/maksimibittitaajuus:"
+   },
+   "chat_not_working": {
+      "message": "Äänikeskustelu ei toimi"
+   },
+   "close": {
+      "message": "Sulje"
+   },
+   "comments": {
+      "message": "Kommentit:"
+   },
+   "configuring": {
+      "message": "Odottaa, että \u003Cb>{fromDisplayName}\u003C/b> aloittaa pelin \u003Cb>{gameTitle}\u003C/b> jakamisen kanssasi."
+   },
+   "configuringnodisplayname": {
+      "message": "Odottaa, että ystäväsi aloittaa pelin \u003Cb>{gameTitle}\u003C/b> jakamisen kanssasi."
+   },
+   "connecting": {
+      "message": "Luo yhteyttä kohteeseen \u003Cb>{fromDisplayName}\u003C/b>, jotta voit pelata peliä \u003Cb>{gameTitle}\u003C/b> vieraana."
+   },
+   "connectingnodisplayname": {
+      "message": "Luo yhteyttä ystävään, jotta voit pelata peliä \u003Cb>{gameTitle}\u003C/b> vieraana."
+   },
+   "controller_not_working": {
+      "message": "Ohjaimen jakaminen ei toimi"
+   },
+   "copyright": {
+      "message": "&copy; 2015 NVIDIA Corporation. Kaikki oikeudet pidätetään."
+   },
+   "copyright2": {
+      "message": "Copyright &copy; 2015 NVIDIA Corporation "
+   },
+   "disconnected": {
+      "message": "Verkkoyhteys katkesi"
+   },
+   "errorTitle": {
+      "message": "Suoratoisto-ohjelma kohtasi virheen..."
+   },
+   "external_license_agreement": {
+      "message": "Kolmansien osapuolien käyttöoikeussopimukset"
+   },
+   "feedback": {
+      "message": "Palaute"
+   },
+   "frame_rate": {
+      "message": "Kehystaajuus:"
+   },
+   "game_play_laggy": {
+      "message": "Peli toimii viiveellä"
+   },
+   "gameseatready": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> on valmis pelaamaan peliä \u003Cb>{gameTitle}\u003C/b> kanssasi."
+   },
+   "gameseatreadynodisplayname": {
+      "message": "Ystäväsi on valmis pelaamaan peliä \u003Cb>{gameTitle}\u003C/b> kanssasi."
+   },
+   "initialize_decoder_error_title": {
+      "message": "Virhe 47430002 esiintyi."
+   },
+   "initialize_opengl_error_title": {
+      "message": "Virhe 47430001 esiintyi."
+   },
+   "invalid_sessionid": {
+      "message": "Tämä istunto ei kelpaa."
+   },
+   "invite_friend": {
+      "message": "Pyydä ystävää lähettämään kutsu peliin ja pelaamaan vieraana. Voit pelata ystäväsi kanssa, hänen puolestaan tai pelkästään katsella, kun hän pelaa."
+   },
+   "join_game": {
+      "message": "Liity peliin"
+   },
+   "legal_information": {
+      "message": " Lailliset tiedot"
+   },
+   "license_agreement": {
+      "message": "Käyttöoikeussopimus"
+   },
+   "loading": {
+      "message": "Järjestelmän komponentteja ladataan."
+   },
+   "nacl_module_crash": {
+      "message": "Virhe 47439998 esiintyi."
+   },
+   "no_streamer_config": {
+      "message": "Toistoasetukset eivät löydy."
+   },
+   "no_webgl_browser_support": {
+      "message": "WebGL on otettava käyttöön, jotta voit luoda yhteyden ja pelata vieraana."
+   },
+   "notice": {
+      "message": "Kolmansien osapuolien ja avoimen lähdekoodin ilmoitukset"
+   },
+   "notification_paused": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> keskeytti pelin \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "notification_pausednodisplayname": {
+      "message": "Ystäväsi keskeytti pelin \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "nvb_evt_game_exited_by_user": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> lopetti pelin \u003Cb>{gameTitle}\u003C/b> jakamisen."
+   },
+   "nvb_evt_game_exited_by_usernodisplayname": {
+      "message": "Ystäväsi lopetti pelin \u003Cb>{gameTitle}\u003C/b> jakamisen."
+   },
+   "nvb_evt_game_exited_unintentionally": {
+      "message": "Virhe 47430003 esiintyi."
+   },
+   "nvb_evt_session_expired": {
+      "message": "Maksimiaika pelata peliä \u003Cb>{gameTitle}\u003C/b> vieraana saavutettiin."
+   },
+   "nvb_evt_streaming_properties": {
+      "message": "Luo yhteyttä kohteeseen \u003Cb>{fromDisplayName}\u003C/b>, jotta voit pelata peliä \u003Cb>{gameTitle}\u003C/b> vieraana."
+   },
+   "nvb_evt_streaming_propertiesnodisplayname": {
+      "message": "Luo yhteyttä ystävään, jotta voit pelata peliä \u003Cb>{gameTitle}\u003C/b> vieraana."
+   },
+   "nvb_r_auth_err_unauthorized_client": {
+      "message": "Kutsu kohteesta \u003Cb>{fromDisplayName}\u003C/b> pelaamaan peliä \u003Cb>{gameTitle}\u003C/b> vieraana ei ole enää aktiivinen."
+   },
+   "nvb_r_auth_err_unauthorized_clientnodisplayname": {
+      "message": "Kutsu ystävältäsi pelaamaan peliä \u003Cb>{gameTitle}\u003C/b> vieraana ei ole enää aktiivinen."
+   },
+   "nvb_r_client_upgrade_required": {
+      "message": "Tarvitset uusimman version GeForce Experiencesta, jotta voit luoda yhteyden ja pelata peliä vieraana."
+   },
+   "nvb_r_network_error": {
+      "message": "Verkon yhteysvirhe 47430005 esiintyi."
+   },
+   "nvb_r_no_session_to_resume": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> lopetti pelin \u003Cb>{gameTitle}\u003C/b> jakamisen."
+   },
+   "nvb_r_no_session_to_resumenodisplayname": {
+      "message": "Ystäväsi lopetti pelin \u003Cb>{gameTitle}\u003C/b> jakamisen."
+   },
+   "nvb_r_remote_user_response_timeout": {
+      "message": "Kutsu kohteesta \u003Cb>{fromDisplayName}\u003C/b> pelaamaan peliä \u003Cb>{gameTitle}\u003C/b> vieraana on vanhentunut."
+   },
+   "nvb_r_remote_user_response_timeoutnodisplayname": {
+      "message": "Kutsu ystävältäsi pelaamaan peliä \u003Cb>{gameTitle}\u003C/b> vieraana on vanhentunut."
+   },
+   "nvb_r_server_out_of_service": {
+      "message": "Ei voi luoda yhteyttä ystävään, jotta voisit pelata peliä \u003Cb>{gameTitle}\u003C/b> vieraana. Virhe 47430004 esiintyi."
+   },
+   "nvb_r_server_upgrade_required": {
+      "message": "Ystäväsi \u003Cb>{fromDisplayName}\u003C/b> tarvitsee uusimman version GeForce Experiencesta, jotta voit luoda yhteyden ja pelata peliä vieraana."
+   },
+   "nvb_r_session_no_longer_active": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> lopetti pelin \u003Cb>{gameTitle}\u003C/b> jakamisen."
+   },
+   "nvb_r_session_no_longer_activenodisplayname": {
+      "message": "Ystäväsi lopetti pelin \u003Cb>{gameTitle}\u003C/b> jakamisen."
+   },
+   "nvb_r_session_request_rejected": {
+      "message": "Kutsu kohteesta \u003Cb>{fromDisplayName}\u003C/b> pelaamaan peliä \u003Cb>{gameTitle}\u003C/b> vieraana peruutettiin."
+   },
+   "nvb_r_session_request_rejectednodisplayname": {
+      "message": "Kutsu ystävältäsi pelaamaan peliä \u003Cb>{gameTitle}\u003C/b> vieraana peruutettiin."
+   },
+   "nvb_r_streamer_connect_failed": {
+      "message": "Ei voi luoda yhteyttä ystävään, jotta voisit pelata peliä \u003Cb>{gameTitle}\u003C/b> vieraana. Virhe {hexcode} esiintyi."
+   },
+   "nvb_r_streamer_network_error": {
+      "message": "Verkon yhteysvirhe {hexcode} esiintyi."
+   },
+   "nvb_r_unknown": {
+      "message": "Ei voi luoda yhteyttä kohteeseen \u003Cb>{fromDisplayName}\u003C/b>, jotta voisit pelata peliä \u003Cb>{gameTitle}\u003C/b> vieraana. Virhe 47430218 esiintyi."
+   },
+   "nvb_r_unknownnodisplayname": {
+      "message": "Ei voi luoda yhteyttä ystävään, jotta voisit pelata peliä \u003Cb>{gameTitle}\u003C/b> vieraana. Virhe 47430218 esiintyi."
+   },
+   "open_share": {
+      "message": "Avaa Share"
+   },
+   "packet_loss": {
+      "message": "Pakettikato:"
+   },
+   "playing": {
+      "message": "Pelaat peliä \u003Cb>{gameTitle}\u003C/b> kohteen \u003Cb>{fromDisplayName}\u003C/b> kanssa."
+   },
+   "playingNoDisplayName": {
+      "message": "Pelaat peliä \u003Cb>{gameTitle}\u003C/b> ystäväsi kanssa."
+   },
+   "privacy_policy": {
+      "message": "Tietosuojakäytäntö"
+   },
+   "rate": {
+      "message": "Arvioi suoratoistokokemuksesi:"
+   },
+   "read_software_lic_agreement": {
+      "message": "Lue seuraava NVIDIA-ohjelmiston käyttöoikeussopimus huolellisesti."
+   },
+   "reconnect": {
+      "message": "Yhteyttä yritetään luoda uudelleen..."
+   },
+   "send": {
+      "message": "Lähetä"
+   },
+   "send_feedback": {
+      "message": "Lähetä palautetta"
+   },
+   "shortcuts": {
+      "message": "Näppäimistön pikanäppäimet"
+   },
+   "skip": {
+      "message": "Ohita"
+   },
+   "software_lic_agreement": {
+      "message": "NVIDIA-ohjelmiston käyttöoikeussopimus"
+   },
+   "statistics": {
+      "message": "Tilastot"
+   },
+   "stopTitle": {
+      "message": "Istuntosi on päättynyt."
+   },
+   "stopping": {
+      "message": "Istuntoa pysäytetään..."
+   },
+   "stream": {
+      "message": "Suoratoista"
+   },
+   "streaming_health": {
+      "message": "Toiston kunto:"
+   },
+   "swiftshader_not_supported": {
+      "message": "Grafiikkasuorittimella kiihdytetty OpenGL-sovellus on pakollinen, jotta voit luoda yhteyden ja pelata vieraana."
+   },
+   "system_ready": {
+      "message": "Järjestelmä on valmis!"
+   },
+   "title": {
+      "message": "Istuntoa valmistellaan..."
+   },
+   "toggle_fullscreen": {
+      "message": "Ota käyttöön tai poista käytöstä koko näyttö tai ikkuna"
+   },
+   "toggle_microphone": {
+      "message": "Vaimenna mikrofoni tai poista vaimennus"
+   },
+   "toggle_stats": {
+      "message": "Näytä/piilota tilastot"
+   },
+   "troubleshooting_guide": {
+      "message": "Avaa vianmääritysopas"
+   },
+   "unhandled_error": {
+      "message": "Virhe 47439999 esiintyi."
+   },
+   "version": {
+      "message": "Versio $details$",
+      "placeholders": {
+         "details": {
+            "content": "$1",
+            "example": "2015.xxx.yyyy.1"
+         }
+      }
+   },
+   "watch_game": {
+      "message": "Katsele peliä"
+   },
+   "webgl_init_failed": {
+      "message": "WebGL:n alustus epäonnistui."
+   }
+}

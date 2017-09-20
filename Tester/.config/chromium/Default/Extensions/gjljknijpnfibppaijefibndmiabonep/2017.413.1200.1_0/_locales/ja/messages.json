@@ -1,0 +1,281 @@
+{
+   "about": {
+      "message": "説明"
+   },
+   "accept_terms": {
+      "message": "同意/続行"
+   },
+   "additional_detail": {
+      "message": "追加詳細:"
+   },
+   "audio_video_quality": {
+      "message": "ビジュアル/オーディオの品質が悪いです"
+   },
+   "beta": {
+      "message": "ベータ版"
+   },
+   "bitrate": {
+      "message": "現在/最大ビットレート:"
+   },
+   "chat_not_working": {
+      "message": "ボイスチャットが機能しません"
+   },
+   "close": {
+      "message": "閉じる"
+   },
+   "comments": {
+      "message": "コメント:"
+   },
+   "configuring": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>の\u003Cb>{gameTitle}\u003C/b>の共有の開始を待機中。"
+   },
+   "configuringnodisplayname": {
+      "message": "友達の\u003Cb>{gameTitle}\u003C/b>の共有の開始を待機中。"
+   },
+   "connecting": {
+      "message": "ゲストとして\u003Cb>{gameTitle}\u003C/b>をプレイするため、\u003Cb>{fromDisplayName}\u003C/b>に接続中。"
+   },
+   "connectingnodisplayname": {
+      "message": "ゲストとして\u003Cb>{gameTitle}\u003C/b>をプレイするため、友達に接続中。"
+   },
+   "controller_not_working": {
+      "message": "コントローラー共有が機能しません"
+   },
+   "copyright": {
+      "message": "&copy; 2015 NVIDIA Corporation。無断複写・転載を禁じます。"
+   },
+   "copyright2": {
+      "message": "Copyright &copy; 2015 NVIDIA Corporation."
+   },
+   "disconnected": {
+      "message": "ネットワーク接続が失われました"
+   },
+   "errorTitle": {
+      "message": "ストリームプラグインに問題が発生しました..."
+   },
+   "external_license_agreement": {
+      "message": "サード パーティの使用許諾契約書"
+   },
+   "feedback": {
+      "message": "フィードバック"
+   },
+   "frame_rate": {
+      "message": "フレーム レート:"
+   },
+   "game_play_laggy": {
+      "message": "ゲームプレイにラグが生じています"
+   },
+   "gameseatready": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>と\u003Cb>{gameTitle}\u003C/b>をプレイする準備ができました。"
+   },
+   "gameseatreadynodisplayname": {
+      "message": "友たちと\u003Cb>{gameTitle}\u003C/b>をプレイする準備ができました。"
+   },
+   "initialize_decoder_error_title": {
+      "message": "エラー #47430002 が発生しました。"
+   },
+   "initialize_opengl_error_title": {
+      "message": "エラー #47430001 が発生しました。"
+   },
+   "invalid_sessionid": {
+      "message": "セッションは無効です。"
+   },
+   "invite_friend": {
+      "message": "友人から招待を受け取って、ゲームに参加、ゲストとしてプレイしましょう。一緒にプレイ、友人に代わってプレイ、または友人のプレイを見ることができます。"
+   },
+   "join_game": {
+      "message": "ゲームに参加する"
+   },
+   "legal_information": {
+      "message": " 法的通知"
+   },
+   "license_agreement": {
+      "message": "使用許諾契約書"
+   },
+   "loading": {
+      "message": "システムコンポーネントの読み込み中。"
+   },
+   "nacl_module_crash": {
+      "message": "エラー #47439998 が発生しました。"
+   },
+   "no_streamer_config": {
+      "message": "ストリーマー設定が見つかりません。"
+   },
+   "no_webgl_browser_support": {
+      "message": "接続し、ゲストとしてプレイするには、WebGL が有効になっていなければなりません。"
+   },
+   "notice": {
+      "message": "サード パーティおよびオープンソース通告"
+   },
+   "notification_paused": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>が\u003Cb>{gameTitle}\u003C/b>を一時停止しました"
+   },
+   "notification_pausednodisplayname": {
+      "message": "友達が\u003Cb>{gameTitle}\u003C/b>を一時停止しました"
+   },
+   "nvb_evt_game_exited_by_user": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>が\u003Cb>{gameTitle}\u003C/b>の共有を停止しました。"
+   },
+   "nvb_evt_game_exited_by_usernodisplayname": {
+      "message": "友達が\u003Cb>{gameTitle}\u003C/b>の共有を停止しました。"
+   },
+   "nvb_evt_game_exited_unintentionally": {
+      "message": "エラー #47430003 が発生しました。"
+   },
+   "nvb_evt_session_expired": {
+      "message": "ゲストとして\u003Cb>{gameTitle}\u003C/b>をプレイするために許可された時間に達しました。"
+   },
+   "nvb_evt_streaming_properties": {
+      "message": "ゲストとして\u003Cb>{gameTitle}\u003C/b>をプレイするため、\u003Cb>{fromDisplayName}\u003C/b>に接続中"
+   },
+   "nvb_evt_streaming_propertiesnodisplayname": {
+      "message": "ゲストとして\u003Cb>{gameTitle}\u003C/b>をプレイするため、友達に接続中"
+   },
+   "nvb_r_auth_err_unauthorized_client": {
+      "message": "ゲストとして\u003Cb>{gameTitle}\u003C/b>をプレイするための\u003Cb>{fromDisplayName}\u003C/b>からの招待がアクティブではなくなりました。"
+   },
+   "nvb_r_auth_err_unauthorized_clientnodisplayname": {
+      "message": "ゲストとして\u003Cb>{gameTitle}\u003C/b>をプレイするための友達からの招待がアクティブではなくなりました。"
+   },
+   "nvb_r_client_upgrade_required": {
+      "message": "最新版の GeForce Experience の入手を希望していますので、ゲストとして接続してプレイできます。"
+   },
+   "nvb_r_network_error": {
+      "message": "ネットワークコミュニケーションエラー #47430005 が発生しました。"
+   },
+   "nvb_r_no_session_to_resume": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>が\u003Cb>{gameTitle}\u003C/b>の共有を停止しました。"
+   },
+   "nvb_r_no_session_to_resumenodisplayname": {
+      "message": "友達が\u003Cb>{gameTitle}\u003C/b>の共有を停止しました。"
+   },
+   "nvb_r_remote_user_response_timeout": {
+      "message": "ゲストとして\u003Cb>{gameTitle}\u003C/b>をプレイするための\u003Cb>{fromDisplayName}\u003C/b>からの招待が期限切れになりました。"
+   },
+   "nvb_r_remote_user_response_timeoutnodisplayname": {
+      "message": "ゲストとして\u003Cb>{gameTitle}\u003C/b>をプレイするための友達からの招待が期限切れになりました。"
+   },
+   "nvb_r_server_out_of_service": {
+      "message": "ゲストとして\u003Cb>{gameTitle}\u003C/b>をプレイするのに、友達に接続することができません。エラー #47430004 が発生しました。"
+   },
+   "nvb_r_server_upgrade_required": {
+      "message": "友達の\u003Cb>{fromDisplayName}\u003C/b>が最新版の GeForce Experience の入手を希望していますので、ゲストとして接続してプレイできます。"
+   },
+   "nvb_r_session_no_longer_active": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>が\u003Cb>{gameTitle}\u003C/b>の共有を停止しました。"
+   },
+   "nvb_r_session_no_longer_activenodisplayname": {
+      "message": "友達が\u003Cb>{gameTitle}\u003C/b>の共有を停止しました。"
+   },
+   "nvb_r_session_request_rejected": {
+      "message": "ゲストとして\u003Cb>{gameTitle}\u003C/b>をプレイするための\u003Cb>{fromDisplayName}\u003C/b>からの招待がキャンセルされました。"
+   },
+   "nvb_r_session_request_rejectednodisplayname": {
+      "message": "ゲストとして\u003Cb>{gameTitle}\u003C/b>をプレイするための友達からの招待がキャンセルされました。"
+   },
+   "nvb_r_streamer_connect_failed": {
+      "message": "ゲストとして\u003Cb>{gameTitle}\u003C/b>をプレイするのに、友達に接続することができません。エラー#{hexcode}が発生しました。"
+   },
+   "nvb_r_streamer_network_error": {
+      "message": "ネットワークコミュニケーションエラー#{hexcode}が発生しました。"
+   },
+   "nvb_r_unknown": {
+      "message": "ゲストとして\u003Cb>{gameTitle}\u003C/b>をプレイするのに、\u003Cb>{fromDisplayName}\u003C/b>に接続できません。エラー #47430218 が発生しました。"
+   },
+   "nvb_r_unknownnodisplayname": {
+      "message": "ゲストとして\u003Cb>{gameTitle}\u003C/b>をプレイするのに、友達に接続することができません。エラー #47430218 が発生しました。"
+   },
+   "open_share": {
+      "message": "Share を開く"
+   },
+   "packet_loss": {
+      "message": "パケットのロス:"
+   },
+   "playing": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b>と\u003Cb>{gameTitle}\u003C/b>をプレイ中。"
+   },
+   "playingNoDisplayName": {
+      "message": "友達と\u003Cb>{gameTitle}\u003C/b>をプレイ中。"
+   },
+   "privacy_policy": {
+      "message": "プライバシー ポリシー"
+   },
+   "rate": {
+      "message": "ストリームを使用した体験の評価:"
+   },
+   "read_software_lic_agreement": {
+      "message": "次の NVIDIA ソフトウェア使用許諾契約書をお読みください。"
+   },
+   "reconnect": {
+      "message": "再接続を試みています..."
+   },
+   "send": {
+      "message": "送信"
+   },
+   "send_feedback": {
+      "message": "フィードバックの送信"
+   },
+   "shortcuts": {
+      "message": "キーボード ショートカット"
+   },
+   "skip": {
+      "message": "スキップする"
+   },
+   "software_lic_agreement": {
+      "message": "NVIDIA ソフトウェア使用許諾契約書"
+   },
+   "statistics": {
+      "message": "統計情報"
+   },
+   "stopTitle": {
+      "message": "セッションが終了しました。"
+   },
+   "stopping": {
+      "message": "セッションの停止中..."
+   },
+   "stream": {
+      "message": "ストリーム"
+   },
+   "streaming_health": {
+      "message": "ストリーミングの健全性:"
+   },
+   "swiftshader_not_supported": {
+      "message": "接続し、ゲストとしてプレイするには、GPU 加速 OpenGL レンダーが必要です。"
+   },
+   "system_ready": {
+      "message": "お使いのシステムの準備が整いました。"
+   },
+   "title": {
+      "message": "セッションの準備中..."
+   },
+   "toggle_fullscreen": {
+      "message": "フルスクリーン/ウィンドウを切り替え"
+   },
+   "toggle_microphone": {
+      "message": "マイクのミュート/ミュート解除"
+   },
+   "toggle_stats": {
+      "message": "統計の表示/非表示"
+   },
+   "troubleshooting_guide": {
+      "message": "トラブルシューティングガイドを表示"
+   },
+   "unhandled_error": {
+      "message": "エラー #47439999 が発生しました。"
+   },
+   "version": {
+      "message": "バージョン $details$",
+      "placeholders": {
+         "details": {
+            "content": "$1",
+            "example": "2015.xxx.yyyy.1"
+         }
+      }
+   },
+   "watch_game": {
+      "message": "ゲームを見る"
+   },
+   "webgl_init_failed": {
+      "message": "WebGL を初期化できませんでした。"
+   }
+}

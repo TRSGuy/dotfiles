@@ -1,0 +1,7 @@
+var com = "i3-msg -t get_workspaces";
+var p = require("child_process");
+var c = p.spawn(com);
+
+c.stdout.on("data", function(output) {
+	console.log(output);
+});

@@ -1,0 +1,281 @@
+{
+   "about": {
+      "message": "Névjegy"
+   },
+   "accept_terms": {
+      "message": "Elfogadás és folytatás"
+   },
+   "additional_detail": {
+      "message": "További részletek:"
+   },
+   "audio_video_quality": {
+      "message": "A kép-/hangminőség gyenge"
+   },
+   "beta": {
+      "message": "BÉTA"
+   },
+   "bitrate": {
+      "message": "Jelenlegi/maximális bitsebesség:"
+   },
+   "chat_not_working": {
+      "message": "A hangos csevegés nem működik"
+   },
+   "close": {
+      "message": "Bezárás"
+   },
+   "comments": {
+      "message": "Megjegyzések:"
+   },
+   "configuring": {
+      "message": "Várakozás arra, hogy \u003Cb>{fromDisplayName}\u003C/b> megkezdje a(z) \u003Cb>{gameTitle}\u003C/b> megosztását Önnel."
+   },
+   "configuringnodisplayname": {
+      "message": "Várakozás arra, hogy ismerőse megkezdje a(z) \u003Cb>{gameTitle}\u003C/b> megosztását Önnel."
+   },
+   "connecting": {
+      "message": "Csatlakozás \u003Cb>{fromDisplayName}\u003C/b> felhasználóhoz a(z) \u003Cb>{gameTitle}\u003C/b> vendégként történő játszásának megkezdéséhez."
+   },
+   "connectingnodisplayname": {
+      "message": "Csatlakozás ismerőshöz a(z) \u003Cb>{gameTitle}\u003C/b> vendégként történő játszásának megkezdéséhez."
+   },
+   "controller_not_working": {
+      "message": "A játékvezérlő megosztása nem működik"
+   },
+   "copyright": {
+      "message": "&copy; 2015 NVIDIA Corporation, minden jog fenntartva."
+   },
+   "copyright2": {
+      "message": "Copyright 2005, 2015 NVIDIA Corporation."
+   },
+   "disconnected": {
+      "message": "A hálózati kapcsolat megszakadt"
+   },
+   "errorTitle": {
+      "message": "A Stream beépülő modul problémába ütközött..."
+   },
+   "external_license_agreement": {
+      "message": "3. felek licencszerződései"
+   },
+   "feedback": {
+      "message": "Visszajelzés"
+   },
+   "frame_rate": {
+      "message": "Képkockasebesség:"
+   },
+   "game_play_laggy": {
+      "message": "A játékmenet akadozik"
+   },
+   "gameseatready": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> készen áll arra, hogy a(z) \u003Cb>{gameTitle}\u003C/b> játékot játssza Önnel."
+   },
+   "gameseatreadynodisplayname": {
+      "message": "Ismerőse készen áll arra, hogy a(z) \u003Cb>{gameTitle}\u003C/b> játékot játssza Önnel."
+   },
+   "initialize_decoder_error_title": {
+      "message": "47430002 sz. hiba történt."
+   },
+   "initialize_opengl_error_title": {
+      "message": "47430001 sz. hiba történt."
+   },
+   "invalid_sessionid": {
+      "message": "A játékmenet érvénytelen."
+   },
+   "invite_friend": {
+      "message": "Ha a játékban szeretne csatlakozni egy ismerőséhez, és vendégként játszani, kérje meg, hogy küldjön Önnek meghívót. Játszhat mellette vagy helyette, vagy egyszerűen csak nézheti a játékot."
+   },
+   "join_game": {
+      "message": "Csatlakozás játékhoz"
+   },
+   "legal_information": {
+      "message": " Jogi információk"
+   },
+   "license_agreement": {
+      "message": "Licencszerződés"
+   },
+   "loading": {
+      "message": "Rendszerösszetevők betöltése."
+   },
+   "nacl_module_crash": {
+      "message": "47439998 sz. hiba történt."
+   },
+   "no_streamer_config": {
+      "message": "Nem található a streamelő konfigurációja."
+   },
+   "no_webgl_browser_support": {
+      "message": "Vendégként történő játékhoz engedélyezni kell a WebGL-t."
+   },
+   "notice": {
+      "message": "Harmadik felekkel és a nyílt forráskóddal kapcsolatos megjegyzések"
+   },
+   "notification_paused": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> szüneteltette a következőt: \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "notification_pausednodisplayname": {
+      "message": "Ismerőse szüneteltette a következőt: \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "nvb_evt_game_exited_by_user": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> leállította a(z) \u003Cb>{gameTitle}\u003C/b> megosztását."
+   },
+   "nvb_evt_game_exited_by_usernodisplayname": {
+      "message": "Ismerőse leállította a(z) \u003Cb>{gameTitle}\u003C/b> megosztását."
+   },
+   "nvb_evt_game_exited_unintentionally": {
+      "message": "47430003 sz. hiba történt."
+   },
+   "nvb_evt_session_expired": {
+      "message": "A(z) \u003Cb>{gameTitle}\u003C/b> vendégként történő játszásához engedélyezett maximális idő letelt."
+   },
+   "nvb_evt_streaming_properties": {
+      "message": "Csatlakozás \u003Cb>{fromDisplayName}\u003C/b> felhasználóhoz a(z) \u003Cb>{gameTitle}\u003C/b> játék vendégként történő játszásához."
+   },
+   "nvb_evt_streaming_propertiesnodisplayname": {
+      "message": "Csatlakozás ismerőséhez a(z) \u003Cb>{gameTitle}\u003C/b> játék vendégként történő játszásához."
+   },
+   "nvb_r_auth_err_unauthorized_client": {
+      "message": "A(z) \u003Cb>{fromDisplayName}\u003C/b> felhasználótól érkezett vendégmeghívója a(z) \u003Cb>{gameTitle}\u003C/b> játékba már nem aktív."
+   },
+   "nvb_r_auth_err_unauthorized_clientnodisplayname": {
+      "message": "Ismerősétől érkezett vendégmeghívója a(z) \u003Cb>{gameTitle}\u003C/b> játékba már nem aktív."
+   },
+   "nvb_r_client_upgrade_required": {
+      "message": "Ha vendégként szeretne csatlakozni és játszani, be kell szereznie a GeForce Experience legújabb verzióját."
+   },
+   "nvb_r_network_error": {
+      "message": "47430005 sz. hálózati kommunikációs hiba történt."
+   },
+   "nvb_r_no_session_to_resume": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> leállította a(z) \u003Cb>{gameTitle}\u003C/b> megosztását."
+   },
+   "nvb_r_no_session_to_resumenodisplayname": {
+      "message": "Ismerőse leállította a(z) \u003Cb>{gameTitle}\u003C/b> megosztását."
+   },
+   "nvb_r_remote_user_response_timeout": {
+      "message": "A(z) \u003Cb>{fromDisplayName}\u003C/b> felhasználótól érkezett vendégmeghívója a(z) \u003Cb>{gameTitle}\u003C/b> játékba lejárt."
+   },
+   "nvb_r_remote_user_response_timeoutnodisplayname": {
+      "message": "Ismerősétől érkezett vendégmeghívója a(z) \u003Cb>{gameTitle}\u003C/b> játékba lejárt."
+   },
+   "nvb_r_server_out_of_service": {
+      "message": "Nem sikerült csatlakozni ismerőséhez a(z) \u003Cb>{gameTitle}\u003C/b> játék vendégként történő játszásához. 47430004 sz. hiba történt."
+   },
+   "nvb_r_server_upgrade_required": {
+      "message": "Ha vendégként szeretne csatlakozni és játszani, ismerősének (\u003Cb>{fromDisplayName}\u003C/b>) be kell szereznie a GeForce Experience legújabb verzióját."
+   },
+   "nvb_r_session_no_longer_active": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> leállította a(z) \u003Cb>{gameTitle}\u003C/b> megosztását."
+   },
+   "nvb_r_session_no_longer_activenodisplayname": {
+      "message": "Ismerőse leállította a(z) \u003Cb>{gameTitle}\u003C/b> megosztását."
+   },
+   "nvb_r_session_request_rejected": {
+      "message": "A(z) \u003Cb>{fromDisplayName}\u003C/b> felhasználótól érkezett vendégmeghívóját a(z) \u003Cb>{gameTitle}\u003C/b> játékba visszavonták."
+   },
+   "nvb_r_session_request_rejectednodisplayname": {
+      "message": "Ismerősétől érkezett vendégmeghívóját a(z) \u003Cb>{gameTitle}\u003C/b> játékba visszavonták."
+   },
+   "nvb_r_streamer_connect_failed": {
+      "message": "Nem sikerült csatlakozni ismerőséhez a(z) \u003Cb>{gameTitle}\u003C/b> játék vendégként történő játszásához. {hexcode} sz. hiba történt"
+   },
+   "nvb_r_streamer_network_error": {
+      "message": "{hexcode} sz. hálózati kommunikációs hiba történt."
+   },
+   "nvb_r_unknown": {
+      "message": "Nem sikerült csatlakozni \u003Cb>{fromDisplayName}\u003C/b> felhasználóhoz a(z) \u003Cb>{gameTitle}\u003C/b> játék vendégként történő játszásához. 47430218 sz. hiba történt."
+   },
+   "nvb_r_unknownnodisplayname": {
+      "message": "Nem sikerült csatlakozni ismerőséhez a(z) \u003Cb>{gameTitle}\u003C/b> játék vendégként történő játszásához. 47430218 sz. hiba történt."
+   },
+   "open_share": {
+      "message": "A Share megnyitása"
+   },
+   "packet_loss": {
+      "message": "Csomagveszteség:"
+   },
+   "playing": {
+      "message": "Ön a(z) \u003Cb>{gameTitle}\u003C/b> játékot játssza a következővel: \u003Cb>{fromDisplayName}\u003C/b>."
+   },
+   "playingNoDisplayName": {
+      "message": "Ön a(z) \u003Cb>{gameTitle}\u003C/b> játékot játssza ismerősével."
+   },
+   "privacy_policy": {
+      "message": "Adatvédelmi irányelvek"
+   },
+   "rate": {
+      "message": "Értékelje a Stream használatával szerzett tapasztalatait:"
+   },
+   "read_software_lic_agreement": {
+      "message": "Olvassa el figyelmesen a következő NVIDIA szoftver-licencszerződést."
+   },
+   "reconnect": {
+      "message": "Újracsatlakozás megkísérlése..."
+   },
+   "send": {
+      "message": "Küldés"
+   },
+   "send_feedback": {
+      "message": "Visszajelzés küldése"
+   },
+   "shortcuts": {
+      "message": "Billentyűparancsok"
+   },
+   "skip": {
+      "message": "Kihagyás"
+   },
+   "software_lic_agreement": {
+      "message": "NVIDIA szoftverlicenc-szerződés"
+   },
+   "statistics": {
+      "message": "Statisztika"
+   },
+   "stopTitle": {
+      "message": "A játékmenet befejeződött."
+   },
+   "stopping": {
+      "message": "A játékmenet leállítása..."
+   },
+   "stream": {
+      "message": "Streamelés"
+   },
+   "streaming_health": {
+      "message": "Streamelési minőség:"
+   },
+   "swiftshader_not_supported": {
+      "message": "Vendégként történő csatlakozáshoz és játékhoz GPU gyorsítású OpenGL képfeldolgozó szükséges."
+   },
+   "system_ready": {
+      "message": "A rendszer készen áll!"
+   },
+   "title": {
+      "message": "A játékmenet előkészítése..."
+   },
+   "toggle_fullscreen": {
+      "message": "Teljes képernyős /ablakos nézet váltása"
+   },
+   "toggle_microphone": {
+      "message": "Mikrofon némítása / némítás kikapcsolása"
+   },
+   "toggle_stats": {
+      "message": "Statisztika megjelenítése / elrejtése"
+   },
+   "troubleshooting_guide": {
+      "message": "Hibaelhárító útmutató megtekintése"
+   },
+   "unhandled_error": {
+      "message": "47439999 sz. hiba történt."
+   },
+   "version": {
+      "message": "Verzió: $details$",
+      "placeholders": {
+         "details": {
+            "content": "$1",
+            "example": "2015.xxx.yyyy.1"
+         }
+      }
+   },
+   "watch_game": {
+      "message": "Játék nézése"
+   },
+   "webgl_init_failed": {
+      "message": "A WebGL inicializálása sikertelen."
+   }
+}

@@ -1,0 +1,281 @@
+{
+   "about": {
+      "message": "Πληροφορίες"
+   },
+   "accept_terms": {
+      "message": "Συμφωνώ και συνέχεια"
+   },
+   "additional_detail": {
+      "message": "Επιπρόσθετη λεπτομέρεια:"
+   },
+   "audio_video_quality": {
+      "message": "Η οπτική/ηχητική ποιότητα είναι κακή"
+   },
+   "beta": {
+      "message": "BETA"
+   },
+   "bitrate": {
+      "message": "Τρέχων/Μέγιστος ρυθμός δυφίων"
+   },
+   "chat_not_working": {
+      "message": "Η φωνητική συνομιλία δεν λειτουργεί"
+   },
+   "close": {
+      "message": "Κλείσιμο"
+   },
+   "comments": {
+      "message": "Σχόλια:"
+   },
+   "configuring": {
+      "message": "Σε αναμονή για \u003Cb>{fromDisplayName}\u003C/b> να ξεκινήσει να μοιράζεται \u003Cb>{gameTitle}\u003C/b> μαζί σας."
+   },
+   "configuringnodisplayname": {
+      "message": "Σε αναμονή για τον φίλο σας να ξεκινήσει να μοιράζεται \u003Cb>{gameTitle}\u003C/b> μαζί σας."
+   },
+   "connecting": {
+      "message": "Γίνεται σύνδεση με \u003Cb>{fromDisplayName}\u003C/b> για να παίξει το \u003Cb>{gameTitle}\u003C/b> ως επισκέπτης."
+   },
+   "connectingnodisplayname": {
+      "message": "Γίνεται σύνδεση με τον φίλο σας για να παίξει το \u003Cb>{gameTitle}\u003C/b> ως επισκέπτης."
+   },
+   "controller_not_working": {
+      "message": "Η κοινή χρήση ελεγκτή δεν λειτουργεί"
+   },
+   "copyright": {
+      "message": "&copy; 2015 NVIDIA Corporation, Με επιφύλαξη κάθε δικαιώματος."
+   },
+   "copyright2": {
+      "message": "Πνευματικά δικαιώματα &copy; 2015 NVIDIA Corporation "
+   },
+   "disconnected": {
+      "message": "Η σύνδεση στο δίκτυο χάθηκε"
+   },
+   "errorTitle": {
+      "message": "Η προσθήκη ροής συνάντησε κάποιο ζήτημα..."
+   },
+   "external_license_agreement": {
+      "message": "Συμφωνητικά άδεια χρήσης 3ων μερών"
+   },
+   "feedback": {
+      "message": "Ανατροφοδότηση"
+   },
+   "frame_rate": {
+      "message": "Ρυθμός καρέ:"
+   },
+   "game_play_laggy": {
+      "message": "Το παιχνίδι είναι αργό"
+   },
+   "gameseatready": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> είναι έτοιμος να παίξει \u003Cb>{gameTitle}\u003C/b> μαζί σας."
+   },
+   "gameseatreadynodisplayname": {
+      "message": "Ο φίλος σας είναι έτοιμος να παίξει \u003Cb>{gameTitle}\u003C/b> μαζί σας."
+   },
+   "initialize_decoder_error_title": {
+      "message": "Συνέβη σφάλμα #47430002."
+   },
+   "initialize_opengl_error_title": {
+      "message": "Συνέβη σφάλμα #47430001."
+   },
+   "invalid_sessionid": {
+      "message": "Η συνεδρίας δεν είναι έγκυρη."
+   },
+   "invite_friend": {
+      "message": "Ζητήστε από έναν φίλο να σας στείλει πρόσκληση για συμμετοχή εντός παιχνιδιού και παίξτε ως προσκεκλημένος. Μπορείτε να παίξετε δίπλα τους, να παίξετε στη θέση τους ή απλώς να τους παρακολουθείτε να παίζουν."
+   },
+   "join_game": {
+      "message": "Συμμετοχή στο παιχνίδι"
+   },
+   "legal_information": {
+      "message": " Νομικές πληροφορίες"
+   },
+   "license_agreement": {
+      "message": "Συμφωνητικό άδειας χρήσης"
+   },
+   "loading": {
+      "message": "Γίνεται φόρτωση των συστατικών μερών του συστήματος."
+   },
+   "nacl_module_crash": {
+      "message": "Συνέβη σφάλμα #47439998."
+   },
+   "no_streamer_config": {
+      "message": "Η διαμόρφωση ροής δεν βρέθηκε."
+   },
+   "no_webgl_browser_support": {
+      "message": "Το WebGL πρέπει να έχει ενεργοποιηθεί για τη σύνδεση και το παιχνίδι ως επισκέπτης."
+   },
+   "notice": {
+      "message": "Ειδοποιήσεις 3ων μερών και ανοικτού κώδικα"
+   },
+   "notification_paused": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> έθεσε το \u003Cb>{gameTitle}\u003C/b> σε παύση"
+   },
+   "notification_pausednodisplayname": {
+      "message": "Ο φίλος σας έθεσε το \u003Cb>{gameTitle}\u003C/b> σε παύση"
+   },
+   "nvb_evt_game_exited_by_user": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> σταμάτησε να μοιράζεται \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_evt_game_exited_by_usernodisplayname": {
+      "message": "Ο φίλος σας σταμάτησε να μοιράζεται \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_evt_game_exited_unintentionally": {
+      "message": "Συνέβη σφάλμα #47430003."
+   },
+   "nvb_evt_session_expired": {
+      "message": "Συμπληρώθηκε ο μέγιστος χρόνος που επιτρέπεται να παίξετε το παιχνίδι \u003Cb>{gameTitle}\u003C/b> ως επισκέπτης."
+   },
+   "nvb_evt_streaming_properties": {
+      "message": "Γίνεται σύνδεση με \u003Cb>{fromDisplayName}\u003C/b> για να παίξει το \u003Cb>{gameTitle}\u003C/b> ως επισκέπτης"
+   },
+   "nvb_evt_streaming_propertiesnodisplayname": {
+      "message": "Γίνεται σύνδεση με τον φίλο σας για να παίξει το \u003Cb>{gameTitle}\u003C/b> ως επισκέπτης"
+   },
+   "nvb_r_auth_err_unauthorized_client": {
+      "message": "Η πρόσκλησή σας από \u003Cb>{fromDisplayName}\u003C/b> για να παίξετε \u003Cb>{gameTitle}\u003C/b> ως επισκέπτης δεν είναι πλέον ενεργή."
+   },
+   "nvb_r_auth_err_unauthorized_clientnodisplayname": {
+      "message": "Η πρόσκλησή σας από τον φίλο σας για να παίξετε \u003Cb>{gameTitle}\u003C/b> ως επισκέπτης δεν είναι πλέον ενεργή."
+   },
+   "nvb_r_client_upgrade_required": {
+      "message": "Πρέπει να αποκτήσει την πιο πρόσφατη έκδοση του GeForce Experience για να μπορείτε να συνδεθείτε και να παίξετε ως επισκέπτης."
+   },
+   "nvb_r_network_error": {
+      "message": "Συνέβη σφάλμα επικοινωνίας δικτύου #47430005."
+   },
+   "nvb_r_no_session_to_resume": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> σταμάτησε να μοιράζεται \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_no_session_to_resumenodisplayname": {
+      "message": "Ο φίλος σας σταμάτησε να μοιράζεται \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_remote_user_response_timeout": {
+      "message": "Η πρόσκλησή σας από \u003Cb>{fromDisplayName}\u003C/b> για να παίξετε \u003Cb>{gameTitle}\u003C/b> ως επισκέπτης έληξε."
+   },
+   "nvb_r_remote_user_response_timeoutnodisplayname": {
+      "message": "Η πρόσκλησή σας από τον φίλο σας για να παίξετε \u003Cb>{gameTitle}\u003C/b> ως επισκέπτης έληξε."
+   },
+   "nvb_r_server_out_of_service": {
+      "message": "Δεν είναι δυνατή η σύνδεση με τον φίλο σας για να παίξει το \u003Cb>{gameTitle}\u003C/b> ως επισκέπτης. Συνέβη σφάλμα #47430004."
+   },
+   "nvb_r_server_upgrade_required": {
+      "message": "Ο/Η φίλος/η σας, \u003Cb>{fromDisplayName}\u003C/b>, πρέπει να αποκτήσει την πιο πρόσφατη έκδοση του GeForce Experience για να μπορείτε να συνδεθείτε και να παίξετε ως επισκέπτης."
+   },
+   "nvb_r_session_no_longer_active": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> σταμάτησε να μοιράζεται \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_session_no_longer_activenodisplayname": {
+      "message": "Ο φίλος σας σταμάτησε να μοιράζεται \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_session_request_rejected": {
+      "message": "Η πρόσκλησή σας από \u003Cb>{fromDisplayName}\u003C/b> για να παίξετε \u003Cb>{gameTitle}\u003C/b> ως επισκέπτης ακυρώθηκε."
+   },
+   "nvb_r_session_request_rejectednodisplayname": {
+      "message": "Η πρόσκλησή σας από τον φίλο σας για να παίξετε \u003Cb>{gameTitle}\u003C/b> ως επισκέπτης ακυρώθηκε."
+   },
+   "nvb_r_streamer_connect_failed": {
+      "message": "Γίνεται σύνδεση με τον φίλο σας για να παίξει το \u003Cb>{gameTitle}\u003C/b> ως επισκέπτης. Συνέβη σφάλμα #{hexcode}"
+   },
+   "nvb_r_streamer_network_error": {
+      "message": "Συνέβη σφάλμα επικοινωνίας δικτύου #{hexcode}."
+   },
+   "nvb_r_unknown": {
+      "message": "Δεν είναι δυνατή η σύνδεση με \u003Cb>{fromDisplayName}\u003C/b> για να παίξει το \u003Cb>{gameTitle}\u003C/b> ως επισκέπτης. Συνέβη σφάλμα #47430218."
+   },
+   "nvb_r_unknownnodisplayname": {
+      "message": "Γίνεται σύνδεση με τον φίλο σας για να παίξει το \u003Cb>{gameTitle}\u003C/b> ως επισκέπτης. Συνέβη σφάλμα #47430218."
+   },
+   "open_share": {
+      "message": "Άνοιγμα Share"
+   },
+   "packet_loss": {
+      "message": "Απώλεια πακέτου:"
+   },
+   "playing": {
+      "message": "Παίζετε \u003Cb>{gameTitle}\u003C/b> με \u003Cb>{fromDisplayName}\u003C/b>."
+   },
+   "playingNoDisplayName": {
+      "message": "Παίζετε \u003Cb>{gameTitle}\u003C/b> με τον φίλο σας."
+   },
+   "privacy_policy": {
+      "message": "Πολιτική απορρήτου"
+   },
+   "rate": {
+      "message": "Βαθμολογήστε την εμπειρία σας με τη χρήση ροής:"
+   },
+   "read_software_lic_agreement": {
+      "message": "Διαβάστε προσεκτικά το ακόλουθο συμφωνητικό άδειας της NVIDIA."
+   },
+   "reconnect": {
+      "message": "Γίνεται προσπάθεια για επανασύνδεση..."
+   },
+   "send": {
+      "message": "Αποστολή"
+   },
+   "send_feedback": {
+      "message": "Αποστολή σχολίων"
+   },
+   "shortcuts": {
+      "message": "Συντομεύσεις πληκτρολογίου"
+   },
+   "skip": {
+      "message": "Παράλειψη"
+   },
+   "software_lic_agreement": {
+      "message": "Συμφωνητικό άδειας χρήσης λογισμικού NVIDIA"
+   },
+   "statistics": {
+      "message": "Στατιστικά"
+   },
+   "stopTitle": {
+      "message": "Η συνεδρία σας έχει λήξει."
+   },
+   "stopping": {
+      "message": "Γίνεται διακοπή της συνεδρίας σας..."
+   },
+   "stream": {
+      "message": "Ροή"
+   },
+   "streaming_health": {
+      "message": "Υγεία ροής:"
+   },
+   "swiftshader_not_supported": {
+      "message": "Απαιτείται απόδοση OpenGL με επιτάχυνση GPU για σύνδεση και παιχνίδι ως επισκέπτης."
+   },
+   "system_ready": {
+      "message": "Το σύστημά σας είναι έτοιμο!"
+   },
+   "title": {
+      "message": "Γίνεται προετοιμασία για τη συνεδρία σας..."
+   },
+   "toggle_fullscreen": {
+      "message": "Εναλλαγή πλήρους οθόνης/παράθυρων"
+   },
+   "toggle_microphone": {
+      "message": "Σίγαση/Κατάργηση σίγασης μικροφώνου"
+   },
+   "toggle_stats": {
+      "message": "Εμφάνιση/Απόκρυψη στατιστικών"
+   },
+   "troubleshooting_guide": {
+      "message": "Προβολή Οδηγού αντιμετώπισης προβλημάτων"
+   },
+   "unhandled_error": {
+      "message": "Συνέβη σφάλμα #47439999."
+   },
+   "version": {
+      "message": "Έκδοση $details$",
+      "placeholders": {
+         "details": {
+            "content": "$1",
+            "example": "2015.xxx.yyyy.1"
+         }
+      }
+   },
+   "watch_game": {
+      "message": "Παρακολούθηση παιχνιδιού"
+   },
+   "webgl_init_failed": {
+      "message": "Απέτυχε η αρχικοποίηση του WebGL."
+   }
+}

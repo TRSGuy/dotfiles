@@ -1,0 +1,281 @@
+{
+   "about": {
+      "message": "Informacje"
+   },
+   "accept_terms": {
+      "message": "Zgadzam się, kontynuuj"
+   },
+   "additional_detail": {
+      "message": "Dodatkowe informacje:"
+   },
+   "audio_video_quality": {
+      "message": "Niska jakość wideo/audio"
+   },
+   "beta": {
+      "message": "BETA"
+   },
+   "bitrate": {
+      "message": "Bieżąca/maks. szybkość transmisji bitów:"
+   },
+   "chat_not_working": {
+      "message": "Czat głosowy nie działa"
+   },
+   "close": {
+      "message": "Zamknij"
+   },
+   "comments": {
+      "message": "Uwagi"
+   },
+   "configuring": {
+      "message": "Czekanie, aż \u003Cb>{fromDisplayName}\u003C/b> rozpocznie udostępnianie gry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "configuringnodisplayname": {
+      "message": "Czekanie, aż znajomy rozpocznie udostępnianie gry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "connecting": {
+      "message": "Łączenie z użytkownikiem \u003Cb>{fromDisplayName}\u003C/b> w celu grania w grę \u003Cb>{gameTitle}\u003C/b> jako gość."
+   },
+   "connectingnodisplayname": {
+      "message": "Łączenie ze znajomym w celu grania w grę \u003Cb>{gameTitle}\u003C/b> jako gość."
+   },
+   "controller_not_working": {
+      "message": "Udostępnianie kontrolera nie działa"
+   },
+   "copyright": {
+      "message": "&copy; 2015 NVIDIA Corporation, wszystkie prawa zastrzeżone."
+   },
+   "copyright2": {
+      "message": "Copyright &copy; 2015 NVIDIA Corporation "
+   },
+   "disconnected": {
+      "message": "Utracono połączenie sieciowe"
+   },
+   "errorTitle": {
+      "message": "Wystąpił problem ze wtyczką usługi Stream"
+   },
+   "external_license_agreement": {
+      "message": "Umowy licencyjne stron trzecich"
+   },
+   "feedback": {
+      "message": "Opinia"
+   },
+   "frame_rate": {
+      "message": "Częstość klatek:"
+   },
+   "game_play_laggy": {
+      "message": "Gra jest powolna"
+   },
+   "gameseatready": {
+      "message": "Użytkownik \u003Cb>{fromDisplayName}\u003C/b> jest gotowy do grania w grę \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "gameseatreadynodisplayname": {
+      "message": "Twój znajomy jest gotowy do grania w grę \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "initialize_decoder_error_title": {
+      "message": "Wystąpił błąd #47430002"
+   },
+   "initialize_opengl_error_title": {
+      "message": "Wystąpił błąd #47430001"
+   },
+   "invalid_sessionid": {
+      "message": "Sesja jest nieważna."
+   },
+   "invite_friend": {
+      "message": "Poproś znajomego o zaproszenie do gry i zagraj jako gość. Możesz grać wraz ze znajomymi, grać w imieniu znajomych lub tylko oglądać, jak grają."
+   },
+   "join_game": {
+      "message": "Dołącz do gry"
+   },
+   "legal_information": {
+      "message": " Informacje prawne"
+   },
+   "license_agreement": {
+      "message": "Umowa licencyjna"
+   },
+   "loading": {
+      "message": "Ładowanie składników systemu."
+   },
+   "nacl_module_crash": {
+      "message": "Wystąpił błąd #47439998"
+   },
+   "no_streamer_config": {
+      "message": "Nie można znaleźć konfiguracji modułu obsługi strumienia."
+   },
+   "no_webgl_browser_support": {
+      "message": "W celu połączenia i grania jako gość konieczne jest włączenie modułu WebGL."
+   },
+   "notice": {
+      "message": "Oświadczenia stron trzecich i Open Source"
+   },
+   "notification_paused": {
+      "message": "Użytkownik \u003Cb>{fromDisplayName}\u003C/b> wstrzymał grę \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "notification_pausednodisplayname": {
+      "message": "Twój znajomy wstrzymał grę \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "nvb_evt_game_exited_by_user": {
+      "message": "Użytkownik \u003Cb>{fromDisplayName}\u003C/b> zatrzymał udostępnianie gry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_evt_game_exited_by_usernodisplayname": {
+      "message": "Twój znajomy zatrzymał udostępnianie gry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_evt_game_exited_unintentionally": {
+      "message": "Wystąpił błąd #47430003"
+   },
+   "nvb_evt_session_expired": {
+      "message": "Został osiągnięty maksymalny czas gry w grę \u003Cb>{gameTitle}\u003C/b> w charakterze gościa."
+   },
+   "nvb_evt_streaming_properties": {
+      "message": "Łączenie z użytkownikiem \u003Cb>{fromDisplayName}\u003C/b> w celu grania w grę \u003Cb>{gameTitle}\u003C/b> jako gość"
+   },
+   "nvb_evt_streaming_propertiesnodisplayname": {
+      "message": "Łączenie ze znajomym w celu grania w grę \u003Cb>{gameTitle}\u003C/b> jako gość."
+   },
+   "nvb_r_auth_err_unauthorized_client": {
+      "message": "Zaproszenie od użytkownika \u003Cb>{fromDisplayName}\u003C/b> do grania w grę \u003Cb>{gameTitle}\u003C/b> jako gość nie jest już aktywne."
+   },
+   "nvb_r_auth_err_unauthorized_clientnodisplayname": {
+      "message": "Zaproszenie od znajomego do grania w grę \u003Cb>{gameTitle}\u003C/b> jako gość nie jest już aktywne."
+   },
+   "nvb_r_client_upgrade_required": {
+      "message": "Aby możliwe było połączenie się i gra w charakterze gościa, musisz pobrać najnowszą wersję programu GeForce Experience."
+   },
+   "nvb_r_network_error": {
+      "message": "Wystąpił błąd komunikacji sieciowej #47430005."
+   },
+   "nvb_r_no_session_to_resume": {
+      "message": "Użytkownik \u003Cb>{fromDisplayName}\u003C/b> zatrzymał udostępnianie gry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_no_session_to_resumenodisplayname": {
+      "message": "Twój znajomy zatrzymał udostępnianie gry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_remote_user_response_timeout": {
+      "message": "Zaproszenie od użytkownika \u003Cb>{fromDisplayName}\u003C/b> do grania w grę \u003Cb>{gameTitle}\u003C/b> jako gość wygasło."
+   },
+   "nvb_r_remote_user_response_timeoutnodisplayname": {
+      "message": "Zaproszenie znajomego do grania w grę \u003Cb>{gameTitle}\u003C/b> jako gość wygasło."
+   },
+   "nvb_r_server_out_of_service": {
+      "message": "Nie można połączyć ze znajomym w celu grania w grę \u003Cb>{gameTitle}\u003C/b> jako gość. Wystąpił błąd #47430004"
+   },
+   "nvb_r_server_upgrade_required": {
+      "message": "Twój znajomy, \u003Cb>{fromDisplayName}\u003C/b>, musi pobrać najnowszą wersję programu GeForce Experience, aby możliwe było połączenie się i gra w charakterze gościa."
+   },
+   "nvb_r_session_no_longer_active": {
+      "message": "Użytkownik \u003Cb>{fromDisplayName}\u003C/b> zatrzymał udostępnianie gry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_session_no_longer_activenodisplayname": {
+      "message": "Twój znajomy zatrzymał udostępnianie gry \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_session_request_rejected": {
+      "message": "Zaproszenie od użytkownika \u003Cb>{fromDisplayName}\u003C/b> do grania w grę \u003Cb>{gameTitle}\u003C/b> jako gość zostało anulowane."
+   },
+   "nvb_r_session_request_rejectednodisplayname": {
+      "message": "Zaproszenie znajomego do grania w grę \u003Cb>{gameTitle}\u003C/b> jako gość zostało anulowane."
+   },
+   "nvb_r_streamer_connect_failed": {
+      "message": "Nie można połączyć ze znajomym w celu grania w grę \u003Cb>{gameTitle}\u003C/b> jako gość. Wystąpił błąd #{hexcode}"
+   },
+   "nvb_r_streamer_network_error": {
+      "message": "Wystąpił błąd komunikacji sieciowej #{hexcode}."
+   },
+   "nvb_r_unknown": {
+      "message": "Nie można połączyć z użytkownikiem \u003Cb>{fromDisplayName}\u003C/b> w celu grania w grę \u003Cb>{gameTitle}\u003C/b> jako gość. Wystąpił błąd #47430218"
+   },
+   "nvb_r_unknownnodisplayname": {
+      "message": "Nie można połączyć ze znajomym w celu grania w grę \u003Cb>{gameTitle}\u003C/b> jako gość. Wystąpił błąd #47430218"
+   },
+   "open_share": {
+      "message": "Otwórz funkcję udostępniania"
+   },
+   "packet_loss": {
+      "message": "Utrata pakietów:"
+   },
+   "playing": {
+      "message": "Grasz w grę \u003Cb>{gameTitle}\u003C/b> z użytkownikiem \u003Cb>{fromDisplayName}\u003C/b>."
+   },
+   "playingNoDisplayName": {
+      "message": "Grasz w grę \u003Cb>{gameTitle}\u003C/b> ze znajomym."
+   },
+   "privacy_policy": {
+      "message": "Polityka prywatności"
+   },
+   "rate": {
+      "message": "Oceń swoje wrażenia z używania usługi Stream:"
+   },
+   "read_software_lic_agreement": {
+      "message": "Przeczytaj uważnie poniższą umowę licencyjną oprogramowania NVIDIA."
+   },
+   "reconnect": {
+      "message": "Próba ponownego nawiązania połączenia..."
+   },
+   "send": {
+      "message": "Wyślij"
+   },
+   "send_feedback": {
+      "message": "Wyślij opinię"
+   },
+   "shortcuts": {
+      "message": "Skróty klawiaturowe"
+   },
+   "skip": {
+      "message": "Pomiń"
+   },
+   "software_lic_agreement": {
+      "message": "Umowa licencyjna oprogramowania NVIDIA"
+   },
+   "statistics": {
+      "message": "Statystyka"
+   },
+   "stopTitle": {
+      "message": "Sesja została zakończona."
+   },
+   "stopping": {
+      "message": "Zatrzymywanie sesji..."
+   },
+   "stream": {
+      "message": "Transmisja strumieniowa"
+   },
+   "streaming_health": {
+      "message": "Kondycja przesyłania strumieniowego:"
+   },
+   "swiftshader_not_supported": {
+      "message": "W celu połączenia i grania jako gość potrzebny jest moduł renderujący OpenGL z akceleracją sprzętową."
+   },
+   "system_ready": {
+      "message": "System jest gotowy!"
+   },
+   "title": {
+      "message": "Przygotowywanie sesji..."
+   },
+   "toggle_fullscreen": {
+      "message": "Przełączaj tryb pełnoekranowy/okienkowy"
+   },
+   "toggle_microphone": {
+      "message": "Wycisz/wyłącz wyciszenie mikrofonu"
+   },
+   "toggle_stats": {
+      "message": "Pokaż/ukryj statystyki"
+   },
+   "troubleshooting_guide": {
+      "message": "Wyświetl Przewodnik rozwiązywania problemów"
+   },
+   "unhandled_error": {
+      "message": "Wystąpił błąd #47439999"
+   },
+   "version": {
+      "message": "Wersja $details$",
+      "placeholders": {
+         "details": {
+            "content": "$1",
+            "example": "2015.xxx.yyyy.1"
+         }
+      }
+   },
+   "watch_game": {
+      "message": "Oglądaj grę"
+   },
+   "webgl_init_failed": {
+      "message": "Inicjowanie modułu WebGL."
+   }
+}

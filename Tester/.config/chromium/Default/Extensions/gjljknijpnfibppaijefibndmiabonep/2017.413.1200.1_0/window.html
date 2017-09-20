@@ -1,0 +1,229 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>NVIDIA Stream</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css" />
+    <script src="js/jquery-notific8/jquery-2.1.1.js"></script>
+    <script type="text/javascript" src="js/config.js"></script>
+    <script type="text/javascript" src="js/strings.js">
+    </script>
+    <script type="text/javascript" src="js/coplaystrings.js">
+    </script>
+    <script type="text/javascript" src="js/native_interface/google-analytics-bundle.js">
+    </script>
+    <script type="text/javascript" src="js/native_interface/googleanalyticstracking.js">
+    </script>
+    <script type="text/javascript" src="js/native_interface/platform.js">
+    </script>
+    <script type="text/javascript" src="js/native_interface/grid.js">
+    </script>
+    <script type="text/javascript" src="js/notifier.js">
+    </script>
+    <script type="text/javascript" src="js/osc.js">
+    </script>
+    <script type="text/javascript" src="js/osd.js">
+    </script>
+    <script type="text/javascript" src="js/parammap.js">
+    </script>
+    <script type="text/javascript" src="js/onscreenstats.js">
+    </script>
+    <script type="text/javascript" src="js/feedback.js">
+    </script>
+    <script type="text/javascript" src="js/webglcheck.js">
+    </script>
+    <script type="text/javascript" src="js/mainwincontroller.js">
+    </script>
+    <script type="text/javascript" src="js/websocket.js"></script>
+    <script type="text/javascript" src="js/webrtc.js"></script>
+    <script type="text/javascript" src="js/audiochat.js"></script>
+
+</head>
+
+<body>
+    <canvas id="glcanvas" width="0" height="0"></canvas>
+    <div id="listener">
+        <div id="eulaDisplay"  style="display:none;">
+            <div id="eulaContainer">
+                <img src="img/geforce-experience.png" />
+                <h1 id="eulaTitle"></h1>
+                <h2 id="eulaSubTitle"></h2>
+                <div id="eulaContent">
+                    <textarea id="eulaTextArea" spellcheck="false">
+                    </textarea>
+                    <div id="eulaButtonDiv">
+                        <input class="buttonactive" id="eulaButton" type="button"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- message display section -->
+
+        <div id="messageDisplay">
+            <div id="content-container">
+                <div id="content">
+                    <img id="messageLogoImage" src="img/geforce-experience.png" />
+                    <h1><div id="messageTitle"></div></h1>
+                    <h2><div id="messageText"></div></h2>
+                    <div id="messageButtonDiv">
+                        <input class="buttonactive" id="messageButton" type="button"/>
+                    </div>
+                </div>
+            </div>
+            <div id="pauseContainer">
+            	<img id="messagePauseImage" src="img/pause.png" class="center-image" style="visibility:hidden;"/>
+                <h1 class="center-image"><div id="pauseText" style="visibility:hidden;"></div></h1>
+            </div>
+        </div>
+        <div id="miniOsc">
+            <div id="topBar">
+                <div id="appIcon">
+                    <img id="appIconImage" src="img/img_client_osc_logo_64x64.png">
+                </div>
+                <div id="closeButton">
+                    <img id="closeButtonImage" src="img/btn_close_32x32.png">
+                </div>
+                <div id="share">SHARE</div>
+            </div>
+            <div id="oscMenu">
+                <ul>
+                    <li id="joinTile" class="active">
+                        <p id="joinGameText"></p>
+                        <img class="oscMenuImage" id="joinGameImage" />
+                    </li>
+                    <li id="fullscreenTile" class="">
+                        <img class="oscMenuImage" id="fullscreenImage"/>
+                    </li>
+                    <li id="micTile" class="">
+                        <img class="oscMenuImage" id="micImage"/>
+                    </li>
+                </ul>
+<!--                <div style="clear: both;"></div>-->
+                <div id="shortcutBox">
+                    <table>
+                        <col width="100">
+                        <col width="300">
+                        <tr>
+                            <th colspan="2" id="shortcuts"></th>
+                        </tr>
+                        <tr>
+                            <td>Alt+X</td>
+                            <td id="openShare"></td>
+                        </tr>
+                        <tr>
+                            <td>F11</td>
+                            <td id="toggleFS"></td>
+                        </tr>
+                        <tr>
+                            <td>Alt+M</td>
+                            <td id="toggleMic"</td>
+                        </tr>
+                        <tr>
+                            <td>Ctrl+Alt+D</td>
+                            <td id="toggleStats"></td>
+                        </tr>
+                    </table>
+                </div>
+                <div id="aboutBox">
+                    <div id="aboutHeader">
+                        <h1 id="aboutText"></h1>
+                        <img id="aboutImage">
+                    </div>
+                    <div id="aboutContent">
+                        <p id="aboutVersion"></p>
+                        <p id="copyright"></p>
+                        <div id="aboutLic">
+                            <p><a id="licAgreement"></a> | <a id="extLicAgreement"></a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="osdContainer">
+                <img id="micOsdImage">
+                <img id="signalStrengthImage">
+            </div>
+        </div>
+        <div id="feedbackDisplay">
+            <div id="feedback">
+                <div id="streamTile">
+                    <p id="streamTileText"></p>
+                    <img id="streamTileImage" />
+                    <p id="streamTileBottomText"></p>
+                </div>
+                <form>
+                <div id="ratings">
+                    <div id="heading">
+                        <p id="headingText"></p><br>
+                        <div class='rating_selection' id="rating_selection_id" >
+                            <input checked id='rating_0' name='rating' type='radio' value='rating_0'><label for='rating_0'><span>Unrated</span></label>
+                            <input id='rating_1' name='rating' type='radio' value='1'><label for='rating_1'><span>Rate 1 Star</span></label>
+                            <input id='rating_2' name='rating' type='radio' value='2'><label for='rating_2'><span>Rate 2 Stars</span></label>
+                            <input id='rating_3' name='rating' type='radio' value='3'><label for='rating_3'><span>Rate 3 Stars</span></label>
+                            <input id='rating_4' name='rating' type='radio' value='4'><label for='rating_4'><span>Rate 4 Stars</span></label>
+                            <input id='rating_5' name='rating' type='radio' value='5'><label for='rating_5'><span>Rate 5 Stars</span></label>
+                        </div>
+                    </div>
+                    <div id="details">
+                        <p id="addDetailsText_id"></p>
+                        <div class='addDetails_selection'>
+                            <input id="detail_1" name="addDetails" type="checkbox" value="VISUAL_AUDIO_QUALITY_IS_POOR"><label id="label_PoorAudioVideo" for="detail_1"></label><br>
+                            <input id="detail_2" name="addDetails" type="checkbox" value="NETWORK_CONNECTION_WAS_LOST"><label id="label_NetworkConnectionLost" for="detail_2"></label><br>
+                            <input id="detail_3" name="addDetails" type="checkbox" value="GAMEPLAY_IS_LAGGY"><label id="label_LaggyGamePlay" for="detail_3"></label><br>
+                            <input id="detail_4" name="addDetails" type="checkbox" value="VOICE_CHAT_IS_NOT_WORKING"><label id="label_VoiceChatNotWorking" for="detail_4"></label><br>
+                            <input id="detail_5" name="addDetails" type="checkbox" value="CONTROLLER_SHARING_IS_NOT_WORKING"><label id="label_ControllerNotWorking" for="detail_5"></label><br>
+                        </div>
+                    </div>
+                    <div id="comments">
+                        <p id="commentsTitleText"></p>
+                        <textarea id="commentsTextArea" rows="2" cols="60" maxlength="108" autofocus></textarea>
+                    </div>
+                </div>
+                    <div id="buttons">
+                        <input id="send" class="feedback_button active" type="button">
+                        <input id="skip" class="feedback_button" type="button">
+                    </div>
+                </form>
+            </div>
+        </div>
+        <video id="remoteVideo" style="display:none;" autoplay></video>
+
+        <!-- embedded grid client -->
+
+        <div id="clientDisplay">
+            <!-- the embed tag is inserted here programatically
+      <embed
+      id="gridPepperModule"
+      src="pnacl/Release/gridPepperModule.nmf"
+      type="application/x-nacl"  />
+      -->
+            <div id="statsContainer">
+                <table>
+                    <col width="200">
+                    <col width="140">
+                    <tr>
+                        <th colspan="2" id="stats"</th>
+                    </tr>
+                    <tr>
+                        <td id="streamingHealth"></td>
+                        <td id="quality"></td>
+                    </tr>
+                    <tr>
+                        <td id="frameRate"></td>
+                        <td id="fps"></td>
+                    </tr>
+                    <tr>
+                        <td id="bitrateChange"</td>
+                        <td id="bitrate"></td>
+                    </tr>
+                    <tr>
+                        <td id="packetLossIndicator"</td>
+                        <td id="packetloss"></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,281 @@
+{
+   "about": {
+      "message": "Vizitka"
+   },
+   "accept_terms": {
+      "message": "Se strinjam in nadaljuj"
+   },
+   "additional_detail": {
+      "message": "Dodatne podrobnosti:"
+   },
+   "audio_video_quality": {
+      "message": "Vizualna/avdio kakovost je slaba"
+   },
+   "beta": {
+      "message": "BETA"
+   },
+   "bitrate": {
+      "message": "Trenutna/največja dovoljena bitna hitrost:"
+   },
+   "chat_not_working": {
+      "message": "Glasovni klepet ne dela"
+   },
+   "close": {
+      "message": "Zapri"
+   },
+   "comments": {
+      "message": "Komentarji"
+   },
+   "configuring": {
+      "message": "Čakam na \u003Cb>{fromDisplayName}\u003C/b>, da začne s skupno rabo \u003Cb>{gameTitle}\u003C/b> z vami."
+   },
+   "configuringnodisplayname": {
+      "message": "Čakam na vašega prijatelja, da začne s skupno rabo \u003Cb>{gameTitle}\u003C/b> z vami."
+   },
+   "connecting": {
+      "message": "Povezujem se s/z \u003Cb>{fromDisplayName}\u003C/b>, da bi igral \u003Cb>{gameTitle}\u003C/b> kot gost."
+   },
+   "connectingnodisplayname": {
+      "message": "Povezujem se z vašim prijateljem, da bi igral \u003Cb>{gameTitle}\u003C/b> kot gost."
+   },
+   "controller_not_working": {
+      "message": "Skupna raba krmilnika ne dela"
+   },
+   "copyright": {
+      "message": "&copy; 2015 NVIDIA Corporation. Vse pravice pridržane."
+   },
+   "copyright2": {
+      "message": "Avtorske pravice &copy; 2015 NVIDIA Corporation"
+   },
+   "disconnected": {
+      "message": "Omrežna povezava je izgubljena"
+   },
+   "errorTitle": {
+      "message": "Pri vtičniku za predvajanje je prišlo do težave..."
+   },
+   "external_license_agreement": {
+      "message": "licenčne pogodbe tretjih strank"
+   },
+   "feedback": {
+      "message": "Povratne informacije"
+   },
+   "frame_rate": {
+      "message": "Hitrost sličic:"
+   },
+   "game_play_laggy": {
+      "message": "Igralna izkušnja je zakasnjena"
+   },
+   "gameseatready": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> je pripravljen, da igra \u003Cb>{gameTitle}\u003C/b> z vami."
+   },
+   "gameseatreadynodisplayname": {
+      "message": "Vaš prijatelj je pripravljen, da igra \u003Cb>{gameTitle}\u003C/b> z vami."
+   },
+   "initialize_decoder_error_title": {
+      "message": "Prišlo je do napake št. 47430002."
+   },
+   "initialize_opengl_error_title": {
+      "message": "Prišlo je do napake št. 47430001."
+   },
+   "invalid_sessionid": {
+      "message": "Seja ni veljavna."
+   },
+   "invite_friend": {
+      "message": "Prijatelj/ica vam naj pošlje vabilo, da se mu/ji pridružite v igri in igrate kot gost. Lahko igrate poleg njih, kot on(a) ali pa samo gledate, kako igra."
+   },
+   "join_game": {
+      "message": "Pridružite se igri"
+   },
+   "legal_information": {
+      "message": " Pravne informacije"
+   },
+   "license_agreement": {
+      "message": "Licenčna pogodba"
+   },
+   "loading": {
+      "message": "Nalaganje komponent sistema v teku."
+   },
+   "nacl_module_crash": {
+      "message": "Prišlo je do napake št. 47439998."
+   },
+   "no_streamer_config": {
+      "message": "Ni mogoče najti konfiguracije predvajalnika."
+   },
+   "no_webgl_browser_support": {
+      "message": "Za povezavo in igranje kot gost mora biti omogočen WebGL."
+   },
+   "notice": {
+      "message": "Obvestila za tretje osebe in odprto kodo"
+   },
+   "notification_paused": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> je prekinil \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "notification_pausednodisplayname": {
+      "message": "Vaš prijatelj je začasno prekinil \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "nvb_evt_game_exited_by_user": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> je prenehal s skupno rabo \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_evt_game_exited_by_usernodisplayname": {
+      "message": "Vaš prijatelj je prekinil s skupno rabo \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_evt_game_exited_unintentionally": {
+      "message": "Prišlo je do napake št. 47430003."
+   },
+   "nvb_evt_session_expired": {
+      "message": "Najdaljši dovoljeni čas za igranje \u003Cb>{gameTitle}\u003C/b> kot gost je bil dosežen."
+   },
+   "nvb_evt_streaming_properties": {
+      "message": "Povezujem se s/z \u003Cb>{fromDisplayName}\u003C/b>, da bi igral \u003Cb>{gameTitle}\u003C/b> kot gost"
+   },
+   "nvb_evt_streaming_propertiesnodisplayname": {
+      "message": "Povezujem se z vašim prijateljem, da bi igral \u003Cb>{gameTitle}\u003C/b> kot gost"
+   },
+   "nvb_r_auth_err_unauthorized_client": {
+      "message": "Vaše povabilo od \u003Cb>{fromDisplayName}\u003C/b> za igranje \u003Cb>{gameTitle}\u003C/b> kot gost ni več aktivno."
+   },
+   "nvb_r_auth_err_unauthorized_clientnodisplayname": {
+      "message": "Vaše povabilo od vašega prijatelja za igranje \u003Cb>{gameTitle}\u003C/b> kot gost ni več aktivno."
+   },
+   "nvb_r_client_upgrade_required": {
+      "message": "Dobiti morate zadnjo različico GeForce Experience, da se lahko povežete in igrate kot gost."
+   },
+   "nvb_r_network_error": {
+      "message": "Prišlo je do omrežne napake št. 47430005."
+   },
+   "nvb_r_no_session_to_resume": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> je prenehal s skupno rabo \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_no_session_to_resumenodisplayname": {
+      "message": "Vaš prijatelj je prekinil s skupno rabo \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_remote_user_response_timeout": {
+      "message": "Vaše povabilo od \u003Cb>{fromDisplayName}\u003C/b> za igranje \u003Cb>{gameTitle}\u003C/b> kot gost je poteklo."
+   },
+   "nvb_r_remote_user_response_timeoutnodisplayname": {
+      "message": "Vaše povabilo od vašega prijatelja za igranje \u003Cb>{gameTitle}\u003C/b> kot gost je poteklo"
+   },
+   "nvb_r_server_out_of_service": {
+      "message": "Ne morem se povezati z vašim prijateljem, da bi igral \u003Cb>{gameTitle}\u003C/b> kot gost. Prišlo je do napake št. 47430004."
+   },
+   "nvb_r_server_upgrade_required": {
+      "message": "Vaš prijatelj, \u003Cb>{fromDisplayName}\u003C/b>, mora dobiti zadnjo različico GeForce Experience, da se lahko poveže in igra kot gost."
+   },
+   "nvb_r_session_no_longer_active": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> je prenehal s skupno rabo \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_session_no_longer_activenodisplayname": {
+      "message": "Vaš prijatelj je prekinil s skupno rabo \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_session_request_rejected": {
+      "message": "Vaše povabilo od \u003Cb>{fromDisplayName}\u003C/b> za igranje \u003Cb>{gameTitle}\u003C/b> kot gost je bilo preklicano."
+   },
+   "nvb_r_session_request_rejectednodisplayname": {
+      "message": "Vaše povabilo od vašega prijatelja za igranje \u003Cb>{gameTitle}\u003C/b> kot gost je bilo preklicano."
+   },
+   "nvb_r_streamer_connect_failed": {
+      "message": "Ne morem se povezati z vašim prijateljem, da bi igral \u003Cb>{gameTitle}\u003C/b> kot gost. Prišlo je do napake št. {hexcode}."
+   },
+   "nvb_r_streamer_network_error": {
+      "message": "Prišlo je do omrežne napake št. {hexcode}."
+   },
+   "nvb_r_unknown": {
+      "message": "Ne morem se povezati s/z \u003Cb>{fromDisplayName}\u003C/b>, da bi igral \u003Cb>{gameTitle}\u003C/b> kot gost. Prišlo je do napake št. 47430218."
+   },
+   "nvb_r_unknownnodisplayname": {
+      "message": "Ne morem se povezati z vašim prijateljem, da bi igral \u003Cb>{gameTitle}\u003C/b> kot gost. Prišlo je do napake št. 47430218."
+   },
+   "open_share": {
+      "message": "Odprite Share"
+   },
+   "packet_loss": {
+      "message": "Izguba paketa:"
+   },
+   "playing": {
+      "message": "Igrate \u003Cb>{gameTitle}\u003C/b> s/z \u003Cb>{fromDisplayName}\u003C/b>."
+   },
+   "playingNoDisplayName": {
+      "message": "Igrate \u003Cb>{gameTitle}\u003C/b> s svojim prijateljem."
+   },
+   "privacy_policy": {
+      "message": "Pravilnik o zasebnosti"
+   },
+   "rate": {
+      "message": "Ocenite svoje izkušnje z uporabo predvajalnika:"
+   },
+   "read_software_lic_agreement": {
+      "message": "Natančno si preberite naslednjo licenčno pogodbo za programsko opremo NVIDIA."
+   },
+   "reconnect": {
+      "message": "Poizkušam se ponovno povezati..."
+   },
+   "send": {
+      "message": "Pošlji"
+   },
+   "send_feedback": {
+      "message": "Pošlji povratne informacije"
+   },
+   "shortcuts": {
+      "message": "Bližnjične tipke"
+   },
+   "skip": {
+      "message": "Preskoči"
+   },
+   "software_lic_agreement": {
+      "message": "Licenčna pogodba za programsko opremo NVIDIA"
+   },
+   "statistics": {
+      "message": "Statistika"
+   },
+   "stopTitle": {
+      "message": "Vaša seja se je zaključila."
+   },
+   "stopping": {
+      "message": "Zaustavitev seje v teku..."
+   },
+   "stream": {
+      "message": "Predvajaj"
+   },
+   "streaming_health": {
+      "message": "Ustreznost stanja predvajanja:"
+   },
+   "swiftshader_not_supported": {
+      "message": "Za vzpostavitev povezave in igranje kot gost je potreben z grafičnim procesorjem pospešen OpenGL prikazovalnik."
+   },
+   "system_ready": {
+      "message": "Vaš sistem je pripravljen!"
+   },
+   "title": {
+      "message": "Priprava seje v teku"
+   },
+   "toggle_fullscreen": {
+      "message": "Preklopite med ogledom v polnem zaslonu/v oknu"
+   },
+   "toggle_microphone": {
+      "message": "Izklopite/vklopite mikrofon"
+   },
+   "toggle_stats": {
+      "message": "Prikažite/skrijte statistiko"
+   },
+   "troubleshooting_guide": {
+      "message": "Oglejte si Priročnik za ugotavljanje napak"
+   },
+   "unhandled_error": {
+      "message": "Prišlo je do napake št. 47439999."
+   },
+   "version": {
+      "message": "Različica $details$",
+      "placeholders": {
+         "details": {
+            "content": "$1",
+            "example": "2015.xxx.yyyy.1"
+         }
+      }
+   },
+   "watch_game": {
+      "message": "Glejte igro"
+   },
+   "webgl_init_failed": {
+      "message": "Inicializacija WebGL ni uspela. "
+   }
+}

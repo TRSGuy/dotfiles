@@ -1,0 +1,99 @@
+{
+  "files": {
+    "libc.so.11835d88": {
+      "x86-64": {
+        "url": "lib64/libc.so.11835d88"
+      }
+    },
+    "liberror_handling.so": {
+      "x86-64": {
+        "url": "lib64/liberror_handling.so"
+      }
+    },
+    "libm.so.11835d88": {
+      "x86-64": {
+        "url": "lib64/libm.so.11835d88"
+      }
+    },
+    "main.nexe": {
+      "x86-64": {
+        "url": "gridPepperModule_64_x86_64.nexe"
+      }
+    },
+    "libstdc++.so.6": {
+      "x86-64": {
+        "url": "lib64/libstdc++.so.6"
+      }
+    },
+    "libcrypto.so.1.0.0": {
+      "x86-64": {
+        "url": "lib64/libcrypto.so.1.0.0"
+      }
+    },
+    "libppapi_cpp.so": {
+      "x86-64": {
+        "url": "lib64/libppapi_cpp.so"
+      }
+    },
+    "libpthread.so.11835d88": {
+      "x86-64": {
+        "url": "lib64/libpthread.so.11835d88"
+      }
+    },
+    "libavutil.so.54": {
+      "x86-64": {
+        "url": "lib64/libavutil.so.54"
+      }
+    },
+    "libppapi_gles2.so": {
+      "x86-64": {
+        "url": "lib64/libppapi_gles2.so"
+      }
+    },
+    "libavcodec.so.56": {
+      "x86-64": {
+        "url": "lib64/libavcodec.so.56"
+      }
+    },
+    "librt.so.11835d88": {
+      "x86-64": {
+        "url": "lib64/librt.so.11835d88"
+      }
+    },
+    "libz.so.1": {
+      "x86-64": {
+        "url": "lib64/libz.so.1"
+      }
+    },
+    "libgcc_s.so.1": {
+      "x86-64": {
+        "url": "lib64/libgcc_s.so.1"
+      }
+    },
+    "libssl.so.1.0.0": {
+      "x86-64": {
+        "url": "lib64/libssl.so.1.0.0"
+      }
+    },
+    "libdl.so.11835d88": {
+      "x86-64": {
+        "url": "lib64/libdl.so.11835d88"
+      }
+    },
+    "libjsoncpp.so": {
+      "x86-64": {
+        "url": "lib64/libjsoncpp.so"
+      }
+    },
+    "libnacl_io.so": {
+      "x86-64": {
+        "url": "lib64/libnacl_io.so"
+      }
+    }
+  },
+  "program": {
+    "x86-64": {
+      "url": "lib64/runnable-ld.so"
+    }
+  }
+}

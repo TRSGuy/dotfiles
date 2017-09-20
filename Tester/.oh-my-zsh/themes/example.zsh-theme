@@ -1,0 +1,5 @@
+#PROMPT="%~ %{$fg[cyan]→ %{$reset_color"
+#PROMPT="%{$fg[red]%}%m%~ ] "
+#PROMPT="%{$fg[red]%}%{$fg[yellow]%}%m%{$fg[red]%}] %{$fg[cyan]%}%{$fg[blue]%}%~%{$fg[cyan]%}] %{$fg[red]%}%{$reset_color%}"
+PROMPT="%{$fg[green]%}%~ %{$fg[cyan]%}%% %{$reset_color%}"
+RPROMPT="%{$fg[red]%}[%n%{$reset_color%}%{$fg[orange]%}@%{$fg[yellow]%}%m]%{$reset_color%}"

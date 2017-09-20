@@ -1,0 +1,42 @@
+{
+   "app": {
+      "background": {
+         "page": "background.html"
+      }
+   },
+   "default_locale": "en",
+   "description": "GeForce Experience Stream Client",
+   "externally_connectable": {
+      "matches": [ "http://coplay-dev-1212747080.us-west-2.elb.amazonaws.com/*", "http://www.geforce.com/*", "https://www.geforce.com/*", "https://stream.nvidia.com/*", "http://email-dev.coplay.geforcenow.com/*" ]
+   },
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "48": "img/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjdLw07a2q+oFgiK5AskOUuTXDbHL+SWw38OoebmMWFuzemB9eOAIgIiTBd4ROg2WJZpZRVS6XihTfHkzZYQFho99cMf2qbxC0Kp2SP/4jLa6wYIKnGaYUmlQZF0PJsXuOsuftx1FoLD+9fJb26OkQDQ6jYK5/0ffF2jK4T5VRqqkMJ50zgRc4LHnSSYHjKAVEwmVkP0skPyXr1h6gcLicpu8+x+VpmgeWu0ZoZAzErGZHxaloOuTP0fJeR35Qnpkasxxgkb/6tSP8Svdx5RTCYmmm0e/FWmbgO4on7hqdpZSbhSk968ILmLXE2jowkRMGgisPr5nPUNOn8to0L6JLwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "42.0.2311.0",
+   "name": "GeForce Experience Stream Client",
+   "permissions": [ "fullscreen", {
+      "socket": [ "tcp-connect", "udp-send-to", "udp-bind", "resolve-host", "network-state" ]
+   }, "storage", "unlimitedStorage", "overrideEscFullscreen", "https://*.nvidiagrid.net/*", "http://www.geforce.com/*", "https://www.geforce.com/*", "https://*.nvidia.com/*", "http://*.nvidia.com/*", "http://*.amazonaws.com/*", "https://www.google-analytics.com/", {
+      "fileSystem": [ "write", "retainEntries", "directory" ]
+   }, "system.cpu", "pointerLock", "videoCapture", "audioCapture" ],
+   "platforms": [ {
+      "nacl_arch": "x86-64",
+      "sub_package_path": "_platform_specific/x86-64/"
+   }, {
+      "nacl_arch": "x86-32",
+      "sub_package_path": "_platform_specific/x86-32/"
+   } ],
+   "sockets": {
+      "tcp": {
+         "bind": [ "*" ],
+         "connect": [ "*" ],
+         "send": [ "*" ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2017.413.1200.1"
+}

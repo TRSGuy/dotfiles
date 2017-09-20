@@ -1,0 +1,21 @@
+{
+  "file": 1, 
+  "format": 1
+}{
+  "hosts": [
+    [
+      "bcb22701d4808b740ab04bb552ed1d4650057252", 
+      "127.0.0.1", 
+      58846, 
+      "", 
+      ""
+    ], 
+    [
+      "99cbeb5d3689ad4a40706a9484af9e4ff3203de4", 
+      "127.0.0.1", 
+      58846, 
+      "superpiraten", 
+      "teliaenstorhora"
+    ]
+  ]
+}

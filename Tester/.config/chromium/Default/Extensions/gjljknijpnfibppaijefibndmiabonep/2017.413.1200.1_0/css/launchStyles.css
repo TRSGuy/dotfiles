@@ -1,0 +1,283 @@
+@charset "UTF-8";
+/* CSS Document */
+/* ==================================================================
+    1.0 CSS Reset
+================================================================== */
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+/* ==================================================================
+    2.0 Basic Document Styles
+================================================================== */
+
+@font-face {
+    font-family: DINWebPro-Light;
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/DINWebPro.eot");
+    -webkit-font-smoothing: antialiased;
+}
+/* first for IE 4–8 */
+
+@font-face {
+    font-family: DINWebPro-Light;
+    src: url("../fonts/DINWebPro-Light.eot");
+}
+/* then for WOFF-capable browsers */
+
+@font-face {
+    font-family: DINWebPro-Light;
+    src: url("../fonts/DINWebPro-Light.woff") format("woff");
+}
+
+body {
+    line-height: 1;
+    color: #efefef;
+    font-size: 16px;
+    font-family: DINWebPro-Light, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 28px;
+    background: url(../img/Background_Texture_1920x1200.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    overflow-x: hidden;
+    white-space: normal;
+    position: relative;
+}
+
+#content-container {
+    width: 100%;
+    margin-top: 15%;
+}
+
+#content {
+    width: 50%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 2.3em;
+    line-height: 1.5em;
+    position: relative;
+    margin-bottom: 10px;
+    color: #efefef;
+}
+
+h2 {
+    font-size: 1.5em;
+    line-height: 1.5em;
+    position: relative;
+    margin-bottom: 20px;
+    color: #efefef;
+}
+
+h2 em {
+    font-weight: bold;
+}
+
+#footer {
+    width: 50%;
+    margin: 0 auto;
+    font-size 1.0em;
+    line-height: 1.0em;
+    margin-top: 60px;
+    color: #969696;
+    text-align: center;
+}
+
+#copyright {
+    display: inline-block;
+}
+
+#legal-information {
+    display: inline-block;
+}
+
+#privacy-policy {
+    display: inline-block;
+}
+
+a:link {
+    color: #76b900;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #76b900;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #76b900;
+    text-decoration: none;
+}
+
+.buttonactive {
+    border: 2px solid #76b900;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 1.0em;
+    outline: 0;
+    background: none;
+    color: #fff;
+}
+
+.buttonactive:hover {
+    background: #76b900;
+}
+
+.buttonactive:active {
+    background: #5a8d00
+}
+
+.buttoninactive {
+    border: 2px solid #666666;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 1.0em;
+    color: #cccccc;
+    outline: 0;
+    background: #666666;
+    width: 10em;
+}
+
+.buttoninactive:hover {
+    background: #666666;
+}
+
+.buttoninactive:active {
+    background: #666666
+}
+

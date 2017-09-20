@@ -1,0 +1,10 @@
+import sys
+import json
+import os
+js = os.popen("i3-msg -t get_workspaces").read()
+j = json.loads(js)
+for i in j:
+    if(i["focused"]):
+        print("%{F#00FF00}" + str(i["num"]) + "%{F#FFFFFF}")
+    else:
+        print("%{F#FFFFFF}" + str(i["num"]))

@@ -1,0 +1,281 @@
+{
+   "about": {
+      "message": "About"
+   },
+   "accept_terms": {
+      "message": "Agree and continue"
+   },
+   "additional_detail": {
+      "message": "Additional detail:"
+   },
+   "audio_video_quality": {
+      "message": "Visual/audio quality is poor"
+   },
+   "beta": {
+      "message": "BETA"
+   },
+   "bitrate": {
+      "message": "Current/max bitrate:"
+   },
+   "chat_not_working": {
+      "message": "Voice chat is not working"
+   },
+   "close": {
+      "message": "Close"
+   },
+   "comments": {
+      "message": "Comments:"
+   },
+   "configuring": {
+      "message": "Waiting on \u003Cb>{fromDisplayName}\u003C/b> to begin sharing \u003Cb>{gameTitle}\u003C/b> with you."
+   },
+   "configuringnodisplayname": {
+      "message": "Waiting on your friend to begin sharing \u003Cb>{gameTitle}\u003C/b> with you."
+   },
+   "connecting": {
+      "message": "Connecting with \u003Cb>{fromDisplayName}\u003C/b> to play \u003Cb>{gameTitle}\u003C/b> as a guest."
+   },
+   "connectingnodisplayname": {
+      "message": "Connecting with your friend to play \u003Cb>{gameTitle}\u003C/b> as a guest."
+   },
+   "controller_not_working": {
+      "message": "Controller sharing is not working"
+   },
+   "copyright": {
+      "message": "&copy; 2015 NVIDIA Corporation, All rights reserved."
+   },
+   "copyright2": {
+      "message": "Copyright &copy; 2015 NVIDIA Corporation "
+   },
+   "disconnected": {
+      "message": "Network connection was lost"
+   },
+   "errorTitle": {
+      "message": "Stream plug-in has encountered an issue..."
+   },
+   "external_license_agreement": {
+      "message": "3rd party license agreements"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "frame_rate": {
+      "message": "Frame rate:"
+   },
+   "game_play_laggy": {
+      "message": "Gameplay is laggy"
+   },
+   "gameseatready": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> is ready to play \u003Cb>{gameTitle}\u003C/b> with you."
+   },
+   "gameseatreadynodisplayname": {
+      "message": "Your friend is ready to play \u003Cb>{gameTitle}\u003C/b> with you."
+   },
+   "initialize_decoder_error_title": {
+      "message": "Error #47430002 has occurred."
+   },
+   "initialize_opengl_error_title": {
+      "message": "Error #47430001 has occurred."
+   },
+   "invalid_sessionid": {
+      "message": "The session is invalid."
+   },
+   "invite_friend": {
+      "message": "Have a friend send you an invite to join them in-game and play as a guest. You can play alongside them, play as them, or just watch them play."
+   },
+   "join_game": {
+      "message": "Join game"
+   },
+   "legal_information": {
+      "message": " Legal Info"
+   },
+   "license_agreement": {
+      "message": "License agreement"
+   },
+   "loading": {
+      "message": "Loading system components."
+   },
+   "nacl_module_crash": {
+      "message": "Error #47439998 has occurred."
+   },
+   "no_streamer_config": {
+      "message": "Cannot find streamer configuration."
+   },
+   "no_webgl_browser_support": {
+      "message": "WebGL must be enabled to connect and play as a guest."
+   },
+   "notice": {
+      "message": "3rd Party and Open Source Notices"
+   },
+   "notification_paused": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> paused \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "notification_pausednodisplayname": {
+      "message": "Your friend paused \u003Cb>{gameTitle}\u003C/b>"
+   },
+   "nvb_evt_game_exited_by_user": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> stopped sharing \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_evt_game_exited_by_usernodisplayname": {
+      "message": "Your friend stopped sharing \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_evt_game_exited_unintentionally": {
+      "message": "Error #47430003 has occurred."
+   },
+   "nvb_evt_session_expired": {
+      "message": "The maximum time allowed to play \u003Cb>{gameTitle}\u003C/b> as a guest was reached."
+   },
+   "nvb_evt_streaming_properties": {
+      "message": "Connecting with \u003Cb>{fromDisplayName}\u003C/b> to play \u003Cb>{gameTitle}\u003C/b> as a guest"
+   },
+   "nvb_evt_streaming_propertiesnodisplayname": {
+      "message": "Connecting with your friend to play \u003Cb>{gameTitle}\u003C/b> as a guest"
+   },
+   "nvb_r_auth_err_unauthorized_client": {
+      "message": "Your invitation from \u003Cb>{fromDisplayName}\u003C/b> to play \u003Cb>{gameTitle}\u003C/b> as a guest is no longer active."
+   },
+   "nvb_r_auth_err_unauthorized_clientnodisplayname": {
+      "message": "Your invitation from your friend to play \u003Cb>{gameTitle}\u003C/b> as a guest is no longer active."
+   },
+   "nvb_r_client_upgrade_required": {
+      "message": "You need to get the latest version of GeForce Experience so you can connect and play as a guest."
+   },
+   "nvb_r_network_error": {
+      "message": "Network communication error #47430005 has occurred."
+   },
+   "nvb_r_no_session_to_resume": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> stopped sharing \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_no_session_to_resumenodisplayname": {
+      "message": "Your friend stopped sharing \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_remote_user_response_timeout": {
+      "message": "Your invitation from \u003Cb>{fromDisplayName}\u003C/b> to play \u003Cb>{gameTitle}\u003C/b> as a guest has expired."
+   },
+   "nvb_r_remote_user_response_timeoutnodisplayname": {
+      "message": "Your invitation from your friend to play \u003Cb>{gameTitle}\u003C/b> as a guest has expired"
+   },
+   "nvb_r_server_out_of_service": {
+      "message": "Cannot connect with your friend to play \u003Cb>{gameTitle}\u003C/b> as a guest. Error #47430004 has occurred."
+   },
+   "nvb_r_server_upgrade_required": {
+      "message": "Your friend, \u003Cb>{fromDisplayName}\u003C/b>, needs to get the latest version of GeForce Experience so you can connect and play as a guest."
+   },
+   "nvb_r_session_no_longer_active": {
+      "message": "\u003Cb>{fromDisplayName}\u003C/b> stopped sharing \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_session_no_longer_activenodisplayname": {
+      "message": "Your friend stopped sharing \u003Cb>{gameTitle}\u003C/b>."
+   },
+   "nvb_r_session_request_rejected": {
+      "message": "Your invitation from \u003Cb>{fromDisplayName}\u003C/b> to play \u003Cb>{gameTitle}\u003C/b> as a guest was cancelled."
+   },
+   "nvb_r_session_request_rejectednodisplayname": {
+      "message": "Your invitation from your friend to play \u003Cb>{gameTitle}\u003C/b> as a guest was cancelled."
+   },
+   "nvb_r_streamer_connect_failed": {
+      "message": "Cannot connect with your friend to play \u003Cb>{gameTitle}\u003C/b> as a guest. Error #{hexcode} has occurred"
+   },
+   "nvb_r_streamer_network_error": {
+      "message": "Network communication error #{hexcode} has occurred."
+   },
+   "nvb_r_unknown": {
+      "message": "Cannot connect with \u003Cb>{fromDisplayName}\u003C/b> to play \u003Cb>{gameTitle}\u003C/b> as a guest. Error #47430218 has occurred."
+   },
+   "nvb_r_unknownnodisplayname": {
+      "message": "Cannot connect with your friend to play \u003Cb>{gameTitle}\u003C/b> as a guest. Error #47430218 has occurred."
+   },
+   "open_share": {
+      "message": "Open Share"
+   },
+   "packet_loss": {
+      "message": "Packet loss:"
+   },
+   "playing": {
+      "message": "You are playing \u003Cb>{gameTitle}\u003C/b> with \u003Cb>{fromDisplayName}\u003C/b>."
+   },
+   "playingNoDisplayName": {
+      "message": "You are playing \u003Cb>{gameTitle}\u003C/b> with your friend."
+   },
+   "privacy_policy": {
+      "message": "Privacy Policy"
+   },
+   "rate": {
+      "message": "Rate your experience using Stream:"
+   },
+   "read_software_lic_agreement": {
+      "message": "Please read the following NVIDIA software license agreement carefully."
+   },
+   "reconnect": {
+      "message": "Attempting to reconnect..."
+   },
+   "send": {
+      "message": "Send"
+   },
+   "send_feedback": {
+      "message": "Send feedback"
+   },
+   "shortcuts": {
+      "message": "Keyboard shortcuts"
+   },
+   "skip": {
+      "message": "Skip"
+   },
+   "software_lic_agreement": {
+      "message": "NVIDIA software license agreement"
+   },
+   "statistics": {
+      "message": "Statistics"
+   },
+   "stopTitle": {
+      "message": "Your session has ended."
+   },
+   "stopping": {
+      "message": "Stopping your session..."
+   },
+   "stream": {
+      "message": "Stream"
+   },
+   "streaming_health": {
+      "message": "Streaming health:"
+   },
+   "swiftshader_not_supported": {
+      "message": "A GPU-accelerated OpenGL renderer is required to connect and play as guest."
+   },
+   "system_ready": {
+      "message": "Your system is ready!"
+   },
+   "title": {
+      "message": "Preparing your session..."
+   },
+   "toggle_fullscreen": {
+      "message": "Toggle full-screen/windowed"
+   },
+   "toggle_microphone": {
+      "message": "Mute/unmute microphone"
+   },
+   "toggle_stats": {
+      "message": "Show/hide statistics"
+   },
+   "troubleshooting_guide": {
+      "message": "View Troubleshooting Guide"
+   },
+   "unhandled_error": {
+      "message": "Error #47439999 has occurred."
+   },
+   "version": {
+      "message": "Version $details$",
+      "placeholders": {
+         "details": {
+            "content": "$1",
+            "example": "2015.xxx.yyyy.1"
+         }
+      }
+   },
+   "watch_game": {
+      "message": "Watch game"
+   },
+   "webgl_init_failed": {
+      "message": "Failed to initialize WebGL."
+   }
+}
